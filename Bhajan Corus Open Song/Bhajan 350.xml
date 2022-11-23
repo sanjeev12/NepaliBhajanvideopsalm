@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan350 Man Mero Linuhos Yeshu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः मन मेरो लिनुहवस् येशू, तपाईंले यसलाई बनाउनुभो
+            <br/>
+            यसमा तपाईं आफ्नो घर बनाउनोस् जसको लागि यो बनाउनुभो । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. दुनियाँको सब कुरा निकाल्नोस्, यसलाई शुद्ध पवित्र गर्नुहोस्
+            <br/>
+            अशुद्ध मैलो पापलाई धोईकन त्यो रगतले जो बहाउनुभो । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. जब पढ्दछु पवित्र वचन जसको बाटो छ सच्चाइको
+            <br/>
+            बाटो सत्य जीवन देखाइकन विश्वास अनि आशा बढाउनुभो । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. धेरै साल तपाईंदेखि थिएँ दूर लापरवाहीले नै गरे दूर
+            <br/>
+            अनुग्रह, प्रेम, दयाको वरदानले धीरज धरी मलाई देखाउनुभो । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. आत्मा शुद्ध होस् धोईकन पवित्र आत्माको बप्तिस्माले
+            <br/>
+            हर समय, हर जग्गा साक्षी दिऊँ, जस्तो तपाईंले नै सिकाउनुभो ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

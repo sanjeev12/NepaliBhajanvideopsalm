@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bal Chorus1 Sanibarko Bihan</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            शनिबारको बिहान साथीसङ्गी आए
+            <br/>
+            खेल्न डुल्न जाऔँ भनी तात्र मलाई लागे,
+            <br/>
+            जात्रँ जात्रँ खेल्न डुल्न, जान्छु सन्डे स्कूलमा (२)
+            <br/>
+            येशूले बोलाएका आवाज सुत्र (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

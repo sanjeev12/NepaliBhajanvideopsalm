@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan425 Sworgya Desaima Cha</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. स्वर्गीय देशैमा छ निषेध पापीलाई
+            <br/>
+            कहिल्यै हुँदैन नष्ट र कष्ट पवित्र मानिसलाई । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. म आउँछु तारणहार क्रूसैमा राख्छु भार
+            <br/>
+            रगत बहाई, शुद्ध बनाई मलाई, बचाउनुहोस् आत्मालाई । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. साथ राख्नोस् ख्रीष्ट मलाई, सदासर्वदा नै
+            <br/>
+            ज्योति र शक्ति, जीवन र मुक्ति भरदिनोस् ख्रीष्ट मलाई । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. बनाउनुहोस् मलाई पवित्र तपाईंझैँ
+            <br/>
+            उज्जर र स्वच्छ बन्न पाऊँ सदा, स्वर्गीय देशैमा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

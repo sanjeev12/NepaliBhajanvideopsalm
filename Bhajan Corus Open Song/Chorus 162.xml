@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus162 Udekko Prem Cha Yeshuko</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            उदेकको प्रेम छ येशूको, उदेकको प्रेम छ येशूको
+            <br/>
+            उदेकको प्रेम छ येशूको, अति उदेकको प्रेम 
+            <br/>
+             अग्लो छ पुग्न सक्दिनँ, गहिरो, छ, डुब्न सक्दिनँ
+            <br/>
+            चौडा छ नाप्न सक्दिनँ, अति उदेकको प्रेम ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

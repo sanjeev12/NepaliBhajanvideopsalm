@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus260 Tapai Dhanya</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>कोः तपाईं धन्य (३) (तपाईं धन्य) २ </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. आकाशमा उड़्ने पंक्षी तपाईंले बनाउनुभो
+            <br/>
+            जमीनमा हिँड़्ने मानिस तपाईंले रच्नुभो । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. पानीमुनि बस्ने प्राणी तपाईंले बनाउनुभो
+            <br/>
+            प्रकृतिको सुन्दर हिमाल तपाईंले राख्नुभो ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

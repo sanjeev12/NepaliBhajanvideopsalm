@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan68 Raja Yeshu Aaye</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः राजा येशू आए हल्लेलूयाह आए (२)
+            <br/>
+            शैतानलाई जित्नका लागि राजा येशू आए (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. पापको क्षमा पाई हुन्छु म आनन्दित (२)
+            <br/>
+            मनलाई शुद्ध पार्नलाई राजा येशू आए (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. यस संसारमा पाप र दुःख हुन्छन् धेरैधेरै (२)
+            <br/>
+            सत्य शान्ति दिनलाई राजा येशू आए (२) 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. येशू महाराजा, महाप्रभु येशू (२)
+            <br/>
+            हल्लेलूयाह सबले भन राजा येशू आए (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

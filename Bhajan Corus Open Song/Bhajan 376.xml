@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan376 Yeshuko Pachi Ma Hidna</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>१. येशूको पछि म हिँड्न लागेँ दुनियाँलाई त्यागी क्रूस नै बोकी । </lines>
+      </verse>
+      <verse name="c1">
+         <lines> कोः येशूको पछि म हिँड्न लागेँ (फर्कंदिनँ) २ </lines>
+      </verse>
+      <verse name="v2">
+         <lines> २. आमाले मलाई, बुबाले मलाई, सबैले मलाई त्यागे तापनि । </lines>
+      </verse>
+      <verse name="v3">
+         <lines> ३. माटोको मेरो क्षणभङगुर शरीर माटैमा फेरि नमिलेसम्म ।</lines>
+      </verse>
+   </lyrics>
+</song>

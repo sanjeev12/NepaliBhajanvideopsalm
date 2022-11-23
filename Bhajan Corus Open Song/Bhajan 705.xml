@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan705 Halleluya Hosanna Gauchau</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः हल्लेलूयाह होसत्रा गाउँछौँ, ख्रीष्टको जन्ममा
+            <br/>
+            सुन, धूप, गन्धरसको साटो, महिमा दिन्छौँ मनबाट । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. अति अचम्मको प्यार, गर्न मानिसको उद्धार
+            <br/>
+            येशू आए यो संसार, अति अचम्मको प्यार । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. कति उदेकको ईश्वर, मानिस बने सृजनहार
+            <br/>
+            गर्न तिम्रो, मेरो त्राण, ख्रीष्टले दिए क्रूसमा प्राण । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. पुनःरुत्थानको प्रभु, मेरो जीवन चढाउँछु
+            <br/>
+            बडा दिनको उपहार, गाउँछु ख्रीष्टको जय जयकार ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

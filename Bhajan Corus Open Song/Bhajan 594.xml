@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan594 Ajako Sajha</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः आजको साँझ, आजको साँझ प्रभु येशू जन्मे
+            <br/>
+            धर्ती हल्ल्यो, यो सुसन्देश लिई हामी आयौं 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. थिएन कोही संसारमा आज मुक्ति दिने पापीलाई (२)
+            <br/>
+            आज जन्मे जीवनदाता मुक्ति दिन हामीलाई (२)
+            <br/>
+            त्यसैले ग्रहण गर उहाँको सुसन्देश । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. महल होइन, गोठैमा जन्मे, कोक्रो होइन, डुँडैमा सुते (२)
+            <br/>
+            सुख होइन, दुःख नै सहे, खुसी होइन कष्ट नै रोजे, बालक सत्कार (२)
+            <br/>
+            त्यसैले आऊ, सुन उहाँको सुसन्देश ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

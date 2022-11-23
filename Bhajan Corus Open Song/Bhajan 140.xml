@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan140 Aghi Badha Khristhya</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः अघि बढ, ख्रीष्टीय जवान हो
+            <br/>
+            समयलाई नपर्ख भाइ हो (हाम्रा दुलहा आउँदै छन्) २ 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. अन्तिम चिन्ह देखिंदै छ, भविष्यवाणी पूरा हुँदै छ, (२)
+            <br/>
+            सांसारिक जीवनलाई त्यागी आऊ प्रभुमा नयाँ भई (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. जीवन प्रभुमा अर्पण गरी सम्पूर्ण वचन पालन गरी (२)
+            <br/>
+            प्रभुको त्यो क्रूस उठाई अघि बढ उनमा भई (२) 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. जयवन्त जीवन बिताउँदै जाऊ प्रभुको काममा व्यस्त भई
+            <br/>
+            उनमा सदा आशा राख्दै बढ अझ थकित नभई । (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

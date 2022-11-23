@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus11 Ho Ho Ho Prabhu Kati Premi</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            हो (३) प्रभु कति प्रेमी छन् (३)
+            <br/>
+            म कहिल्यै उनको प्रेमलाई भुल्न सक्तिनँ (२) 
+            <br/>
+             ईश्वरले संसारलाई प्रेम गर्नुभो (३)
+            <br/>
+            म कहिल्यै उनको प्रेमलाई भुल्न सक्तिनँ (२) 
+            <br/>
+             तुच्छ म पापीलाई प्रेम गर्नुभो (३)
+            <br/>
+            म कहिल्यै उनको प्रेमलाई भुल्न सक्तिनँ (२) 
+            <br/>
+             पवित्र आत्माले भरिदिनुभो (३)
+            <br/>
+            म कहिल्यै उनको प्रेमलाई भुल्न सक्तिनँ (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

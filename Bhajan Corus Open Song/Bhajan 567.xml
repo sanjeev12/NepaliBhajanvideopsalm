@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan567 Himali Hawaile Yo Sundar</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः हिमाली हावैले यो सुन्दर देशमा सुसन्देश ल्याउँदछ (२)
+            <br/>
+            यो सन्देश सुनेर मनैमा गुने जीवन पाउँदछ
+            <br/>
+            हिमाली हावैले यो सुन्दर देशमा सुसन्देश ल्याउँदछ,
+            <br/>
+            हिमाली हावैले ... 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. आजको रीति धर्म र कर्म बुझ्दैन यो मर्म (२)
+            <br/>
+            दुःखको देशमा नहुने भाग्य पापको यो शर्म नि दाजै पापको यो शर्म
+            <br/>
+            हिमाली हावैले यो सुन्दर देशमा सुसन्देश ल्याउँदछ । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. जीवनको सन्देश आजको बाटो लेऊ येशू प्रभुमा (२)
+            <br/>
+            त्यागेर संसार शान्तिको जीवन जिउनुछ उनैमा, नि लै लै जिउनुछ उनैमा
+            <br/>
+            हिमाली हावैले यो सुन्दर देशमा सुसन्देश ल्याउँदछ । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. येशूको वाणी जीवनको पानी सित्तैमा पिउनुछ (२)
+            <br/>
+            विश्वास गरी सत्यले भरी अनन्त जिउनुछ, नि लै लै अनन्त जिउनुछ ।
+            <br/>
+            हिमाली हावैले यो सुन्दर देशमा सुसन्देश ल्याउँदछ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

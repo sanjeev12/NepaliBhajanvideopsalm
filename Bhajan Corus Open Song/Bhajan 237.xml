@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan237 Lau Suna Sathi</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः लौ सुन साथी, सत्यको वाणी, यो तिम्रै लागि हो,
+            <br/>
+            गरीब धनी सबैको लागि, जीवनको पानी हो ।
+            <br/>
+            ईश्वरको पुत्र आएथे धरती, कोहीले चिनेन
+            <br/>
+            पापीलाई मुक्ति दान दिन मरे, यो कुरा बुझ लौ । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. माया र मोह बाँचुन्जेलसम्म, संसारमा दुई दिनको,
+            <br/>
+            धर्म र कर्म, सबै व्यर्थ छन्, यो तिमी बुझ लौ,
+            <br/>
+            शिरमा मुकुट काँडाको लाई, झुण्डिए क्रूसमा
+            <br/>
+            पापीलाई मुक्ति दान दिन मरे, यो कुरा बुझ लौ । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. बाँच्नलाई मान्छे सधैँ नै खोज्छ, जीवनको सहारा
+            <br/>
+            पापको वशमा डुबेको मान्छे, एउटै छ किनारा,
+            <br/>
+            बाटो र सत्य, जीवन छ है, ख्रीष्ट येशू प्रभुमा
+            <br/>
+            विश्वास गरी, हे मेरा साथी, जीवन लेऊ उनैमा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

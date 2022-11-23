@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan254 Prabhu Daya Aba</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 v5 v6 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. प्रभु दया अब मागी चरण हामी पर्दछौं
+            <br/>
+            आफ्ना पापका कायल भई लिँदछौं तपाईंको नाउँ । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. पापी सोच निष्प्रेमी कुरा हाम्रो विरुद्ध छन् गवाह
+            <br/>
+            अयोग्य कर्म निश्चित सेवा पर्ने काम नगरेका । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. प्रार्थना गर्दा पनि हृदय तपाईंदेखि भो टाढा
+            <br/>
+            मान मनितो गर्दा ओठले गरे वचन कपटका । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. अमोल बेला ब्यर्थै काट्यौं अमोल घडी नाहकमा
+            <br/>
+            करार र युद्ध बिर्सी टारी बुद्धिका सल्लाह । 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. प्रभु दया फेरि मागी पश्चात्तापी छौं लजाई
+            <br/>
+            लाभ समयको अब गरी जिउँछौं तपाईंको भई । 
+         </lines>
+      </verse>
+      <verse name="v6">
+         <lines>
+             ६. स्वर्गे पिता आशिष दिनोस् उँभोबाट कान लगाई
+            <br/>
+            प्रेमी त्राणी पवित्र आत्मा सुन हाम्रो दीन दुहाई ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

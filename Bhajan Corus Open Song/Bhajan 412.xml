@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan412 Aghi Badha Khristya Yatna</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. अघि बढ ख्रीष्टीय यत्न, बचाऊ एकै साथीलाई
+            <br/>
+            लैजाऊ उसलाई येशूकहाँ छिटो नै बाटो देखाई । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः अघि बढ ख्रीष्टीय यत्न, सत्य र धर्मलाई बढाऊ
+            <br/>
+            अन्धकारमा बस्ने सबलाई निकाली ज्योतिमा ल्याऊ । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. अघि बढ ख्रीष्टीय यत्न किन ढिलो गर्दछौ ?
+            <br/>
+            ईश्वरको दया नबुझ्ने साथीलाई भनिदिन्छौं । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. अघि बढ ख्रीष्टीय यत्न, जिउँदो रोटी बाँड्नलाई
+            <br/>
+            येशूकहाँ सबैलाई ल्याऊ मुक्ति दिन्छन् सबैलाई । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. अघि बढ ख्रीष्टीय यत्न, बनाऊ आनन्दित सबलाई
+            <br/>
+            अघि बढ स्वर्गतिर गीतले दुःख बिर्साउँदै ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan170 Prabhuko Stuti Garau Hamile</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>कोः प्रभुको स्तुति गरौं हामीले, प्रभुको स्तुति गरौं । </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. प्रभुको बढाइ सधैँ होइरहोस्, उनको स्तुति गरौं,
+            <br/>
+            उनको स्तुति गरौं हल्लेलूयाह, उनको स्तुति गरौं । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. प्रभुको घरमा भजन होइरहोस्, उनको स्तुति–बढाइँ,
+            <br/>
+            उनको स्तुति–बढाइँ हल्लेलूयाह, उनको स्तुति–बढाइँ । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. सबै काममा कत्ति शक्तिमान, उनको शक्ति बताऊ
+            <br/>
+            उनको शक्ति बताऊ हल्लेलूयाह, उनको शक्ति बताऊ । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. जयको जोडमा फुक तुरही, विणा सारङ्गी बजाऊ
+            <br/>
+            विणा सारङ्गी बजाऊ हल्लेलूयाह, विणा सारङ्गी बजाऊ । 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. सितार बजाई रागिनी छेड, डम्फु र तबला बजाऊ
+            <br/>
+            डम्फु र तबला बजाऊ हल्लेलूयाह, डम्फु र तबला बजाऊ । 
+         </lines>
+      </verse>
+      <verse name="v6">
+         <lines>
+             ६. मुरली, सनाई राम्रो बजाऊ, छिङछिङ झयाली बजाऊ
+            <br/>
+            छिङछिङ झयाली बजाऊ हल्लेलूयाह, छिङछिङ झयाली बजाऊ । 
+         </lines>
+      </verse>
+      <verse name="v7">
+         <lines>
+             ७. सबै मिली ताली बजाऊ, प्रभुको स्तुति गरौं
+            <br/>
+            प्रभुको स्तुति गरौं हल्लेलूयाह, प्रभुको स्तुति गरौं ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

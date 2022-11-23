@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan367 Gothalo Mero Hun Prabhu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 v5 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. गोठालो मेरो हुन् प्रभु न घटी छ मलाई
+            <br/>
+            हरियो घाँसको चउरमा चराउँदछन् मलाई । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. उनले सुख चैनको पानीमा डोर्याउँदछन् मलाई
+            <br/>
+            र पार्छन् पुनर्जीवित प्राण धर्म मार्गमा हिंडाई । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. जब हिँड्छु मृत्युको छायाँमा न डर न छ फिक्री
+            <br/>
+            लौरो र लठ्ठीले उनका दिन्छन् मलाई शान्ति । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. भोज तयार गर्दछन् उनले शत्रुको सामनेमा
+            <br/>
+            तेल मेरो शिरमा मल्दछन् पोखिन्छ कचौरा । 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. मपछि लाग्छ जीवनभर भलाई र करुणा
+            <br/>
+            र परमेश्वरको घरैमा म रहनेछु सदा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

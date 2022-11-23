@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan58 Chalis Dinko Bhoka</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. चालीस दिनका भोका देखी शैतान आई प्रभु छेउ
+            <br/>
+            भन्न लाग्यो, “यी ढुङ्गालाई रोटी बनाई खाँदै जाऊ” ।
+            <br/>
+            दुष्ट शैतानको वचन सुनी उत्तर दिए प्रभुले
+            <br/>
+            “रोटीले मात्र बाँच्नेछैनौं, बचाइन्छौं वचनले ।” 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. एउटा अल्गो ठाउँमा पुर्‌याई भन्न लाग्यो, राज्य देखाई
+            <br/>
+            “एकै पल्ट प्रणाम गरे दिनेछु म तिमीलाई ।”
+            <br/>
+            “दुष्ट शैतान, लेखेको छ, तैंले आफ्ना ईश्वरलाई 
+            <br/>
+            प्रणाम गर्नू, सेवा गर्नू, गर्नू स्तुति उनैको ।” 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. गजुरमाथि चढाईकन भन्न लाग्यो शैतानले
+            <br/>
+            “ख्रीष्ट हौ भने हाम फाल आई समाउँछन् दूतले ।”
+            <br/>
+            उत्तर दिए, “दुष्ट शैतान, परीक्षा नगर ईश्वरलाई
+            <br/>
+            लज्जित भई भागिगयो एक्लै छाडी प्रभुलाई ।”
+         </lines>
+      </verse>
+   </lyrics>
+</song>

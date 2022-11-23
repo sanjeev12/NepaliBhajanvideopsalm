@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan494 Sunnuhos Chimeki Hamro Yo</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>कोः सुन्नुहोस् छिमेकी हाम्रो यो दुनियाँमा को होला सुन न (२) </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. एक प्रौढ यात्री यरूशलेमदेखि जाँदैथ्यो यरिहो
+            <br/>
+            जाँदा है जाँदा बाटोमा परे हातमा डाँकुको । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. अध्मरो पारी लुटपाट पारी जङ्गलमा फ्याँकियो
+            <br/>
+            आपद्मा पर्दा कोही थिएन त्यसको सुसारे गोहार । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. त्यो बाटो एउटा पुजारी गयो हेरेर घबरायो
+            <br/>
+            म हुँ पुजारी कदापि छुन्नँ सम्झेर डरायो । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. पुजारी गयो, तब लेवी आयो त्यो बाटो भएर
+            <br/>
+            डरले आँखा तर्काई उसै सहरमा भागिगो । 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. अन्तैमा सामरी जातैको तुच्छ आएर टिठायो
+            <br/>
+            मलम पट्टी घाउँमा बाँधी गधामा चढायो । 
+         </lines>
+      </verse>
+      <verse name="v6">
+         <lines>
+             ६. सरायमा लगे, स्यार सुसार गरे, खटाए सियारे
+            <br/>
+            छिमेकी को हुन् भनन त्यसको कष्टमा गोहारे । 
+         </lines>
+      </verse>
+      <verse name="v7">
+         <lines>
+             ७. येशू हुन् हाम्रा सदैव छिमेकी कष्टमा स्याहार्ने
+            <br/>
+            पापको घाउमा औषधि बाँधी स्वर्गीय, पुर्याउने ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

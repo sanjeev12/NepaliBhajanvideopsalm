@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus316 Mera Sathi Mera Sallahakar</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>१. मेरा साथी, मेरा सल्लाहकार प्रभु तपाईं (२) </lines>
+      </verse>
+      <verse name="c1">
+         <lines> कोः हात उचालेर भत्रेछौँ २ प्रशंसाको गीत गाउनेछौँ </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. मेरा रक्षक, मेरो लक्ष प्रभु तपाईं (२)
+            <br/>
+            हृदय सब खोलेर भत्रेछौँ प्रशंसाको गीत गाउनेछौँ । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines> ३. मेरा आशा, मेरा विश्वास प्रभु तपाईं (२)</lines>
+      </verse>
+   </lyrics>
+</song>

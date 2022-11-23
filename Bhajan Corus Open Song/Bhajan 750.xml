@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan750 Sansarko Prankarta Khali Euta Ho</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. संसारको प्राणकर्ता खालि एउटा हो
+            <br/>
+            येशू ख्रीष्ट पवित्र पुत्र, थुमा ईश्वरको । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः धन्यवाद हे पिता कि पुत्र दिनुभो
+            <br/>
+            साथै पवित्र आत्मा हामीमा खन्याउनुभो । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. येशू मुक्तिदाता सर्वश्रेष्ठ नाम
+            <br/>
+            पाप उठाई लैजाने थुमा हाम्रो लागि दिए प्राण । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. स्वर्गमा पुगी हेर्छौं येशूको मुहार
+            <br/>
+            मेरो राजाको म सेवा गर्छु लगातार ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

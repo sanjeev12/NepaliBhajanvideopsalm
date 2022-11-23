@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus322 Ghosana Garchu Udharko</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. घोषणा गर्छु उद्धारको, घोषणा गर्छु प्रेमको
+            <br/>
+            घोषणा गर्छु चङ्गाइको, घोषणा गर्छु शान्तिको ।
+            <br/>
+            यस संसारमा । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. प्रभु येशूको मृत्युद्वारा, प्रभु येशूको बौरिउठाइमा
+            <br/>
+            घोषणा गर्छु उद्धारको, घोषणा गर्छु प्रेमको ।
+            <br/>
+            यस संसारमा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

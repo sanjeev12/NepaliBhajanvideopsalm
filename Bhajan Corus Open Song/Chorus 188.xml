@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus188 Prabhu Timro Nimti</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            प्रभु, तिम्रो निम्ति म गीत गाउँछु
+            <br/>
+            सारा उत्तम प्रयासले म गीत गाउँछु
+            <br/>
+            तिमी छौ मेरो छेउ, तिमी छौ मेरो साथ
+            <br/>
+            मेरो गीतले प्रभु तिमीलाई उचाल्छु (२) 
+            <br/>
+             (यी मेरा शब्द शब्दमा, सारा उच्चारणहरूमा
+            <br/>
+            आवाज भएका सङ्गीतहरूमा) २ 
+            <br/>
+             जीवन भएर तिमी मभित्र छौ
+            <br/>
+            जिउने कारण बत्र सिकाएको छौ
+            <br/>
+            तिमी छौ मेरा छेउ, तिमी छौ मेरो साथ
+            <br/>
+            मेरो गीतले प्रभु, तिमीलाई उचाल्छु ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

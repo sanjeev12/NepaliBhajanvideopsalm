@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan28 Sano Doodma Hera</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. सानो डूँडमा हेर भाइ, येशू जन्मे हामीलाई
+            <br/>
+            हेर नम्र बाल औतार तादिको करार अन्सार । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः धन्य सुखको दिन आयो धन्य हाम्रो मुक्ति भो
+            <br/>
+            गाऊ संसारका सबै सृष्टि बेथलेहेममा जन्मे ख्रीष्ट ।। 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. जसको ठाउँ र सिंहासन करूवीमका बीचमा छन्
+            <br/>
+            जसले सृजे सबै सृष्ट, अहिले डुँडमा प्रभु ख्रीष्ट । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. गोठाला कुरी बस्दा देखे ज्योति रातैमा
+            <br/>
+            भने दूतले होस् मिलाप जन्मे ख्रीष्ट मेटाउने पाप । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. प्रिय पुत्र ईश्वरको, प्रेम तपाईंंको कत्रो भो
+            <br/>
+            छोडी स्वर्गीय आनन्द सुख, सहनुभो संसारको दुःख ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

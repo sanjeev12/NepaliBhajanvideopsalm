@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan526 Yeshu Khristako Jiwan Angali</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>कोः (ला ला ला ला लैबरी) २ लै लै लै (हो हो) </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. येशू ख्रीष्टको जीवन अँगाली शान्ति, सुरक्षा, प्रेमको कहानी (२)
+            <br/>
+            अब जाऊ सुनाउँदै (४) गाउँ सहर (२) वरिपरि हो हो,
+            <br/>
+            गाउँ   सहरवरिपरि । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. जिउँदो परमेश्वरको प्रेम कहानी, मुक्ति अनन्त जीवनको खबरी (२)
+            <br/>
+            अब जाऊँ सुनाउँदै (४) मेचीदेखि (२) महाकाली,
+            <br/>
+            हो हो मेचीदेखि महाकाली । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. पवित्र आत्माको अलौकिक शक्ति छुटकारा स्वतन्त्रताको लहरी (२)
+            <br/>
+            अब जाऊँ सुनाउँदै (४) नेपालदेखि (२) संसारभरि,
+            <br/>
+            हो हो नेपालदेखि संसारभरि, हो हो, गाउँ सहरवरिपरि
+            <br/>
+            हो हो मेचीदेखि महाकाली, हो हो नेपालदेखि संसारभरि ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

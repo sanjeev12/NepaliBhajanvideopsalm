@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan420 Isworko Manche Utha</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. ईश्वरको मान्छे उठ, छोड अयोग्य कर्मलाई
+            <br/>
+            हृदय, मन, आत्मा, सामर्थ देऊ ख्रीष्ट येशू राजालाई । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. ईश्वरको मान्छे उठ, राज्य आउँदै छ ढिलो
+            <br/>
+            संगतको दिन अब छिटो ल्याऊ, हटाऊ रात पापैको । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. ईश्वरको मान्छे उठ मण्डली पर्खंदछ
+            <br/>
+            त्यो काम निमित्त नसक्ने हो उसलाई प्रसिद्ध बनाऊ । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. येशूको क्रूस उठाऊ हिँड बाटो उनैको
+            <br/>
+            मान्छेको पुत्र दाज्यूसंग उठ मान्छे ईश्वरको ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

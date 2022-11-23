@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan611 Kahasamma Jane Yatri Ho</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः कहाँसम्म जाने यात्री हो, मुक्तिको बाटो खोजेर (२) दुइ बाटो बनिएको छ (२)
+            <br/>
+            एकटा बाटो फराकिलो छ, बालामसम्म पुग्ने अर्को बाटो यस्तो पनि छ,
+            <br/>
+            ख्रीष्ट येशूमा पुग्ने (कहाँ जाने हो कता जाने हो निर्णय गर) २ 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. मृत्युको डरले आजीवन भरी दासत्वमा फँसेकाहरूलाई
+            <br/>
+            डाँडाकाँडा देउराली भन्ज्याङ्ग वर पिपलमा अल्झेकाहरूलाई
+            <br/>
+            आकाश छिचोलेर जाने येशूले (२) छुटकारा तिमीलाई दिनेछन् । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. विरहमा जल्ने मानवलाई हरपल सताउने गर्दछ
+            <br/>
+            धरतीलोकमा विन्ती सुन्ने एक उद्धारकर्ता छ
+            <br/>
+            स्वर्गीयलोकमा उनको राज्य छ (२) येशूमा मात्र प्रवेश छ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

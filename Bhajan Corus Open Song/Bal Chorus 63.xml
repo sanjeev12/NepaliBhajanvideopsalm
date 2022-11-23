@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bal Chorus63 Malai Baibal Manparcha</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः (मलाई बाइबल मनपर्छ, परमेश्वरको वचन हो
+            <br/>
+            मजस्तै मानिस र येशूले गरेका कामको वर्णन हो) २ 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. (उत्पत्तिमा पाउँछौँ हाम्रो सृष्टि, प्रस्थानमा छुटकारा
+            <br/>
+            लेवीमा आए पूजाहारीहरू, गन्तीमा वीर योद्धा) २
+            <br/>
+            एस्तरले बचाइन् यहूदीहरू, रुथले नाओमीलाई
+            <br/>
+            सानो शमूएल प्रतापी, दाऊद, एज्रा र नहेम्याह । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. न्यायकर्ता राजा, इतिहास सबैले मिलेर
+            <br/>
+            गर्छन् है महान् परमेश्वरको ठूलो नै बयान
+            <br/>
+            सुसमाचार, प्रेरितका काम, पत्रहरू, प्रकाश पुस्तक
+            <br/>
+            आउनुहुने फेरि येशू स्वर्ग  राजाको पूर्णता ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

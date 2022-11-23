@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan697 Prabhu Ma Tapaiko Charanma</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः प्रभु म तपाईंको चरणमा, आउँदछु भारी व्यथा बोकी,
+            <br/>
+            झुकाउँछु कमजोर यस शिरलाई, पश्चात्तापी मनको आँसु पोखी । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. हिँड्न सकिनँ, गाह्रो भयो, उत्साह जाँगर हटेर गयो,
+            <br/>
+            मन यो चञ्चल, छैन स्थिर, बग्न थालेकाछन् व्यथा, पिर ।
+            <br/>
+            प्रार्थना गर्छु तपाईं प्रभुमा, डोर्याउनोस् प्रभु कदम कदममा । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. सिकाउनोस् प्रभु, हिँड्न वचनमा, भरोसा गर्न, तपाईं प्रभुमा,
+            <br/>
+            कमजोर देह यो सामथ्र्य छैन, तपाईं विना म हिँड्न सक्दिन ।
+            <br/>
+            प्रार्थना गर्छु तपाईं प्रभुमा, डोर्याउनोस् प्रभु कदम कदममा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

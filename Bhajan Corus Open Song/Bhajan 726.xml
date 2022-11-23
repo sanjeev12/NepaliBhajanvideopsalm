@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan726 Premle Garda Kalbarima</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः प्रेमले गर्दा कलवरीमा, दुई चोरको माझमा
+            <br/>
+            मेरो निम्ति प्राण दिए, बहाइ रगत क्रूर क्रूसमा (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. सुनको जडले पैसा पोखी भएन मुक्ति मेरो
+            <br/>
+            मुक्ति मेरो स्वर्गीय पाठो ख्रीष्टको रगतद्वारा भो (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. पापका मैला काला दागलाई धुँदैन चीजले कुनै,
+            <br/>
+            केबल रगतले धुन्छ सबलाई पार्दछ श्वेत हिउँझैँ (२) 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. हिउँझैँ वस्त्र पहिरेका सन्तगण स्वर्गमा छन्,
+            <br/>
+            बलि हुने प्रेमी ख्रीष्टलाई युग युग स्तुति गर्छन् (२) 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. उनी आफै पाप बने, पापबाट छुटाउनलाई
+            <br/>
+            मृत्यु जिती बौरिउठे विजयी बनाउनलाई (२) ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

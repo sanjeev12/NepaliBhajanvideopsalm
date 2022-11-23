@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan289 Hau Shanta Hey Praan</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. हौ शान्त हे प्राण, तँतिर प्रभु छन्
+            <br/>
+            दुःख शोकको आफ्नो क्रूससँग धीरज बोक
+            <br/>
+            सब बन्दोबस्त ईश्वरलाई छोडी जा
+            <br/>
+            सब गतमा हुन्छन् उनी पत्याउन योग्य
+            <br/>
+            हौ शान्त हे प्राण छान् तेरो स्वर्गीय नाथ
+            <br/>
+            सुख धाममा लिई हिंडाउने काँढे मार्ग । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. हौ शान्त हे प्राण, ईश्वरको छ स्वीकार
+            <br/>
+            गुहार आउनेछ गए दिनमा झैँ
+            <br/>
+            तेरो आशा भरोसा नडगमगाओस
+            <br/>
+            मेरो रहस्य प्रकट हुनेछ ।
+            <br/>
+            हौ शान्त हे प्राण, छन् मान्ने छाल बतास
+            <br/>
+            उनलाई जसबाट तैंले गर्छस् आश ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

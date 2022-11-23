@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan719 Paramprabhuka Sworgiya Ichhya</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः परमप्रभुका स्वर्गीय इच्छा, पूरा गर्ने उनका सेवक हो
+            <br/>
+            परमप्रभुलाई धन्य भन, परमप्रभुलाई धन्य भन । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. अनुग्रहमा तिमीलाई चुनेर, आफ्नो साथमा सहकर्मी बनाए
+            <br/>
+            नयाँ करारको सेवक बनाई मण्डली निर्माणको सेवा दिए २
+         </lines>
+      </verse>
+   </lyrics>
+</song>

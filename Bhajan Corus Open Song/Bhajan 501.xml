@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan501 Sihasanma Birajman Hune</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः सिंहासनमा विराजमान हुने, परमेश्वरको प्रजा हामी
+            <br/>
+            आऊ उनलाई पुजौं भक्ति साथ, कहिल्यै छोड्ने छैनन् हाम्रो हात (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. उहाँको रगतले धोइ पखालेको पवित्र जाति
+            <br/>
+            आदर, प्रशंसा, योग्य परमेश्वरको पुजाहारी हामी २
+            <br/>
+            (सनातनदेखि सनातनसम्म) २ आऊ उनलाई पुजौं... 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. झरि, घाम र छायाँको सामना गरौं आज हामी
+            <br/>
+            सबै नयाँ भएको स्वदेशमा जानेछौं हामी २
+            <br/>
+            (बादल पारिको उहाँको देशमा) २ आऊ उनलाई पुजौं...
+         </lines>
+      </verse>
+   </lyrics>
+</song>

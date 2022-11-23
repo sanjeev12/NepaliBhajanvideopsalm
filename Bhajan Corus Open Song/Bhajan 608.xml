@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan608 Pabitra Aatmako Mandirlai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>कोः पवित्र आत्माको मन्दिरलाई अब यसै हेला नगर (२) </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. तिमीमा भएको शरीर पवित्र आत्माको मन्दिर हो (२)
+            <br/>
+            त्यसैले शरीरमा हुँदै ईश्वरलाई महिमा गरिदेऊ (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. मुक्तिदाता ख्रीष्टको रगतले आज तिमी किनिएका हौ (२)
+            <br/>
+            यो शरीर तिम्रो होइन यो त केवल ईश्वरको मन्दिर हो (२) 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. निराशाको आँधीमा नहिँड अन्धकारले छोपी लैजाला (२)
+            <br/>
+            येशूमा विश्वास गरिदेऊ नत्र जीवन व्यर्थैमा गुमाउला (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

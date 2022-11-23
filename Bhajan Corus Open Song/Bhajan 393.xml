@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan393 Yeshule Dinchan Sworgako Sacho</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः येशूले दिन्छन् स्वर्गको साँचो संसारको दुःख बीचमा स्वर्गीय ल्याइदिने
+            <br/>
+            कलवरी डाँडाको क्रूसलाई हेर त्यसैले खोल्दछ स्वर्गको सानो द्वार । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. कठिनाइ देखी निराश नहोऊ सङ्कष्ट देखेर (२)
+            <br/>
+            ती सबै भिन्न साँचाहरू हुन् स्वर्गीय हर्षको । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. संसारको पछि नजाऊ है तिमी भ्रममा परेर (२)
+            <br/>
+            क्रूस बोकी आऊ येशूले भने सर्वस्व त्यागेर । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. दुःखमा खुसी आँसुमा हाँसो येशूले दिनेछन् (२)
+            <br/>
+            प्रकट हुने भावी आनन्द अवर्णनीय छ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

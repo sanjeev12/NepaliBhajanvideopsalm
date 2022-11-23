@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bal Chorus56 Yi Othale Sada</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            (यी ओठले सदा तपाईंको प्रशंसा गरिरहून्
+            <br/>
+            यी आँखाले सदा तपाईंलाई खोजिरहून् 
+            <br/>
+             मेरा यी दुई हातहरूले तपाईंको प्यारको चाहना गरुन्
+            <br/>
+            मेरो यो हृदयले सदा तपाईंको खातिर सेवा गरोस् । 
+            <br/>
+             परमेश्वरलाई धन्यवाद सदा, मर्नुभो क्रूसैमा मजस्तोले गर्दा
+            <br/>
+            भुल्ने म छैनँ प्रेमको बलिदान, प्रशंसा जयजयकार ईश्वर महान्) २
+         </lines>
+      </verse>
+   </lyrics>
+</song>

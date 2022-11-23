@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan637 Mitho Sapana Liyera</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः मीठो सपना लिएर, नवीन आशा बोकेर (२)
+            <br/>
+            मुक्तिदाता प्रभु येशूको शुभसन्देश लिएर
+            <br/>
+            म बाँचिरहेछु म हाँसिरहेछु (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. म बाँड्न चाहन्छु यी खुशीहरू जो मैले येशूूबाट पाएको छु (२)
+            <br/>
+            म भन्न चाहन्छु यी संसारलाई येशूकै मायामा बाँचेको छु । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. देखाउन सकूँ म यी स्वरुपलाई प्रतिबिम्ब बनाई म आफैलाई (२)
+            <br/>
+            हेर्न सकून् जगतले आज मेरो जीवनमा ख्रीष्ट येशूलाई ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

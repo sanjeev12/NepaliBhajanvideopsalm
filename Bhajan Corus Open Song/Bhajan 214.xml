@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan214 Khola Khola Dhoka</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः खोल खोल ढोका, खोल्दैनौ किन नी
+            <br/>
+            प्रभु आए तिमीलाई मुक्तिदान दिन नी ।
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+            १. पछुताऊ गर, शुद्ध गर आऊ न सबै ढिलो नगर (२)
+            <br/>
+            प्रभु ख्रीष्टले तारिदिन्छन् विश्वास गर पापलाई नगर ।
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+            २. बुद्धिमानी म छु ज्ञानी भन्छन् सबै संसार (२)
+            <br/>
+            शान्ति दिने, मुक्ति दिने भन्छन् प्रभु येशू तारणहार ।
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+            ३. मुक्तिदाता आउनुभयो संसारमा ज्योति बनेर (२)
+            <br/>
+            दाजु भाइ, दिदी बहिनी आऊ न सबै विश्वास गरेर ।
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+            ४. क्रूसमाथि चढ्नुभयो हाम्रो प्रभु येशू विचरा (२)
+            <br/>
+            स्तुति गर्छु चरणमा पर्छु आउँदै छु म पापी अघोर ।
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+            ५. दाजु भाइ, दिदी बहिनी बस्छौ किन शान्त भएर (२)
+            <br/>
+            बेला छैन बितिगयो कति बस्छौ पापै गरेर ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

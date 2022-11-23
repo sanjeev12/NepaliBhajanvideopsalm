@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan303 Hey Iswor Uhileko</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. हे ईश्वर उहिलेको, उद्धार आशा भविष्यको
+            <br/>
+            आँधी बतासमा हाम्रो आड, अनन्त धाम हाम्रो । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. तपाईंको गद्दी छायाँमा हामी निडर बस्छौं
+            <br/>
+            तपाईंको हातमा भरोसा राखी सुरक्षित छौं । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. जगको सृष्टिभन्दा अघि तपार्इं हुनुहुन्छ
+            <br/>
+            परमेश्वर अनादिदेखि अनन्त कालसम्म । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. वर्ष हजार एक क्षणजस्तो तपाईंको दृष्टिमा
+            <br/>
+            बिलाउँछ जस्तै अँध्यारो सूर्यको ज्योतिमा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

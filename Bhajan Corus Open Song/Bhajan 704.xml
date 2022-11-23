@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan704 Dekhcu Lakhau Koti</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः देख्छु लाखौं कोटी मान्छे, नर्कतर्फ फालिएको
+            <br/>
+            सुन्छु म सधैं करुणा चीत्कार (बचाऊ) ३ भनेको २ 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. जाऊ, सुनाइदेऊ सुसमाचार, सित्तैंमा तिमीले पाएको (२)
+            <br/>
+            (थुमा येशू सबैको निम्ति) २, क्रूसमा बलि भएको । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. लोभ, अधर्म, पाप, मृत्युलाई ख्रीष्टले क्रूसमा टाँसिदिए (२)
+            <br/>
+            (मानव मनको मैलो माझ्न) २, अनमोल रगत बगाए । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. जसले हृदयबाट विश्वास गरी ख्रीष्टलाई स्वीकार्छ (२)
+            <br/>
+            (तिनले तत्काल मुक्ति पाउँछन्) २, पवित्र आत्माको छाप लाग्छ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

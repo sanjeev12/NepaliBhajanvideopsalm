@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan112 Hariyo Dada Euta Thiyo</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 v5 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. हरियो डाँडा एउटा थियो बाहिर सहरको
+            <br/>
+            ख्रीष्ट प्रभु मारिए जहाँ बचाउन सबलाई हो । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. सङ्कट, क्लेश भोग्नुभो कस्तो वर्णन छ असाध्ये
+            <br/>
+            विश्वास गर्छौं हामी यस्तो हाम्रै लागि सहे । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. हाम्रो पाप क्षमा दिन दान प्राण आफ्नो दिनुभो
+            <br/>
+            पाओस् सारा जगतले त्राण बचाई रगतले जो । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. छैन अरू कोही तारणहार पाप भार लिने जगको
+            <br/>
+            खोल्छन् उनले मात्रै स्वर्गद्वार प्रवेश निम्ति सबको । 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. प्रेम कति साहरो गरेछन् होऔं उस्तै प्यार गर्ने
+            <br/>
+            उनमा गर विश्वास सबै जन, गरौं काम खुस पार्ने ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

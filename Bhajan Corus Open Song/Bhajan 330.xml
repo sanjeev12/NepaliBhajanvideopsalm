@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan330 Prabhu Timro Stuti Garchu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>कोः प्रभु तिम्रो स्तुति गर्छु तिम्रो महिमा गाउँनेछु (२) </lines>
+      </verse>
+      <verse name="v1">
+         <lines> १. तिम्रो चरणमा हे प्रभु (२) हृदय भेटी चढाउँदै छु (२) </lines>
+      </verse>
+      <verse name="v2">
+         <lines> २. पूरो मनले बिन्ती गर्छु (२) तिम्रो दर्शन म पाऊँ (२) </lines>
+      </verse>
+      <verse name="v3">
+         <lines> ३. येशूको रूप ममा हवोस् (२) उनकै गुण देखाउनलाई (२) </lines>
+      </verse>
+      <verse name="v4">
+         <lines> ४. तिम्रै वचनले हे प्रभु (२)नयाँ जीवन पाउनेछु (२) </lines>
+      </verse>
+      <verse name="v5">
+         <lines> ५. प्रभु शक्ति देऊ मलाई (२) तिम्रो वचन सुनाउनलाई (२)</lines>
+      </verse>
+   </lyrics>
+</song>

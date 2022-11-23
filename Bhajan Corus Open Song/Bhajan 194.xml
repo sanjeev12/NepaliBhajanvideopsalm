@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan194 Ishwor Sworgya Pitale</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 v5 v6 v7 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. ईश्वर स्वर्गीय पिताले प्रेम गरी लोकलाई, एकले छोरो
+            <br/>
+            दिइहाले जीवन दिनलाई, भाइ हो जीवन दिनलाई । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. एकले छोरो नभनी दिए लोकलाई
+            <br/>
+            विश्वास गरी सबैले लेऊन् मुक्तिलाई भाइ हो ... 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. स्वर्गबाट येशू आए मुक्ति लिएर
+            <br/>
+            कसले लिए मुक्तिलाई मनै गरेर, भाइ हो ... 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. येशू पुत्र भएर औतार लिई आए
+            <br/>
+            विश्वास गर्ने सबैले मुक्तिदान पाए, भाइ हो... 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. दुनियाँ संसार छ सागर पापैको छ व्यवहार
+            <br/>
+            पापलाई लुकाइराखेर कसरी तर्छौ पार, भाइ हो... 
+         </lines>
+      </verse>
+      <verse name="v6">
+         <lines>
+             ६. जसले सुन्छन् प्रभुको अजम्मरी वचनलाई
+            <br/>
+            उनलाई मुक्ति दिनेछन् अजम्मरेलाई, भाइ हो... 
+         </lines>
+      </verse>
+      <verse name="v7">
+         <lines>
+             ७. येशू प्रभु सामर्थी सबै दान दिनलाई
+            <br/>
+            मनलाई जगाई तयार हौ, दान दिनलाई भाइ हो...
+         </lines>
+      </verse>
+   </lyrics>
+</song>

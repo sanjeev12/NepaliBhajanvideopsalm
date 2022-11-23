@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan197 Timro Manko Dhokama Yeshu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः तिम्रो मनको ढोकामा येशू ढक्ढकाउँछन्
+            <br/>
+            खोल तिम्रो ढोका उनी आउन चाहन्छन् । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. हुन माग्दछन् उनी तिम्रो पाहुना आज
+            <br/>
+            तिम्रो शोक र फिक्री उनले उठाउन माग्छन् । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. आउन माग्छन् उनी भित्र तिम्रो मनमा
+            <br/>
+            रातदिन तिम्रो मनमा उनी माग्छन् बस्न । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. मधुर शब्दले भन्छन् मरें तिम्रो लागि
+            <br/>
+            छोड अशुद्ध कर्म खोल द्वार आउँदै छु । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. तिम्रो लागि मैले लगाएँ काँडे मुकुट
+            <br/>
+            तिमीलाई म महिमाको मुकुट पहिराउँछु । 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. खोल्दछु म ढोका मनको हे प्रभु येशू
+            <br/>
+            आई यसमा रहनुहोस् माग्दछु म मनले । 
+         </lines>
+      </verse>
+      <verse name="v6">
+         <lines>
+             ६. प्यारो येशू भन्छन् अब बिन्ती गर्दछु
+            <br/>
+            समय जो गई गयो आउँदैन फर्की ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

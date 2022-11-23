@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan456 Yeshu Kripalu Gothala</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. येशू कृपालु गोठाला, आशिष् दिनोस् पाठोलाई
+            <br/>
+            राती रक्षा गर्नोस् मलाई, बिहानसम्म छेउमा भई । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. आज तपाईंदेखि पाएँ लुगा, भोजन अगुवाइ
+            <br/>
+            प्रार्थना, धन्यवाद अब गर्छु ढल्किजाँदा सुत्नलाई । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. मेरा भुलचुक गर्नोस् क्षमा, मेरा प्रियहरू प्रेम
+            <br/>
+            जब मरूँ लानोस् स्वर्गमा सदा दिन र क्षेम ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

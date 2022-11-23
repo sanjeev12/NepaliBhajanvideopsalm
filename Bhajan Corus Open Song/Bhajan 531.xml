@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan531 Premako Din Yo</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः प्रेमको दिन यो, खुसीको दिन यो, रमाउने, गाउने दिन यो
+            <br/>
+            येशूको जन्मदिन यो, येशूको जन्मदिन यो । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. अशान्तिमा बाँच्नेलाई पनि शान्ति अँगाल्ने दिन यो,
+            <br/>
+            बिछोडिएकालाई पनि प्रेममा बाँध्ने दिन यो (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. निराशामा बाँच्नेलाई पनि आशाको नयाँ दिन यो,
+            <br/>
+            लडाइँ लड्नेलाई पनि प्रेम, मिलापको दिन यो (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

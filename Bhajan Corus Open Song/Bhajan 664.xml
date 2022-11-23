@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan664 Mancheko Basti Bhitra</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः मान्छेको बस्ती भित्र तुवाँलोले ढाकेको छ
+            <br/>
+            हटाई दिने कोही हुत्र, छोपी दिने मात्र हुन्छ (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. धेरै भने आफैलाई, थोरै भने अर्कालाई
+            <br/>
+            राम्रो देखे माया लाउने, नराम्रोलाई थुकी दिने (२)
+            <br/>
+            अर्कालाई कुल्चिएर ओ हो...
+            <br/>
+            अर्कालाई कुल्चिएर, अघि बढ्ने कस्तो बानी
+            <br/>
+            ठेस कहिले खाने हो, होस कहिले आउने हो (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. बनाएको परमेश्वरले, सबलाई बराबरी
+            <br/>
+            न त ठूलो न त सानो, न त धेरै न त थोरै (२)
+            <br/>
+            आँखा भई देखे पनि ओ... हो...
+            <br/>
+            आँखा भई देखे पनि, अन्धो हुन मन पराउने
+            <br/>
+            ज्योतिदेखि टाढा भागी अँध्यारो अँगाल्न पुग्ने (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

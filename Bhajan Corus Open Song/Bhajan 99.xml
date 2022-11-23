@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan99 Mahan Prabhu Ati Uchama</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः महान् प्रभु अति उच्चमा दूतगणले गर्छन् महिमा
+            <br/>
+            हे प्रभु, तपाईंको मण्डली आराधना गर्छौं तपाईंलाई । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. प्रेमको ठूलो रहस्यलाई, महिमा गौरवको त्यागलाई (२)
+            <br/>
+            सम्झन्छु क्रूसको दुःखलाई, अर्पन्छु सर्वाङ्ग तपाईंलाई (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. आउनुभो प्रभु हाम्रो माझमा, धोइएको मन मन्दिरमा (२)
+            <br/>
+            भरपूर छु भरिइरहन्छु झन् नजिक हुन चाहन्छु (२) 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. महिमा, आदर र धन्यवाद सर्वदा गर्दछु दण्डवत् (२)
+            <br/>
+            तपाईंको गम्भीर प्रेमको सागरमा डुबें प्रभु म (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

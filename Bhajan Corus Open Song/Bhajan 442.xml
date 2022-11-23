@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan442 Yeshu Malai Garchan Pyar</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. येशू मलाई गर्छन् प्यार, यो हो सब बाइबलको सार
+            <br/>
+            बालक उनका हुन् वरदान ती निर्बल उनी बलवान । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः प्यार गर्छन् मलाई, प्यार गर्छन् मलाई
+            <br/>
+            प्यार गर्छन् मलाई येशूले गर्छन् प्यार । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. येशू मलाई गर्छन् प्यार, प्राण दिई खोले स्वर्गको द्वार
+            <br/>
+            मेरो पाप सब धुनेछन्, बालकलाई बोलाउँदछन् । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. येशू मलाई गर्छन् प्यार, जस्तै निर्बल छु बिमार
+            <br/>
+            आफ्नो सिंहासनदेखि देख्दछन् सधैँ मलाई ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

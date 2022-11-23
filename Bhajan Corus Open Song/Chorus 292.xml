@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus292 Hey Hamra Priya</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            हे हाम्रा प्रिय, हे हाम्रा स्वामी, बचाउनुहोस् संसारलाई ।
+            <br/>
+            हे हाम्रा दुलहा, हे हाम्रा प्रभु, बचाउनुहोस् संसारलाई । 
+            <br/>
+             हे मेरा येशू, सुत्रुहोस् बिन्ती, हेर्नुहोस् संसारलाई
+            <br/>
+            फसल धेरै पाकी नै सक्यो, याद गर्नुहोस् यसैलाई । 
+            <br/>
+             कति खराब छन्, कति असल छन् संसारका यी फसल
+            <br/>
+            बनाउनुहोस् है असल हाम्रो मण्डली, हामी दुइ हात जोड़ी भन्दछौँ तपाईंलाई ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

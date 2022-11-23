@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan275 Jandina Ma Parmeshworle</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. जान्दिनँ म परमेश्वरले प्रेम किन गर्नुभो,
+            <br/>
+            वा ख्रीष्टले किन बचाए अयोग्य प्राण मेरो । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः तर कसमाथि विश्वास राखें, सो जान्दछु म र निश्चय छु म
+            <br/>
+            कि उनलाई जे मैले सुम्पें, राख्नेछन् सुरक्षासाथ । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. जान्दिनँ कसरी बचाउने विश्वास दिए उनले
+            <br/>
+            वा उनको वचन पत्याउँदा मनमा शान्ति पाएँ । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. जान्दिनँ कसरी आत्माले जग दोषी ठहराउँछन्
+            <br/>
+            वा वचनद्वारा येशूलाई प्रकट गराउँदछन् । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. जान्दिनँ के आइपर्नेछ म मर्नभन्दा अघि
+            <br/>
+            कि हुन्छ मलाई दुःख वा सुख तृप्ति वा गरिबी । 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. जान्दिनँ म कहिले, कहाँ येशू फेरि आउलान्
+            <br/>
+            कि मरेपछि भेटूँला कि भेटूँ आकाशमा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

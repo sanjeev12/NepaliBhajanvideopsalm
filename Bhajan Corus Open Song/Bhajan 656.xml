@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan656 Yo Santa Prahar Ho</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः यो शान्त प्रहर हो, यो शान्त प्रहर हो (२)
+            <br/>
+            धर्ती आकाश जगाइदिने (२) यो शान्त प्रहर हो (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. गुरासझैँ फक्रियोस् हाम्रो शुभ दिन
+            <br/>
+            प्रभुको प्रार्थनामा बितोस् हाम्रो दिन
+            <br/>
+            सारा धर्ती सिँगारीदिने शान्त प्रहर यो
+            <br/>
+            सर्वव्यापी फैली हाँस्ने शान्त प्रहर यो (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. अँकुराओस् नयाँ सोच नयाँ बिहानीमा
+            <br/>
+            फुलिरहून् सुन्दर फूल मनको सिरानीमा
+            <br/>
+            अचेतलाई हटाइदिने शान्त प्रहर यो
+            <br/>
+            अन्धकारलाई च्यातिदिने शान्त प्रहर यो (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

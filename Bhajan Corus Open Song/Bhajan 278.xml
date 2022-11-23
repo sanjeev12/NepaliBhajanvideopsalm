@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan278 Yeshu Ho Mero Papako</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः येशू हो मेरो पापको भार उठाउने, क्रूसको दुःख सहेर
+            <br/>
+            म भन्न सक्छु म स्वर्ग जान्छु,, प्रभुलाई पाएर । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. त्यो महा दुःख र त्यो महा कष्टलाई (२) येशूज्यूले सहनुभो,
+            <br/>
+            येशूज्यूले भोग्नुभो (२) पिताको आज्ञा पूरा गरी स्वर्ग जानुभो । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. हे महान् पिता मेरो तपाईंले दिनुभो (२) तपाईंको त्यो दया,
+            <br/>
+            तपाईंको त्यो माया (२) निश्चय हामी नाश हुनेथियौं त्यो दया नपाए । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. कति दिन छ र यहाँ म बसिरहनु जहाँ (२) यो सानो पृथ्वीमा
+            <br/>
+            यो दुःख सागरमा (२) पाउनेछु मैले त्यो आनन्द प्रभुको भण्डारमा । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. आउनुहोस् सबै साथी पाउनुहोस् स्वर्गीय शान्ति (२)
+            <br/>
+            आफ्नो पाप धुनलाई, प्रभुको लोक हुनलाई (२)
+            <br/>
+            प्रभुलाई पाई, स्वर्गमा गई आनन्दमा बस्नलाई ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

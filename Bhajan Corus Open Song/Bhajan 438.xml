@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan438 Aadima Jun Prakar Adhyaro</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. आदिमा जुन प्रकार अँध्यारो र उजार पार्नुभयो नाश, अब त्यसै हे ईश्वर
+            <br/>
+            सुसमाचारको घाम नपुगेको सब स्थान उज्यालै होस् । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. लोक आउनुभो तपाईं सब लोगको लागि ल्याई बिशेष प्रकाश
+            <br/>
+            रोगी बिसेक पराई, अन्धा प्रकाश गराई हे ख्रीष्ट अब सबैलाई उज्यालै होस् । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. हे पवित्र आत्मा जियाउने परेवा वेग उड्नुहोस्
+            <br/>
+            गरी भाँडो घुमाई अनुग्रह दान खन्याई
+            <br/>
+            अँध्यारो गर्नु क्षय उज्यालै होस् । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. हे पिता, पुत्र, आत्मा धन्य त्रिएक महा त्राण पूर्ण होस् ।
+            <br/>
+            सागरझैँ हो अपार जगतका दिशै चार
+            <br/>
+            सच्याउनलाई संसार उज्यालै होस् ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

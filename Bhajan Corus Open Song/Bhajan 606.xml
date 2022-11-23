@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan606 Tyo Manis Dhanyako Ho</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>कोः त्यो मानिस धन्यको हो (४) </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. जो दुष्टहरूको युक्तिमा चल्दैन
+            <br/>
+            जो पापीहरूको मार्गमा हिँड्दैन
+            <br/>
+            जो गिल्ला गर्नेको साथमा बस्दैन । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. जो परमप्रभुको वचनमा रहन्छ
+            <br/>
+            जो वचनमै प्रशन्न बनिरहन्छ
+            <br/>
+            जो त्यसैमा दिनरात ध्यान दिइरहन्छ । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. जो खोलाको धार छेउको बोट जस्तै हुन्छ
+            <br/>
+            जो सदाबहार र फलवान् हुन्छ
+            <br/>
+            जो जे गर्छ त्यसमा सफल नै बन्दछ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

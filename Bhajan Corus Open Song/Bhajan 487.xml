@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan487 Khusiko Din Jasma Maile</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. खुसीको दिन, जसमा मैले येशूमाथि राखें विश्वास
+            <br/>
+            सबैलाई किन नसुनाऊँ छ मेरो मनमा सुखविलास । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः खुसीको दिन, खुसीको दिन येशूले पाप सब मेटाए
+            <br/>
+            आनन्द, प्रार्थना गर्दैजाऊ भनेर मलाई सिकाए
+            <br/>
+            खुसीको दिन, खुसीको दिन येशूले पाप सब मेटाए । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. महान् साटफेर पूरा भयो म प्रभुको उनी मेरो
+            <br/>
+            मलाई ताने स्वरले मीठो र पछि लागें येशूको । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. चुलबुले मन फेरिसक्यो, पाएछु येशूमा शान्ति
+            <br/>
+            प्रभुदेखि जान्नँ टाढो, सब असल थोक दिन्छन् उनी ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

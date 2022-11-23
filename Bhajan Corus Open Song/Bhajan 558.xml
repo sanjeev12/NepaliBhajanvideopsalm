@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan558 Ishworko Yo Bardan</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः ईश्वरको यो वरदान मेरो यो जीवन, एक्लै बस्न सिर्जेको होइन,
+            <br/>
+            आजन्म साथ दिँदैनौ भने त, पलभरको माया मलाई चाहिँदैन (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. पहाडजत्रो यो जिन्दगीमा एकलै बसूँला भनेर चिताएको छैन (२)
+            <br/>
+            तिम्रै विश्वासमा आफूलाई सुम्पी (२) मनमा कुनै थोक लुकाएको छैनँ (२) 
+            <br/>
+             आजन्म साथ दिँदैनौ भने त, पलभरको माया मलाई चाहिँदैन (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. बर्बाद नबनोस् यो मेरो जीवन, मीठा मीठा कुराले, अभिलाषाले (२)
+            <br/>
+            समर्पण हुँदै छु तिमीसामु आज (२) ईश्वर छन् साक्षी तिमी याद राख (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

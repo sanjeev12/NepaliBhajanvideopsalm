@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan578 Hawale Ho Badalle Ho</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>ह ह ह (३)</lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+            कोः हावाले हो हो हो, बादलले हो हो हो हो
+            <br/>
+            हावाले, बादलले (ख्रीष्टको नै प्रशंसाको गीत) २ गुन्गुनाइ (रहेछ) ३
+            <br/>
+            हावाले, बादलले, हो ... 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             १. नीलो आकाशले, सेतो बादलले (२) (मनै छुने शीतल हावाले) २
+            <br/>
+            ख्रीष्टको नै प्रशंसाको गीत (गुन्गुनाइरहेछ) ३ हावाले, बादलले, हो... 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             २. सुन्दर हिमालले, प्यारा पहाडले (२) (मीठो स्वरले गाउने चरीले) २
+            <br/>
+            ख्रीष्टको नै प्रशंसाको गीत (गुन्गुनाइरहेछ) ३ हावाले बादलले हो...
+         </lines>
+      </verse>
+   </lyrics>
+</song>

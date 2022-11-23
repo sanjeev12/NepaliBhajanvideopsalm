@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus251 Malai Aafno Saranma</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. मलाई आफ्नो शरणमा लिनुहोस्, प्रभु
+            <br/>
+            कि म तपाईंकै हुन सकूँ
+            <br/>
+            मेरो आत्माको सफाइ गर्नोस्, प्रभु
+            <br/>
+            तपाईंकै सन्मुख ठीक रहूँ 
+            <br/>
+             (मेरो आत्माको रुवाइ हो, प्रभु,
+            <br/>
+            मेरो प्रार्थनाको गीत सुत्रुहोस्) २
+            <br/>
+            येशू, मेरो प्रभु आएर मलाई छुनुहोस् (२)
+            <br/>
+            आएर मलाई छुनुहोस् । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. प्रभु, तपाईं टुटेको हृदयको प्रभु
+            <br/>
+            बोझ उठाउनेको सहारा,
+            <br/>
+            मैले हिँड्ने बाटोको तपाईं ज्योति
+            <br/>
+            मेरो समझको सारा स्रोत, 
+            <br/>
+             (प्रभु, तपाईं क्षमाको खानी
+            <br/>
+            मेरो प्रार्थनाको गीत सुत्रुहोस्) २
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan211 Suna Na Lau Ek Susamachar</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः सुन न लौ एक सुसमाचार स्वर्गदेखि आए एक तारणहार (२)
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+            १. भव हाम्रो डुबिसक्यो पापको सागरमा (२)
+            <br/>
+            छिटो बित्ने जीवन हाम्रो मिल्छ माटोमा, को छ साटोमा ?
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+            २. धन्य हाम्रो स्वर्ग धनी मानिस भई आए (२)
+            <br/>
+            पापको बोझा सबै लिई दिए आफ्नो प्राण, गर्न हाम्रो त्राण ।
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+            ३. वर हेर, पर हेर छैन केही उपाय (२)
+            <br/>
+            ग्रहण गर येशू ख्रीष्टमा छैन उनी सिवाए सुन मेरो भाइ ।
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+            ४. जो कोही आउँछ विश्वास गरी प्रभु येशू ख्रीष्टमा (२)
+            <br/>
+            जयवन्त जीवन बित्यो भने हुन्छौ तिमी फलवन्त,
+            <br/>
+            जीवन पाउँछौ अनन्त ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus29 Khusi Khusi Manau</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            खुशी खुशी मनाऔँ, खुशी खुशी मनाऔँ (२)
+            <br/>
+            भन भन, प्रभु येशू ख्रीष्टको जय (२) 
+            <br/>
+             मेरो लागि आए, मेरोलागि जिए (२)
+            <br/>
+            मेरो लागि येशूले दुःख उठाए (२) 
+            <br/>
+             मेरो लागि मारिएथे, मेरोलागि गाडिएथे (२)
+            <br/>
+            मेरो लागि बौरीउठे, मेरा हुन् येशू (२) 
+            <br/>
+             म येशूको हुँ, हामी येशूका हौँ । 
+            <br/>
+             खुशी खुशी मनाऔँ, खुशी खुशी मनाऔँ (२)
+            <br/>
+            भन भन, प्रभु येशू ख्रीष्टको जय (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

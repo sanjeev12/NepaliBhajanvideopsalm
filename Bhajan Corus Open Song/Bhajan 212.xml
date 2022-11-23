@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan212 Ubhai Ta Heru Sworgiya</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 v5 v6 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. उँभै ता हेरूँ स्वर्गीय धाम छ (२)
+            <br/>
+            उँधै ता नरलोक हेर प्रिय भाइ (२)
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+            २. तिमीले भन्छौ स्वर्ग नै तर्छु (२)
+            <br/>
+            तर्छौ पो कसरी हेर प्रिय भाइ (२) 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. स्वर्ग नै तर्न ख्यालठट्टा छैन (२)
+            <br/>
+            धाउनु छ ख्रीष्टकहाँ हेर प्रिय भाइ (२) 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. स्वर्गीय बाटो एउटा छ खालि (२)
+            <br/>
+            उनी हुन् प्रभु ख्रीष्ट हेर प्रिय भाइ (२) 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. ख्रीष्टलाई भजी तर्नु छ पारि (२)
+            <br/>
+            मनगरी एक चित्त हेर प्रिय भाइ (२) 
+         </lines>
+      </verse>
+      <verse name="v6">
+         <lines>
+             ६. पिताले दिन्छन् स्वर्गीय धाममा (२)
+            <br/>
+            बस्नु त नित्यदिन, हेर प्रिय भाइ (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

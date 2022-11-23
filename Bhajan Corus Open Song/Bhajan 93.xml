@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan93 Sansarlai Srijane Mero Prabhu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः संसारलाई सिर्जने मेरो प्रभु,
+            <br/>
+            पापीलाई मुक्ति दिने मेरो प्रभु
+            <br/>
+            अवर्णनीय अपार, साँच्चै नै विशाल मेरो,
+            <br/>
+            तिम्रो, हाम्रो, सबको प्यारो प्रभु । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. उनको कर्मलाई जाँच, उनको वचन सुन (२)
+            <br/>
+            जादू होइन कलवरी, मन्त्र होइन वचन तर अलौकिक प्रेम  
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. उनको महिमालाई नाप सिद्ध छन् उनी पूर्ण (२)
+            <br/>
+            परमेश्वरको प्रतिरूप सृष्टिको जेठो हुन् स्वर्ग धर्तीको शिर 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. उनको शरीरलाई हेर चोटैचोट छन् सारा (२)
+            <br/>
+            हात राखी छाम उनका कर पाउ चाख अलौकिक प्रेम
+         </lines>
+      </verse>
+   </lyrics>
+</song>

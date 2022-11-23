@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus166 Pabitra Aatma Aau</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः (पवित्र आत्मा आऊ) २
+            <br/>
+            मलाई लैजाऊ येशूको चरणमा पवित्र आत्मा आऊ (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. (येशू तिम्रै लागि) ६ हात उचाल्दछु, घुँड़ा टेकी, शिर झुकाउँदै,
+            <br/>
+            हात उचाल्छु तिम्रै लागि (२) (येशू तिम्रै लागि) ६ शिर भुकाउँदछु । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. (येशू तिम्रै लागि) ६ हात उचाल्दछु
+            <br/>
+            (येशू नै बाटो हुन्, येशू नै सत्य हुन्, येशू नै जीवन हुन्, येशू नै दाता हुन्) २
+            <br/>
+            (येशू तिम्रै लागि) ६, शिर झुकाउँदछु, (येशू तिम्रै लागि) ६ हात उचाल्दछु ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

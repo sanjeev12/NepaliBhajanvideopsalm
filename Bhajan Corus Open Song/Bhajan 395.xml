@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan395 Mero Jiwan Swami</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः मेरो जीवन स्वामी येशूलाई हृदय भेट चढाउँदै
+            <br/>
+            स्तुति, प्रशंसा, इज्जत सदासर्वदा दिन्छु (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. मेरो जीवन सुरक्षा तपाईं हो, आशा भरोसा शान्ति हो (२)
+            <br/>
+            जीवनको ज्योति र मुक्ति हो, मेरो जीवनको यात्रामा (२)
+            <br/>
+            तपाईं एक सहारा हो (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. प्रभु मेरो हृदयमा आउनुहोस्
+            <br/>
+            ज्योतिमय जीवन बनाउनुहोस् (२) जीवनको हरेक कदममा
+            <br/>
+            हे प्रभु सधैँ डोर्याउनुहोस् (२) मलाई सहारा दिनुहोस् (३)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

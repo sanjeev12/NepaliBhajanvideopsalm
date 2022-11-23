@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan172 Aau Sabai  Daju Bhai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>कोः आऊ सबै दाजु भाइ ख्रीष्टकै गुण गाऔं । </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. हाम्रो पापको साटो उनी भए पाठो
+            <br/>
+            कत्रो प्रेम र कत्रो दया हामीमाथि गरे ।
+            <br/>
+            आऊ सबै दाजु भाइ ख्रीष्टकै गुण गाऔं । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. ख्रीष्टीयान दाजु ख्रीष्टीयान बहिनी ख्रीष्ट हुन् हाम्रा साथी
+            <br/>
+            स्वर्गीयमा पुर्याउने मृत्युपारि तारी
+            <br/>
+            आऊ सबै दाजु भाइ ख्रीष्टलाई पछ्याऔं । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. जति भयो घटी हाम्रो उनलाई सबै मनाऔं
+            <br/>
+            पापलाई लुकाई नरकुण्डको भागी कैले नहोऔं
+            <br/>
+            आऊ सबै दाजु भाइ स्वर्गीय जाऔं ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

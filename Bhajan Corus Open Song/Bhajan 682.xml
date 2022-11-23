@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan682 Swagat Cha Sabailai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः स्वागत छ (३) सबैलाई २
+            <br/>
+            शुभकामना छ, हजुरलाई महिमा होस् परमेश्वरलाई (२)
+            <br/>
+            जय जयकार (३) महिमा २ 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. आऔँ हामी मिलीजुली कदम अघि बढाऔँ (२)
+            <br/>
+            विगतको सुस्ति जीवन आज सबै हटाउँ (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. आऔँ हामी संसारमा शुभसन्देश सुनाउँ (२)
+            <br/>
+            अँध्यारोमा ज्योति बनी सत्य राँको सल्काऔँ (२) 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. आऔँ हामी संसारमा ख्रीष्टको गीत सुनाऔँ (२)
+            <br/>
+            हिमाल र डाँडाकाँडा आज हामी थर्काऔँ । (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

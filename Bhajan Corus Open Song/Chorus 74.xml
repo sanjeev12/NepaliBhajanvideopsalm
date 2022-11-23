@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus74 Yeshule Linchan Uccha</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            येशूले लिन्छन् उच्च आदर, येशूले लिन्छन् प्रशंसा
+            <br/>
+            पृथ्वी, स्वर्ग एक साथ उच्च पार्छन्,
+            <br/>
+            अरू नाउँभन्दा उच्च त्यो नाउँ, 
+            <br/>
+             घुँड़ा टेकौँ आदर र भक्तिमा,
+            <br/>
+            त्यस नाउँमा टेक्नेछन् सब घुँड़ा, 
+            <br/>
+             सब जिब्रोले स्वीकारुन् उनी ख्रीष्ट ईश्वर पुत्र,
+            <br/>
+            महाराजा, दिन्छौँ महिमा 
+            <br/>
+             सबै आदर र भक्ति र शक्ति तपाईंकै हुन्, तपाईंकै हु न् (२)
+            <br/>
+            प्रभु येशू ख्रीष्ट जीवित ईश्वरका पुत्र ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

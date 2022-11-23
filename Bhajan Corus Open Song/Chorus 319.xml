@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus319 Hariyo Kharkama Malai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            हरियो खर्कमा मलाई चराउनुभो
+            <br/>
+            मेरा आँखाको आँसु पुछ्नुभो (२)
+            <br/>
+            हे...येशू तपाईं मेरो पहिलो प्रेम (२)
+            <br/>
+            प्रेमविहीनलाई प्रेम दिनुभो, पराईलाई आफ्नै ठात्रुभो (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

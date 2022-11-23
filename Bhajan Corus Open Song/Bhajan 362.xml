@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan362 Yeshuko Pachi Hidnechu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. येशूको पछि हिड्नेछु बरु दुःखको बाटो होस्
+            <br/>
+            भञ्ज्याङ, पहाड र मैदानमा मलाई जानुपरोस्
+            <br/>
+            खुसी मनले म हिड्नेछु जहाँ उनी जानेछन्
+            <br/>
+            जान्दछु कि यही बाटो जानेछ यरूशलेम । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. यसकारण म सोध्नेछैन प्रभुले कहाँ लानेछन्
+            <br/>
+            म डराउनेछैन कहिल्यै येशू बाटो देखाउँछन्
+            <br/>
+            हुकूम मान्दै उनको पछि हिँड्नेछु नम्रताले
+            <br/>
+            कारण उनको सिद्ध इच्छा जाती छ मेरा लागि । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. दुनियाँले मलाई भुल्याए मेट्नेवाला चीजैले
+            <br/>
+            अनि पापमा फँसाए सधैँ दुःख दिएर
+            <br/>
+            गर्नुहवस्, निर्बन्ध मलाई आत्मा, प्राण र जीवनमा
+            <br/>
+            तपाईंको सेवा गर्नलाई बस्न तपाईंकै इच्छामा । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. लिनुहवस् मेरो इच्छा आफ्नो इच्छामा राखी
+            <br/>
+            जब दौडमा म थाक्नेछु मेरो साहसलाई बढाऊ
+            <br/>
+            जीवनभरि तपाईं पछि हिँड्नेछु सच्चाइले
+            <br/>
+            तब खुसी हुन्छु महिमा तपाईंको संगतिले ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

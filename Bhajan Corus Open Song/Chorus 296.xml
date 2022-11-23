@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus296 Ma Bachumjel Parmeshworko</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            म बाँचुञ्जेल परमेश्वरको प्रशंसा म गाउनेछु (२)
+            <br/>
+            मेरो सासले भ्याएसम्म परमेश्वरको स्तुति सदा गाउनेछु, हल्लेलूयाह (४) 
+            <br/>
+             येशूलाई उचालौँ हाम्रो माझमा, पवित्र आत्मा आउनुहोस् महिमा गर्न
+            <br/>
+            पिता, प्रेमले भर्नुहोस् तपाईंको हृदयलाई बुझ्न ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

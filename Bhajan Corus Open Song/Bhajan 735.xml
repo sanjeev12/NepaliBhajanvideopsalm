@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan735 Mero Yo Choto Sandesh</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः मेरो यो छोटो सन्देश सुनिदेऊ दाजुभाइ हो
+            <br/>
+            येशूको सु  सन्देश, सुनिदेऊ है दिदीबहिनी हो
+            <br/>
+            मेरो यो छोटो सन्देश सुनिदेऊ दाजुभाइ हो । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. संसारमा अधर्म र पापैको नदी बग्दछ,
+            <br/>
+            नदी एकदिन बढ्दै गइ सागर पनि बन्न सक्दछ
+            <br/>
+            यसैले प्रिय मित्र हो येशूको सन्देश सुनौँ है (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. सृष्टिदेखि मानिस जाति पापैमा अघि बढ्दछ
+            <br/>
+            नाशै नाशको भरमा परी सागरमा डुब्नपर्दछ,
+            <br/>
+            यसैले समय हुँदा नै येशूलाई विश्वास गरौँ है (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

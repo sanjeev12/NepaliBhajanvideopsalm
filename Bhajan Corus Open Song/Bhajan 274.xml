@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan274 Falai Ramra Fuldachan</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. फूलै राम्रा फुल्दछन् ईश्वरलाई देखाउँदछन्
+            <br/>
+            हाम्रा जीवन त्यस्तै छन् स्वर्गीय प्रेम देखाउँदछन् । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. राती जून र तारा छन् घाम दिउँसो चम्कँदछन्
+            <br/>
+            हाम्रा जीवन त्यस्तै छन् स्वर्गे ज्योतिले घेर्दछन् । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. सबै मानिस पापी छन् मुक्ति ख्रीष्टले दिँदछन्
+            <br/>
+            परमधाममा सुख चैन छन् मुक्ति पाउने तर्दछन् । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. प्रेम ईश्वरले गरेछन् येशू पुत्र दिएछन्
+            <br/>
+            उनमा विश्वास गर्ने जन पापी सब बचाइन्छन् ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

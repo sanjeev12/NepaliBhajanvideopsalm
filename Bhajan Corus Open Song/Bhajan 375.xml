@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan375 Yahoya Mero Gothalo</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः यहवे मेरो गोठालो, मलाई केही घटि हुँदैन
+            <br/>
+            उनले हरियो खर्कमा मलाई चराउनेछन् । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. सुख चैनको पानीनिर सदैव डोर्याउनेछन्
+            <br/>
+            मेरो यो तुच्छ प्राणलाई नयाँ तुल्याउनेछन् । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. आफ्नै नाउँको कारण जहीँ गए तापनि
+            <br/>
+            धर्मको सुमार्गमा मलाई अगुवाइ गर्नेछन् । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. अँ मृत्युको छायामा हिँड्नुपरे तापनि
+            <br/>
+            रक्षा गर्छन् जहीं जाऔं तब किन डराऔं । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. सबै शत्रुको सन्मुख भोज तयार पार्नुहुन्छ
+            <br/>
+            तेलले अभिषेक गरे कचौरा पोखिन्छ । 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. निश्चय भलाइ र कृपा जीवनभरि रहन्छ
+            <br/>
+            यहवेको स्वर्गधाममा सदैव बास गर्नेछु ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

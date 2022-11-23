@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan540 Prabhuko Ujyalole Hridaya</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः प्रभुको उज्यालोले हृदय उज्यालो होस्
+            <br/>
+            निन्द्रामा परेको अङ्ग येशूमा जागृत होस् । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. ओठमा नित्य येशू नाम उच्चारियोस्
+            <br/>
+            प्रशंसा, प्रार्थना, प्रचार सधैँ गुञ्जिरहोस् ।
+            <br/>
+            सोचमा नित्य येशू स्मृति नै येशू बनोस्
+            <br/>
+            सम्पूर्ण आशा येशू, सर्वस्व येशू नै होस् । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. आँखाले देखोस् येशू, ज्योति र छायाँमा
+            <br/>
+            कानले सुनोस् येशू हर जगत्को स्तुतिमा ।
+            <br/>
+            अतित, भविष्य येशू, वर्तमान येशू नाम,
+            <br/>
+            उचाइ गहिराइ येशू, येशू अनन्त अपार ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus302 Je Garnubho Mero Jiwanma</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            जे गर्नुभो मेरो जीवनमा, प्रभु, जे गर्न चाहनुहुँदैछ,
+            <br/>
+            म जे छु तपाईंको कृपाले नै हो, तपाईं नै मेरो आधार, येशू, धन्यवाद,
+            <br/>
+            येशू, धन्यवाद, धन्यवाद प्रभु, हरपल धन्यवाद, धन्यवाद येशू ।
+            <br/>
+            मलाई प्रेम गरी मुक्तिदान दिनुभयो, आफ्नै प्राण पनि बलि दिनुभयो,
+            <br/>
+            प्रभु, धन्यवाद, येशू, धन्यवाद, कृतज्ञतासाथ धन्यवाद, धन्यवाद ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

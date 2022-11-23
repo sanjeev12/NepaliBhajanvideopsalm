@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bal Chorus26 Jakkai Ekjana Pudko</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            जक्कै एकजना पुड़्को मानिस थिए, पुड़्को मानिस थिए उनी ।
+            <br/>
+            उनी एउटा भद्राक्षको रुखमा चढे, प्रभुलाई हेर्न भनी ।
+            <br/>
+            जब मुक्तिदाता त्यो बाटो भएर गए, उनले रूखमाथि हेरे,
+            <br/>
+             जक्कै तल ओर्ल, म तिम्रो घरमा आउन चाहन्छु । 
+         </lines>
+      </verse>
+   </lyrics>
+</song>

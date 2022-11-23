@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus286 Tapaisanga Sangai Yeshu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            तपाईसँग सँगै येशू मलाई उठाउनुहोस्,
+            <br/>
+            ख्रीष्ट अनुग्रहको हातले उक्लनसकूँ
+            <br/>
+            म यो पर्वतमा तपाईंसँग सँगै । 
+            <br/>
+             (एक दिन) २ यो पर्खाल तोड़्नुछ मैले,
+            <br/>
+            (एक दिन) २ पानीमाथि हिँड़्नुछ मैले
+            <br/>
+            (एक दिन) २ उच्च भूमिमा चढ़्नुछ मैले, 
+            <br/>
+             येशू मलाई छुनुहोस् तपाईंको प्रेमिलो हातले
+            <br/>
+            गहिरिनसकूँ म प्रेम सागरमा तपाईंसँग सँगै,
+            <br/>
+            व्याकुल छु म वचन देह भएको हेर्न
+            <br/>
+            फुकाई निकाल्नुहोस् मभित्रको नदीलाई बाहिर,
+            <br/>
+            जिउन चाहन्छु यथार्थ येशूको नाउँमा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan35 Herana Akasma Tarako</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः हेरन आकाशमा ताराको उज्यालो
+            <br/>
+            नवजात प्रभुको दर्शन गर्न नगर बियाँलो (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. ईश्वरको वचन पूरो गर्नलाई आए प्रभु जगमा (२)
+            <br/>
+            मानवको सबै दुःख बुझनलाई पस्रिए डुँडैमा (२)
+            <br/>
+            गोठालाहरू छक्क परे जब (२) देखे स्वर्गदूतलाई
+            <br/>
+            ढाडस पाई रमाई गए खबर दिनलाई (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. तारालाई आफ्नो लक्ष्य बनाई बढे ज्योतिषीगण (२)
+            <br/>
+            भेटी चढाए दर्शन पाई गराए आनन्दित मन (२)
+            <br/>
+            पापी जनको तारणहार (२) मानिसको रूपमा
+            <br/>
+            ख्याल नराखी डाँडाकाँडा बढौँ सबै प्रभुमा (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

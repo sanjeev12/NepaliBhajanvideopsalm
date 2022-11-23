@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus201 Dhanya Hos Tapaiko Naau</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            धन्य होस् तपाईंको नाउँ (४),
+            <br/>
+            (तपाईं हाम्रो चट्टान) २ हाम्रो प्रभु २ 
+            <br/>
+             येशूले राज्य गर्छन् पृथ्वीमा (४),
+            <br/>
+            (यो विश्व नै परमप्रभुको हातमा छ) ४
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan683 Yo Jiwanko Goretoma</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः यो जीवनको गोरेटोमा हुरी आँधी आइदिँदा
+            <br/>
+            प्रभु सम्हालिदेऊ यो जीवनलाई
+            <br/>
+            अँगालिदेऊ विवशतालाई जीवनको गोरेटोमा (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. जब सान्त्वना हुन्छ, तिम्रो वचनले म एकलो परेको बेला (२)
+            <br/>
+            हृदय भरेर पोखिन्छ खुशी हर्षले यहाँ तिम्रो साथ भएको बेला 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. सम्हाली राख्न सकूँ ती बाचाहरू  म फेरि आउँछु  भत्रे (२)
+            <br/>
+            बचाई राख्न सकूँ आशाको दियोलाई सधैँ साथ देऊ मलाई ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan417 Ghar Ghar Ghumera Prabhulai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः घर घर घुमेर प्रभुलाई प्रचार, कस तिम्रो कम्मर,
+            <br/>
+            लौ होऊ तयार, लौ होऊ तयार, लौ होऊ तयार । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. पाप र अन्धकारले भरियो संसार (२)
+            <br/>
+            धर्मको ज्योति फैलाउनलाई लौ होऊ तयार (३) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. हिम्मत बाँधी विश्वास गरी क्रूसलाई लिई निशान (२)
+            <br/>
+            येशूज्यू हुन् कप्तान हाम्रो हार्नेछ शैतान (३) 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. ख्रीष्टको वचन सुनाउनलाई कम्मर सबले कसौं (२)
+            <br/>
+            जस्तै सङ्कट परे पनि पछाडि नहटौं (३) 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. गर्छौ जति ख्रीष्टको प्रचार दुःख कष्ट सहेर (२)
+            <br/>
+            दिन्छन् उनले प्रतिफल जीउनीमा अनन्त (३)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

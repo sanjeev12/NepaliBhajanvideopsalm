@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus274 Prabhuharuka Prabhu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. प्रभुहरूका प्रभु राजाहरूका राजा, तपाईं मात्र योग्य,
+            <br/>
+            स्वर्ग पृथ्वी सबले गाउँछन् तपाईंको महिमा । 
+            <br/>
+             प्रशंसा पिता र पुत्रलाई, पवित्र आत्मालाई प्रशंसा
+            <br/>
+            प्रशंसा महिमाका राजालाई, पवित्र आत्मालाई प्रशंसा । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. प्रभुको थुमा पवित्र जन, धर्मी अनि क्षमाशील
+            <br/>
+            बिहानको तारा, उदाउने घाम, तपाईंझैँ छैन अरू ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

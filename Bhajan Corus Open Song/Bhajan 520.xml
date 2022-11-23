@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan520 Tapaiko Bachan Mero Khuttako</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. तपाईंको वचन मेरो खुट्टाको निम्ति ज्योति
+            <br/>
+            र मेरो मार्गको निम्ति उज्यालो हो २ 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः कारण तपाईंको वचन सनातन र अनन्त छ
+            <br/>
+            आकाशमा त्यो सदा स्थिर रहन्छ २ 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. तपाईंको वचन मेरो जिब्रोको निम्ति स्वादिष्ट
+            <br/>
+            मेरो मुखमा महभन्दा पनि अति मीठो छ २
+         </lines>
+      </verse>
+   </lyrics>
+</song>

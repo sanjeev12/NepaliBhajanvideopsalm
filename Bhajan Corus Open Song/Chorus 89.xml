@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus89 Mukti Cha Hamro Prabhuma</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            मुक्ति छ हाम्रो प्रभुमा,
+            <br/>
+            जो सिंहासनमा विराजमान् छन् 
+            <br/>
+             उनै थुमालाई स्तुति, महिमा, ज्ञान, धन्यवाद,
+            <br/>
+            आदर, शक्ति र बल (येशूलाई होस् सदासर्वदा) ३ आमेन् । 
+            <br/>
+             उद्धार पाएकाहरू बलिया हुन्छन्, एकतामा घोषणा गर्दै
+            <br/>
+            स्तुति, महिमा, ज्ञान, धन्यवाद, आदर, शक्ति र बल 
+            <br/>
+             (येशूलाई होस् सदासर्वदा) ३ आमेन् ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

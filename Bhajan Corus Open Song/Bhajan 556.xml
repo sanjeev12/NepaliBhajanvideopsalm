@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan556 Biujha Biujha Hai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः ब्यूँझ ब्यूँझ है हे ख्रीष्टीय सन्तान हो,
+            <br/>
+            जाग जाग है हे ख्रीष्टीय युवा हो
+            <br/>
+            जाग है, ब्यूँझ है, ढिलो नगर (ख्रीष्टीय युवा हो) २ 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. जीवनमा नैराश्य र हुरी बतास र आँधी आउँछ
+            <br/>
+            तर्साउने चट्याङ अनि कालो बाक्लो बादल छाउँछ ।
+            <br/>
+            सतावटको छालसँगै, रगतको आहालसँगै, सिङ्गो हिमालसँगै
+            <br/>
+            येशूको साथ साथै, जाग है, उठ है (हे ख्रीष्टीय युवा हो) २ 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. सुस्ताउने बेला होइन, सुस्केरामा जिउनुहुन्न
+            <br/>
+            तर्साउने बादल अनि कालो बाक्लो बादल छाउँछ
+            <br/>
+            सलल बगाउँदै, हातमा हात मिलाउँदै
+            <br/>
+            फुट्नेहरूलाई जुटाउँदै, सुत्नेहरूलाई जगाउँदै उठ है ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

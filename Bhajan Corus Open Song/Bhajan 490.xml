@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan490 Pita Dayalu Bida Paau</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. पिता दयालु बिदा पाऔं आशिष् सब पाई घरमा जाऔं
+            <br/>
+            भुल चुक माफ दिनोस् जो गर्यौं उपदेशले मनमा शुद्ध होऔं । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. छौं पापी हामी अनेक बार तैपनि दया छ अपार
+            <br/>
+            सेवालाई मंजुर गर्नुहोस् कुशलको बिदा सबलाई होस् ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

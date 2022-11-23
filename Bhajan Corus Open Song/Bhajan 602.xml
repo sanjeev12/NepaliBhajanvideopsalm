@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan602 Kahilei Nachodne Kahilei Natyagne</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>कोः कहिल्यै नछोड्ने, कहिल्यै नत्याग्ने, तिम्रो करार अटुट छ (२) </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. निस्सार एक परदेशी भई (२), लक्ष्यहीन गोरेटोमा गइरहेथे (२)
+            <br/>
+            ज्योतिर्मय प्रभु, सहारा दियौ, स्वर्गीय पथमा फर्काइ ल्यायौ (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. घना जंगलको अन्धकारमा (२), आशा थिएन बाँच्ने मेरा (२)
+            <br/>
+            मधुर आवाजले बोलायौ मलाई, सनातन प्रेमले अँगाल्यौ मलाई (२) 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. पीडा र क्लेशले पीडित हुँदा (२), निराश भई अन्योलमा थिएँ (२)
+            <br/>
+            तर तिम्रो मधुर आवाजले, सदैव शान्तिले मलाई भर्यौ (२) 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. यसर्थ तिम्रो प्रशंसा गर्छु (२), हर पल मेरो साथ रह्यौ (२)
+            <br/>
+            आँखाको रानी झैँ जोगाइराख्यौ, इस्राएलीलाई झैं रक्षा गर्यौ (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

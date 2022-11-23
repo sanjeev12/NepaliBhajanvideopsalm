@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan116 Dekheka Chau K Timile</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः देखेका छौ के तिमीले, मेरो मुक्तिदातालाई
+            <br/>
+            सुनेका छौ के तिमीले उनको मधुर बाणीलाई (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. धर्मीलाई त होइन तर, बचाउन आए पापीलाई,
+            <br/>
+            मृत्युदेखि पार तारी, अनन्त जीवन दिनलाई (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. हामीलाई पीर के छ, चढे येशू क्रूसमा,
+            <br/>
+            हात–खुट्टा झुण्डिए, काँटीको गहिरो चोटसाथ (२) 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. शिरबाट बग्यो रगत, उनिए भाला कोखामा,
+            <br/>
+            निर्दोष थिए प्रभुजी सहनु थियो हाम्रो पाप (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

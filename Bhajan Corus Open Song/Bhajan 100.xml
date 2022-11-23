@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan100 Harsa Manau Ananda Manau</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः हर्ष मनाऊ, आनन्द मनाऊ, उद्धार हाम्रो यो
+            <br/>
+            तारा चम्किला, दूतगण हँसिला, ईश्वर मानव भो । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. जसको नाउँ येशू हो पापीलाई बचाउने
+            <br/>
+            मानिसको सट्टामा, नयाँ जीवनदान गरी आफ्नो बनाउने । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. तिरेर पापको दाम मृत्यु ध्वंस पार्ने
+            <br/>
+            मृत्युको सट्टामा बनाई फाटक स्वर्ग र पृथ्वी जोड्ने ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

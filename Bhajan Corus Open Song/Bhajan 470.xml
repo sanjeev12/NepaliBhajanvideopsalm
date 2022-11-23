@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan470 Yeshu Prabhu Aau Hamro Majhama</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः येशू प्रभु आऊ हाम्रो माझमा, जीवन मेरो लेऊ तिम्रो हातमा
+            <br/>
+            ओठको होइन यो भक्ति, हृदयको हो यो पुकार, आ ... 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. यात्रा मेरो दुई दिनको, सास मेरो छिनभरको (२)
+            <br/>
+            चूप लागूँ कसरी ? गीत नगाऊँ कसरी ?
+            <br/>
+            यति ठूलो मुक्तिमा नरमाऊँ कसरी ? 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. वचन तिम्रो पढेर, प्रार्थना सधैँ गरेर (२)
+            <br/>
+            आराधनाको जिन्दगी मेरो बितोस् यसरी
+            <br/>
+            अन्धकारमा जूनझैँ चम्कोस् साक्षी त्यसरी ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

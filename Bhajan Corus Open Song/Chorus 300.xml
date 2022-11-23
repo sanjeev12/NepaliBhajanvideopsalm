@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus300 Khrist Yeshu Muktidata</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            ख्रीष्ट येशू, मुक्तिदाता तपाईंझैँ कोही छैन,
+            <br/>
+            तपाईंको त्यो अलौकिक प्रेमबारे स्तुति गाउँछु म । 
+            <br/>
+             मेरो आशा तपाईं, उत्साह, शरण र शक्तिको गढ़
+            <br/>
+            मेरो हर श्वास प्रस्वासले तपाईंको स्तुति गाइरहूँ । 
+            <br/>
+             धर्ती उठ अनि स्तुति गाऊ, शक्ति ऐश्वर्य प्रभुलाई होस्
+            <br/>
+            पहाड़ झुक अनि सागर गर्ज, उनको नाउँलाई धन्यको भनी । 
+            <br/>
+             तपाईंको आशिषित् काम देखेर खुशी भई आनन्दले गाउँछु म
+            <br/>
+            पाइत्र अरूमा येशूको निश्चयता...
+         </lines>
+      </verse>
+   </lyrics>
+</song>

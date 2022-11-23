@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan427 Ma Papko Bata Choddaichu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. म पापको बाटो छोड्दछु, जहाँ धेरै मान्छे मर्दछन्
+            <br/>
+            स्वर्गको घरलाई खोज्दछु यहाँ बस्ने मेरो छैन मन । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः यो दुनियाँ मेरो घर होइन, साँच्चै यो मेरो घर होइन
+            <br/>
+            यस दुनियाँमा आराम छैन, यो दुनियाँ मेरो घर होइन । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. मान्छेले रोक्न खोज्दछन्, न प्रार्थना गर्न दिंदछन्
+            <br/>
+            तिनका बातलाई सुन्दिनँ म, स्वर्गको घरलाई खोज्छु म । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. मसँग पापीहरू आऊ, स्वर्ग देशमा हामीहरू जाऔं
+            <br/>
+            र बस्न अब छिट्टै आऊ, स्वर्गको घरलाई खोज्न जाऔं ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

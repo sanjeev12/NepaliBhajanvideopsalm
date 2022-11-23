@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan708 Sajha Bihan Prathnasath</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः साँझ, बिहान प्रार्थनासाथ वचन पढ्दै
+            <br/>
+            म मनन गर्दछु, औ आज्ञा मात्रेछु
+            <br/>
+            ईश्वरको भक्ति, मान्छेको सेवा गर्दै म रहनेछु
+            <br/>
+            प्रभुलाई रिझाउँछु । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. जीवनलाई मैले हीरा ठानेथिएँ, पापमा जलेर कोइला भएछ
+            <br/>
+            स्वर्गमा चम्किरहनेछु भन्थे, नर्कमा जलिरहने भएछ
+            <br/>
+            यसकारण प्रभु, पश्चात्ताप गर्दै, पापहरू सबै परित्याग गर्छु (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. स्वर्गको दलानमा बस्दा म बस्दै, नर्कको ढोका पुगिसकेछु
+            <br/>
+            यसकारण प्रभु फर्की आउँदैछु, ग्रहण गर्नुहोस्, अर्जी चढाउँदछु
+            <br/>
+            चञ्चल मनलाई सुदृढ पारी, चाल मेरो स्थिर पारिदिनुहोस्, प्रभु (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

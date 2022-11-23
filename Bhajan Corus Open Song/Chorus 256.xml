@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus256 Pabitra Aatma Aaunuhos</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            पवित्र आत्मा आउनुहोस् हामीमा (२)
+            <br/>
+            मलाई लैजान येशूको चरणमा, पवित्र आत्मा । 
+            <br/>
+             मात्र तपाईंको लागि, येशू (तपाईंको लागि) ४
+            <br/>
+            म हात उचाल्दछु, पवित्र आत्मा आउनुहोस् ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

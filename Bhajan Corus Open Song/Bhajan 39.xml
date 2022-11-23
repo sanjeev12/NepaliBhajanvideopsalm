@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan39 Aja Hamro Prabhu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः आज हाम्रो प्रभु येशू जन्मे बेथलेहेम सहरमा
+            <br/>
+            मुक्ति छ सबलाई उनैमा मात्र, गई हेर त्यो ठाउँमा । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. परमेश्वरको त्यो कत्रो दया हामीमा हुन गो (२)
+            <br/>
+            जसको कारण पुत्र येशू (२) गोठैमा जन्म लिनुभो (२)
+            <br/>
+            तन मन धन सब भेटी चढाउँदै (२) उनकै चरणमा आऊँ (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. जयजयकार गाउँदै भेटी चढाउँदै उनकै चरणमा आऊँ (२)
+            <br/>
+            जन्म लिईकन आए हामीमा (२) जयजयकार उनकै गाऊँ (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

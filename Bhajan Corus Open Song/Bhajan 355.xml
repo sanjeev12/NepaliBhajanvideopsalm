@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan355 Timro Jawanilai Hela Garna</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः तिम्रो जवानीलाई हेला गर्न नदेऊ कसैलाई (२)
+            <br/>
+            सुम्प जीवन प्रभुलाई, डोर्याउनेछन् तिमीलाई (२)
+            <br/>
+            जीवनको यो (यात्रामा) २ 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. जीवन यो हाम्रो सधैँ नरहने, जानुछ एक दिन सबै (२)
+            <br/>
+            पापलाई त्यागी ख्रीष्टलाई लिई (२) हुनेछौ मृत्युपार । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. लोभ गर्छौ, लालच गर्छौ संसारको सबै थोकलाई (२)
+            <br/>
+            यी सबै थोक केही पनि होइन (२) हुनलाई मृत्युपार । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. जीवन यो तिम्रो प्रभुलाई देऊ भर्नेछन् आशिष्ले (२)
+            <br/>
+            संसारमा दुःख, मृत्युबाद सुख (२) पाउने छौ तिमीले ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

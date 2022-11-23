@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus148 Ishworle Diye Tyo</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            ईश्वरले दिए त्यो असल ठाउँ, म भित्र पस्छु र रमाउँछु
+            <br/>
+            उहाँको महिमा म थाहा गर्छु, उहाँको राज्य झल्काउँछु 
+            <br/>
+             उहाँलाई स्तुति दिन्छौँ हाम्रा प्राण, आत्मा र हृदयको स्वर खोली
+            <br/>
+            सीधै जान्छौँ निशानातिर कनानको भूमिमा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

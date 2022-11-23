@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan595 Chiso Chiso Hawama</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः चिसो  चिसो हावामा न्यानो माया है बोकेर
+            <br/>
+            येशू राजा आएका छन् है उद्धार लिएर (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. परदेशी बनेर आए, स्वर्गलाई छोडेर आए, पस्रिए गोठैमा
+            <br/>
+            आकाशमा तारा बालेर, धर्तीमा ज्योति छरेर अँधेरी हटाए (२)
+            <br/>
+            प्रशंसा हाम्रो येशूलाई हृदय खोलेर (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. नयाँ आशा हृदयमा छ मुक्तिदाता येशूको प्यारो सन्देश सुनेर
+            <br/>
+            हृदयको ढोका खोलेर जीवन लेऊ येशूमा आज विश्वास गरेर (२)
+            <br/>
+            प्रशंसा हाम्रो येशूलाई हृदय खोलेर (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

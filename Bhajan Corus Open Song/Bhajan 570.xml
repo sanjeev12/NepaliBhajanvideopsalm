@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan570 Jiwan Yatrama Haso Ra Rodan</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. हा हा हा हा हो हो हो हो (२) (जीवन यात्रामा हाँसो र रोदन सबै सहनुछ) २
+            <br/>
+            ख्रीष्ट हुन् हाम्रा असल मित्र (उहाँमा नै रहनुछ) २ 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. कहिले हिँड्छौ पहाड पर्वत, कहिले भञ्ज्याङतिर (२)
+            <br/>
+            माया नै गर्छौ जीवित प्रभुलाई (जहीँ गए तापनि) २
+            <br/>
+            हा हा हा हा हो हो हो हो (२) 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. मित्रहरूले हामीलाई तिरस्कारे पनि (२) मित्रता हाम्रो ख्रीष्ट येशूमा
+            <br/>
+            अमर रहिरहनेछ (२) (जीवन यात्रामा हाँसो र रोदन सबै सहनुछ) २
+            <br/>
+            ख्रीष्ट हुन् हाम्रा असल मित्र (उहाँमा नै रहनुछ) ७
+         </lines>
+      </verse>
+   </lyrics>
+</song>

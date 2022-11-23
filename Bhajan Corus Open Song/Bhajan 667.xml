@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan667 Yo Khristmas Ko Din</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः यो क्रिसमसको दिन, यो खुशीको दिन,
+            <br/>
+            यो आशाको दिन हो, यो उत्सवको दिन,
+            <br/>
+            यो जयध्वनि दिन मानव सबको लागि हो (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. मानव भई ईश्वर पुत्र आएको पक्कै हो,
+            <br/>
+            सत्य बाटो मानवलाई देखाको साँच्चै हो,
+            <br/>
+            बाँधेकोलाई फुकाउनलाई येशू आएको हो
+            <br/>
+            तोडेकोलाई जोड्नलाई आएको प्रभु हो । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. अपार माया दिन प्रभु आएको समय यो
+            <br/>
+            सबले सुनी हृदयमा राखिदेऊ प्रभुलाई
+            <br/>
+            अनन्त जीवन दिन्छन्, तिमीलाई पाप क्षमा पाउनेछौ,
+            <br/>
+            आफ्नो बनाउ उनको बन आनन्दित हुनेछौ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

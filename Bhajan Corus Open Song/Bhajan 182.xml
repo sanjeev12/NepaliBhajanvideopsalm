@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan182 Pheri Hey Prabhu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. फेरि हे प्रभु स्तुति गाउँदछौं एक मनका भई बिन्ती गर्दछौं
+            <br/>
+            तपाईंका दया हामी गर्छौं याद र घुँडा टेकी माग्छौं आशीर्वाद । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. घर जाँदाखेरि मिलाप दिनुहोस् यस दिनको अन्तमा आशिष् होस्
+            <br/>
+            ओठदेखि पाप र हृदयदेखि लाज टाढो गराऊ जो सेवा गरे आज । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. यस आउँदो रातमा दिनू मेल र सुख जसबाट हामीमा नहोस् दुःख
+            <br/>
+            र नोक्सानदेखि हामीलाई निकाली हेर्चाह गर्ने हो तपाईंको हाल । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. सांसारिक जीवनभरि हामीलाई रक्षा गराउनुहोस् जब छ लडाइँ
+            <br/>
+            जय दिनोस् प्रभु अनि मेलझैँ मिलापको राजा सर्वदै तपाईं ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

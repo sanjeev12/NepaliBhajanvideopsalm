@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan437 Dhanyabad Hos Isworlai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. धन्यवाद होस् ईश्वरलाई, बाली काट्ने भो समय
+            <br/>
+            सब सुरक्षासाथ घरमा अन्न छ बटुलेका,
+            <br/>
+            सृष्टिकर्ता ईश्वरले हामीलाई सब जुटाए
+            <br/>
+            मण्डली आऊ परमेश्वरको बाली काट्ने समय भो । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. हामी ईश्वरको बारी फल्छौं भने छ स्तुति
+            <br/>
+            गहुँ र साथै झारपात छन् दुःख वा सुखमा उम्रिन्छन्
+            <br/>
+            पहिले बिउ र बोट अनि देखा पर्दछ बाली
+            <br/>
+            प्रभु हामी त्यस्तै हौऔ अन्न चोखो शुद्ध बनौं । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. हाम्रा प्रभु आउनेछन् फसल घरमा लानेछन्
+            <br/>
+            जे जे उनलाई लाग्छ घीन, हटाइदेलान् त्यसै दिन
+            <br/>
+            झार पात स्वर्गदूतगणलाई फाल्न देलान् आगोमै
+            <br/>
+            तर अन्न धन्सारमा राखिदिनेछन् सदा । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. प्रभु चाँडै आउनुहोस् फसल घरमा लानुहोस्
+            <br/>
+            जम्मा गराई मण्डली शोक पापदेखि पखाली
+            <br/>
+            स्वर्गमा नित्य बस्नेछन् शुद्ध पारिएका जन
+            <br/>
+            फसल घरमा लैजान चाँडै आउनुहोस् प्रभु ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

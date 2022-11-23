@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan341 Taranhar Khristh Yeshujiko</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः तारणहार ख्रीष्ट येशूजीको नित नित जयजयकार होस्
+            <br/>
+            पापीहरूलाई अति प्रेम गर्ने, येशूको बढाइँ होइरहोस् । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. तड्पी हिँड्थेँ जीवन सारा तिमीविहीन, हे येशूजी (२)
+            <br/>
+            धन्य होस्, तिम्रो प्रेमको निम्ति (क्रूसैमा चढी बचाउनुभो) २ 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. जीवन पथमा दुःख सङ्कट सदा नै प्रभु किन नहोस्
+            <br/>
+            अगाध प्रेमको साटोमा येशू (हृदय भेटी यही रहोस्) २ 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. ग्रहण गरी हृदय मेरो प्रेम र आनन्द अझ बढाऊ
+            <br/>
+            मन यही हो मन्दिर तिम्रो, (स्तुतिको योग्य यो जीवन बनाऊ) २
+         </lines>
+      </verse>
+   </lyrics>
+</song>

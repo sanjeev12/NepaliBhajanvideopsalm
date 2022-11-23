@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan476 Yeshu Prabhu Sab Shristile</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. येशू प्रभु, सब सृष्टिले सुनाउँछ उनको शक्तिले यो पृथ्वी बनाएथ्यो
+            <br/>
+            येशू प्रभु, यस जगत्ले देखाउँछ घाम, तारा, जून बताउँछन् कि ख्रीष्ट हुन् प्रभु । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः येशू प्रभु (२), गाओ स्तुति गाओ हल्लेलूयाह कि ख्रीष्ट हुन् प्रभु । 
+            <br/>
+             २ येशू प्रभु भए पनि स्वर्ग त्यागी मानिस भई मर्न आए श्रापित क्रूसमा
+            <br/>
+            येशू प्रभु जीवनदाता भए पनि पापदण्ड तिरी किने हाम्रो छुटकारा । 
+            <br/>
+             ३ येशू प्रभु उठी विजेता भए हटिगयो अब हाम्रो पाप र मृत्यु
+            <br/>
+            येशू प्रभुले आत्मालाई पठाए बल शक्तिले देखाउन कि ख्रीष्ट हुन् प्रभु ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

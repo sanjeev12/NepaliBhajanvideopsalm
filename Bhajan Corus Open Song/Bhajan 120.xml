@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan120 Aja Ji Uthe Yeshu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. आज जी उठे येशू नै, हल्लेलूयाह, हाम्रो बडा दिनमा, जय हल्लेलूयाह ।
+            <br/>
+            जसले क्रूसमा दिए प्राण, हल्लेलूयाह हाम्रो लागि गरे त्राण हल्लेलूयाह । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. गाऔं धन्यवादको गान हल्लेलूयाह स्वर्गको राजा ख्रीष्टको मान हल्लेलूयाह ।
+            <br/>
+            क्रूस चिहानको बोके भार हल्लेलूयाह उनको बाटो छ उद्धार हल्लेलूयाह । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. सहे उनले दुःख नै हल्लेलूयाह मलाई मुक्ति दिनलाई हल्लेलूयाह ।
+            <br/>
+            अब स्वर्गमा राजा भई हल्लेलूयाह दूतले गाउँछन् उनको जय हल्लेलूयाह ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

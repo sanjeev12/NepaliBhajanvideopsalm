@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan700 Narunu Hai Aama Buba</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः नरुनु है हे आमा बाबा (२)
+            <br/>
+            तिम्रो छोरो मरेको होइन प्रभुले लानु भएको (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. म त प्रभुको घरमा सुखसँग छु
+            <br/>
+            प्रभुको मीठो मीठो भजन सधैँ गाउँदछु (२)
+            <br/>
+            प्रभुको न्यानो अङ्गालोमा आमा तिम्रै ममता पाउँदछु । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. म छुइनँ भनेर संसारमा लौन तिमी हरेस नखाओ
+            <br/>
+            एक दिन त सबै उनकै राज्यमा अवश्य भेट्नेछौँ (२)
+            <br/>
+            यही आशामा बस्नु है सबै प्रभुको आगमन नजीक छ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

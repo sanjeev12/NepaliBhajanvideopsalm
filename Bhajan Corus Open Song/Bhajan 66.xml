@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan66 Dhanya Prabhu Yeshuko</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः धन्य प्रभु येशूको, शान्तिदायक जसको नाऊँ
+            <br/>
+            स्तुति गरौं बारम्बार हाम्रो प्रभुको । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. अपार छ प्रभुको प्यार अधर्मी जातिप्रति (२)
+            <br/>
+            क्षणभरको जीवन हाम्रो (२) गर्नुभो फेरि तारण हाम्रो । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. जगत सारा संसार अन्धकार पापैमा छ (२)
+            <br/>
+            ज्योति बनी आयौ प्रभु (२) स्वर्गीय राज्यको मार्ग बनाई । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. उदेक छ प्रभुको कार्य, कसरी भुलौं, हे भाइ (२)
+            <br/>
+            आनन्दित मनले उनलाई भजौं (२) सुनाइरहौं उनको जयजय गान ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus212 Haami Bijay Hunechau</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            हामी विजयी हुनेछौँ (२), येशूको रगतमा, येशूको शक्तिमा
+            <br/>
+            सबै शत्रुमाथि आज, हामी विजयी हुनेछौँ (२) 
+            <br/>
+             येशूको रगतले, येशूको शक्तिले सबै शत्रुमाथि आज
+            <br/>
+            आऔँ येशूलाई उचालौँ, सबै मिली,
+            <br/>
+            आऔँ येशूको स्तुति गाऊँ सबै मिली ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

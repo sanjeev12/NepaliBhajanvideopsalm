@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus278 Tapai Mero Saran</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>१. तपाईं मेरो शरण, मेरो बलियो किल्ला, खाँचोमा मेरो साथी, मेरो प्रभु (२) </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः सारा हृदयले पुज्छु तपाईंलाई, सारा जीवनले खोज्छु तपाईंलाई
+            <br/>
+            तन, मन, धनले सेवा गर्छु, म यहाँ छु, म यहाँ छु, प्रभु (३) म यहाँ छु 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines> २. तपार्इं मुक्तिदाता, मेरो चङ्गाइकर्ता, खाँचोमा मेरो शक्ति, मेरो प्रभु । </lines>
+      </verse>
+      <verse name="v3">
+         <lines> ३. तपाईं मेरो गोठालो, मेरो शक्ति र बल, तपाईं मेरो आश्रय, मेरो प्रभु ।</lines>
+      </verse>
+   </lyrics>
+</song>

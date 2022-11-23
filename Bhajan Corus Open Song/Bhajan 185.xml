@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan185 Jo Biswas Garcha</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. जो विश्वास गर्छ बप्तिस्मा लिन्छ त्यो उद्धार पाउनेछ
+            <br/>
+            ख्रीष्टको मृत्युमा लिई बप्तिस्मा नयाँ सृष्टि हुन्छ ।
+            <br/>
+            ख्रीष्ट येशूद्वारा पाई छुट्कारा पुग्नेछ स्वर्गमा
+            <br/>
+            जहाँ निष्पापी मण्डली प्रतापीसँग हुन्छ खडा । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. एक मनका भई बिन्ती चढाई आयौं हे परमेश्वर
+            <br/>
+            दयाको साथमा पवित्र आत्मा दिनुहोस् महान् वर
+            <br/>
+            येशूको मरण सद्गुण सम्झेर पाप क्षमादान दिनोस्
+            <br/>
+            अनन्त जीवन पाऔं भनेर उन्नति दैनिक होस् ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

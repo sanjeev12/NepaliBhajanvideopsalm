@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus210 Haami Ubhiyeka Chaau</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            हामी उभिएका छौँ, तपाईंको सिंहासनअघि
+            <br/>
+            आराधना गर्न तपाईं जिउँदो येशूलाई,
+            <br/>
+            उचाल्न तपाईंको नाउँलाई
+            <br/>
+            दण्डवत् गर्न प्रभुहरूका प्रभु येशूलाई, 
+            <br/>
+             यसैले अब बहाउनुहोस् तपाईंको सिंहासनबाट,
+            <br/>
+            हे प्रभु, बहाउनुहोस् प्रेमको खोला
+            <br/>
+            बहाउनुहोस् शक्तिको खोला, बहाउनुहोस् आशिष्को खोला
+            <br/>
+            बहाउनुहोस् प्रेमको खोला ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

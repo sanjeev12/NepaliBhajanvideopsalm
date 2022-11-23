@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan334 Hey Yeshu Mero Man</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. हे येशू मेरो मन लुकाऊ त्यस धारामा, त्यस धारामा
+            <br/>
+            र पाप र डर सबै मेटाऊ रगतको धारामा । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः रगतको धारामा प्रभु मलाई लुकाऊ पवित्र बनाऊ
+            <br/>
+            र दिनवदिन मलाई डुबाऊ रगतको धारामा । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. पापीलाई मिल्दछ क्षमा त्यस धारामा, त्यस धारामा
+            <br/>
+            र पाउँदछ स्वतन्त्रता रगतको धारामा । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. अब भर आफैंले मलाई त्यस धारामा, त्यस धारामा
+            <br/>
+            मलाई पनि पवित्र बनाई रगतको धारामा । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. पवित्र आत्मा दिनवदिन त्यस धारामा, त्यस धारामा
+            <br/>
+            मलाई प्रभु देखाउँदछन् रगतको धारामा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

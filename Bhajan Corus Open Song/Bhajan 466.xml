@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan466 Aba Arko Barsa Bitecha</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. अब अर्को वर्ष बितेछ हे मेरो दिल, चेत गर
+            <br/>
+            ईश्वरले रक्षा गरेछन् अग्घोर धन्यवाद गर । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. यस वर्ष कति थिए बिमार र कति मरेछन्
+            <br/>
+            शैतानदेखि कति डराई दुष्टआत्मा पुजेछन् । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. मलाई त जुर्यो आत्मिक ज्ञान, शरीरको सुख र आड
+            <br/>
+            धेर रोटी, वस्त्र, मित, ठेगान ठीक खाँचो नै अन्सार । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. यस वर्षका सब पाप अपराध हे ईश्वर माफ गर्नोस्
+            <br/>
+            ठीक धर्म गर्नुछ असाध्य अनुग्रह दान दिनोस् ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

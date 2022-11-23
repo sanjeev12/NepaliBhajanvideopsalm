@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan392 Prabhu Bato Dekhaedeu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            <br/>
+            Bhajan: 392
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+            कोः प्रभु बाटो देखाइदेऊ जीवनको हर पलपलमा
+            <br/>
+            प्रभु ज्योति देखाइदेऊ जीवनको अँध्यारोमा ।
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+            १. आउँदछु म तपाईंको छेउ निष्पट अँध्यारो संसारदेखि
+            <br/>
+            पापै भएको जीवन लिई तपाईंमा जीवन पाउन ।
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+            २. बित्न लागेको उद्धारको दिन धेरै समय अरू पापमा बिताई
+            <br/>
+            जिउन चाहन्छु, हिँड्न चाहन्छु बाँकी समय प्रभु येशूमा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

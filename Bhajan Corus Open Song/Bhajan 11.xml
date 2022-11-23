@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan11 Adima Thiya Parmeshwor</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. आदिमा थिए परमेश्वर, सब थोक छ दिनमा सृजे
+            <br/>
+            सोमवार बनाए, उज्यालो, मंगलवार आकाश सृजे । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines> कोः हल्लेलूयाह (३) यहवे गाऊ हल्लेलूयाह यहवे । </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. बुधवार बनस्पति, खानी, सृजे सागर र भूमि
+            <br/>
+            बिहीवार घाम, जून, तारा, बादल, वज्र, वर्षा, बिजुली । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. शुक्रवार साना ठूला जन्तु बगिहिँड्ने सागरमा
+            <br/>
+            त्यही दिन उड्ने सबै पंक्षी, चीलधरि र भुसुना । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. शनिवार धरतीमाथि हिँड्ने वन पशु र घरैया
+            <br/>
+            सृजे मानिस आफ्नै रूपमा, दिए अधिकार सब थोकमा । 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. छ दिनमा काम भो समाप्त, सातौँ दिन बिसाउनुभो
+            <br/>
+            आइतवार बिसाऊ तिमी पनि अनि सेवा गर मेरो । 
+         </lines>
+      </verse>
+      <verse name="v6">
+         <lines>
+             ६. आदि अन्त सर्वशक्तिमान यहवे राजा सर्वमहान्
+            <br/>
+            नर नारी, बालक वृद्ध गाऔं उनको स्तुतिगान ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

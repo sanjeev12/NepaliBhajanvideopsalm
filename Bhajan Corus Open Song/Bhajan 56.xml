@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan56 Gaaun Mashiko Jaygaan</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः गाऊ मसीहको जयगान र धन्य भन उनको नाम,
+            <br/>
+            पृथ्वी तलको नर–नारीको (२) एक सहारा मसीह (२) गाऊ... 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. मुक्तिको पथलाई प्रचार गर्दै, जीवन मसीहले बिताए
+            <br/>
+            पाप र श्राप मेटाउन मसीहले, क्रूसमा रगत बगाए । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. अन्धकार जगको अँध्यारोलाई, प्रेमी मसीहले हटाए
+            <br/>
+            प्रेम प्रचार्दै, प्रेम बढाउँदै, ईष्र्या र द्वेष मेटाए । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. पथिकहरूलाई पथ दर्शाउँदै, ईश्वर नाता जोडाए
+            <br/>
+            पापको बन्धनमा हामी परेथ्यौं, प्यारो मसीहले छुडाए । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. अमोल प्रेम जो मसीहमा पाउँछौं, यो छाडी कहाँ जाऔं ?
+            <br/>
+            मुक्ति र शान्ति जो उनमा पाउँछौं, जयजयकार उनकै गाऔं ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

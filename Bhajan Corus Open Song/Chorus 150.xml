@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus150 Hosanna Hosanaa</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            होसत्रा, होसत्रा, होसत्रा महिमा स्तुति प्रशंसा
+            <br/>
+            आज अनि सदासर्वदा, आमेन् २ 
+            <br/>
+             होसत्रा, होसत्रा, होसत्रा महिमा स्तुति
+            <br/>
+            प्रशंसा, आज अनि सर्वदा २ 
+            <br/>
+             आऔँ हामी सबै मिली गाऔँ स्तुति उनैको (२)
+            <br/>
+            उनैलाई भक्ति आदर महिमा सधैँ चढाऔँ हाम्रो जीवनमा (२) 
+            <br/>
+             होसन्ना हल्लेलूयाह (२) होशन्ना, महिमा, स्तुति,
+            <br/>
+            प्रशंसा हल्लेलूयाह, प्रशंसा आज अनि सर्वदा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

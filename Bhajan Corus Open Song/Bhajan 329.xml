@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan329 Aaudachu Tapaiko Charanma</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः आउँदछु तपाईंको चरणमा, पर्दछु तपाईंको शरणमा
+            <br/>
+            पापको बोझ छ जीवनमा, हटाई बस्नुहोस् हृदयमा । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. सिकाउनुहोस् मलाई प्यार गर्न तपाईंलाई (२)
+            <br/>
+            प्रभु मलाई तपाईंले प्यार गर्नुभो पहिले (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. समाती मेरो हात राख्नुहोस् मलाई साथ (२)
+            <br/>
+            जीवनको ज्योति दिई चम्काउनुहोस् मलाई (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

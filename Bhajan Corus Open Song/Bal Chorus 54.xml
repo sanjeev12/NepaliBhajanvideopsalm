@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bal Chorus54 Ke Timilai Yesko Naam</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. के तिमीलाई यसको नाम थाहा छ ?
+            <br/>
+            हो, मलाई यसको नाम थाहा छ ।
+            <br/>
+            यो एक सुन्दर गीटार हो, यो बज्नसक्छ रिङ्टिङ्टिङ् ।
+            <br/>
+            उनको आवाज सुन्छौ भने, येशूले हामीलाई प्रेम गर्छन् ।
+            <br/>
+            यो बज्नसक्छ (रिङ्टिङ्टिङ्) २ 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. के तिमीलाई यसको नाम थाहा छ ?
+            <br/>
+            हो, मलाई यसको नाम थाहा छ ।
+            <br/>
+            यो एक सुन्दर पियानो हो, यो बज्नसक्छ सा रे ग म ।
+            <br/>
+            उनको आवाज सुन्छौ भने, येशूले हामीलाई प्रेम गर्छन् ।
+            <br/>
+            यो बज्नसक्छ (सा रे ग म) २ 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. के तिमीलाई यसको नाम थाहा छ ?
+            <br/>
+            हो, मलाई यसको नाम थाहा छ ।
+            <br/>
+            यो एक सुन्दर ड्रम सेट हो, यो बज्नसक्छ डुम् डुम् डिस् ।
+            <br/>
+            उनको आवाज सुन्छौ भने, येशूले हामीलाई प्रेम गर्छन् ।
+            <br/>
+            यो बज्नसक्छ (डुम् डुम् डिस्) २ 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. के तिमीलाई यसको नाम थाहा छ ?
+            <br/>
+            हो, मलाई यसको नाम थाहा छ ।
+            <br/>
+            यो एक सुन्दर मादल हो, यो बज्नसक्छ धिन ताङ्ग ताङ्ग ।
+            <br/>
+            उनको आवाज सुन्छौ भने, येशूले हामीलाई प्रेम गर्छन् ।
+            <br/>
+            यो बज्नसक्छ (धिन ताङ्ग ताङ्ग) २
+         </lines>
+      </verse>
+   </lyrics>
+</song>

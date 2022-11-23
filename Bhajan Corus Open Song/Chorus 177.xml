@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus177 Ishworle Aafno Putralai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. ईश्वरले आफ्नो पुत्रलाई संसारमा पठाए
+            <br/>
+            र क्रूसमा मरीकन हामीलाई बचाए
+            <br/>
+            के दिनु? के दिनु? म येशूलाई के दिनु,
+            <br/>
+            त्यो बडो प्रेमको साटोमा, के दिनु उनलाई म ? 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. म अति सानो पाठोलाई कि उनलाई मनपर्छ
+            <br/>
+            र मैले दिएको थोक उनले ग्रहण गर्छन्,
+            <br/>
+            के दिनु ? के दिनु ? त्यो बडो प्रेमको ...? 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. म सधैँ बाइबल पढ्दछु, आज्ञाकारी हुनलाई
+            <br/>
+            म सधैँ प्रार्थना गर्दछु, उनको इच्छा बुझ्नलाई ।
+            <br/>
+            के दिनु? के दिनु? म येशूलाई के दिनु,
+            <br/>
+            त्यो बडो प्रेमको साटोमा, के दिनु उनलाई म ?
+         </lines>
+      </verse>
+   </lyrics>
+</song>

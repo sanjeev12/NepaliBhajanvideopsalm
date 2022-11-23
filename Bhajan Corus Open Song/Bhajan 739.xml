@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan739 Maile Aasu Bagauna Saku</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः (मैले आँसु बगाउन सकुँ)२ (मरिरहेका आत्माको निम्ति)२
+            <br/>
+            (मैले हृदय फटाउन सकुँ)२ (नष्ट भएका प्राणको निम्ति)२
+            <br/>
+            मैले आँसु बगाउन सकुँ ... 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. म बगिरहन सकुँ यर्दन नदी झैं
+            <br/>
+            म बनिरहन सकुँ, सिम्सार भूमि झैं (२)
+            <br/>
+            मबाट फुटाउनुहोस जीवनको मूल
+            <br/>
+            मबाट बर्साउनुहोस (आशिषको झरी)२ 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. म स्वादिष्ट बनिरहुँ जगतको नून झैं
+            <br/>
+            म चम्किरहन सकुँ, संसारको ज्योति भई (२)
+            <br/>
+            डाँडामाथि बसालेको शहरझैं बनाउनुहोस् मलाई
+            <br/>
+            लाखौं आत्मा बाँच्ने आधार, (बनाउनुहोस् मलाई) २
+         </lines>
+      </verse>
+   </lyrics>
+</song>

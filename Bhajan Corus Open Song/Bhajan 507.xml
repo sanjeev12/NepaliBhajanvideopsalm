@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan507 Haata Failai Maya Garera</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः हात फैलाई माया गरेर डाक्छन् हामीलाई
+            <br/>
+            भन्छन् येशू राजा सुन सबै नानीलाई ।
+            <br/>
+            जीवनको मुकुट तिम्रै हो, आऊ थाप्नलाई
+            <br/>
+            कोही नरोक साना बालकलाई (मथाइँ आउनलाई) २ 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. नानी हामी साना छौँ, प्रभुको लागि प्यारा छौं (२)
+            <br/>
+            यो सानो मनमा, सबै जीवनमा (२)
+            <br/>
+            प्रभुको राज्य सधैँ होस्, उहाँको वास भइरहोस् (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. आकाशका धेरै ताराहरूझैँ मैदानका सबै फूलहरूझैँ (२)
+            <br/>
+            नानी हामी धेरै धेरै छौं (२)
+            <br/>
+            प्रभुको लागि प्यारा छौं, उहाँकै भएर जिउनेछौं (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

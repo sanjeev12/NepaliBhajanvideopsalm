@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan21 Bhedi Goth Charda</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 v5 v6 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. भेडी गोठ चर्दा नि चर्दा रात परिगयो
+            <br/>
+            लौ अब ल्याए गोठैमा गोठालाहरूले (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. आगोका वारि नि पारि गोठाला बसे
+            <br/>
+            आफ्ना नि आफ्ना खोरैमा भेडी है सबै पसे (२) 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. सबै ठाउँ अँध्यारो हुँदा उज्यालो भयो
+            <br/>
+            यो ज्योति केको भन्दै नि गोठाला सबै उठे (२) 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. स्वर्गदूत छेउमा देखी डरले सब कामे
+            <br/>
+             नडराऊ सुन सुसमाचार  भनी है दूतले थामे (२) 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. गाईको गोठैमा सुन बेथलेहेम गाउँमा
+            <br/>
+            तारणहार प्रभु जन्मिए, गई हेर त्यो ठाउँमा (२) 
+         </lines>
+      </verse>
+      <verse name="v6">
+         <lines>
+             ६. भेडी गोठ सबै नि छाडी गोठाला हिँडे
+            <br/>
+            प्रभुको दर्शन पाएर दण्डवत प्रणाम गरे (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

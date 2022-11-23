@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan36 Ananda Manau Ra Harsa Manau</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः आनन्द मनाऔं र हर्ष मनाऔं,
+            <br/>
+            सारा दुनियाँलाई सुसमाचार सुनाऔं । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. उठ दाजु भाइ हो, हेर तारालाई
+            <br/>
+            येशूजीको जन्म भयो, उठ, दर्शनलाई । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. उठ दिदीबहिनी, हेर तारालाई
+            <br/>
+            येशूजीको जन्म भयो, उठ, दर्शनलाई ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

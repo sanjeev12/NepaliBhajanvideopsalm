@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan306 Yeshu Sath Sath Hidda</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. येशू साथ साथ हिँड्दा वचनको ज्योतिमा हाम्रो बाटो गराउँछन् प्रकाश
+            <br/>
+            हाम्रो हुन् पालनहार उनको इच्छाअन्सार यदि गर्दछौं र मान र विश्वास । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः मान र विश्वास गरे ख्रीष्टमा छ आश
+            <br/>
+            येशूलाई गर्नुपर्छ खालि मान र विश्वास । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. मेघ अँध्यारो आए येशूको मुहारले चाँडै पार्दछ निर्मल आकाश,
+            <br/>
+            न ता शङ्का, न भय, न ता आँशु न हाय हामी गरुञ्जेल मान र विश्वास । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. आफ्ना भारी बोकी अरूलाई साहस दिई श्रमको फल पाऔंला ख्रीष्टको स्यावास
+            <br/>
+            सङ्कट, आपद् र क्लेश हामीलाई छ आशिष् यदि गर्दछौं मान र विश्वास । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. तर तन, मन र धन अर्पण नगरुञ्ज्याल हामी येशूमा हौंला निराश,
+            <br/>
+            कारण आनन्द र जय येशू दिन्छन् त्यसलाई जसले गर्दछन् मान र विश्वास । 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. उनको संगतिमा पाउनेर बसौंला बाटोमा हिंडौला उनको साथ
+            <br/>
+            उनको आज्ञा मानौं, जहाँ पठाउनेछन् जाऔं डर नहोस् खालि मान र विश्वास ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

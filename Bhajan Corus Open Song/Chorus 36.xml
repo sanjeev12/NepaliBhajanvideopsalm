@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus36 Samayama Unko Samayma</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            समयमा, उनको समयमा, सब थोक सुन्दर बन्छन् उनको समयमा
+            <br/>
+            मार्ग मलाई देखाउनुहोस्, दिन व दिन सिकाउनुहोस्
+            <br/>
+            सदा हिँड्नलाई तपाईंको समयमा, समयमा, तपाईंको समयमा, 
+            <br/>
+             सब थोक सुन्दर छन् तपाईंको समयमा
+            <br/>
+            जीवन मेरो सुम्पन्छु, स्तुति सदा गाउनेछु,
+            <br/>
+            ग्रहणयोग्य होस् तपाईंको समयमा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

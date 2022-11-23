@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan27 Yerusalem Saharko Bethlehem</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 v5 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. यरूशलेम सहरको बेथलेहेम गावैँमा, हाम्रो प्रभु येशू जन्मे गोठैमा ।
+            <br/>
+            थियो ओछ्यान परालको, कोक्रो उनको डुँडैभो आनन्द गरी हर्ष गरौं सबैले । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. त्यै रात गोठालाहरू भेडा कुर्दै थिए, एउटा दूत अचानक आई समाचार दिए
+            <br/>
+            संसारैको लागि मुक्तिदाता जन्मे, येशूलाई हेर्न जाऊ बेथलेहेममा । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. गोठालाहरू गए, देखे डुँडमा येशू, दूतले भनेझैँ मुक्तिदातालाई
+            <br/>
+            हर्ष र आनन्द भई गरे दण्डवत् सबैले, खुसी भई, रमाउँदै घर फर्के । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. जोतिषी पनि पूर्वदेखि आए तारा हेर्दैहेर्दै येशूलाई भेट्न
+            <br/>
+            देखी दण्डवत् गरे सबले भेटी चढाए, खुसी भई रमाउँदै घर फर्के । 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. हामी सबै मिली दण्डवत् गरौं ईश्वरलाई,उनले आफ्ना पुत्र दिए मुक्तिदान
+            <br/>
+            उनमा विश्वास गर्नेले पाउँनेछन् त्राण, मुक्ति, आनन्द भई हर्ष गरौं सबैले ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

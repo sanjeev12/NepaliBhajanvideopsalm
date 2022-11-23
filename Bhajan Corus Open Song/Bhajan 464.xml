@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan464 Yeshulai Dhanyabad Din Kati</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. येशूलाई धन्यवाद, दिन कति राम्रो
+            <br/>
+            सेतो हिमाल र अग्लो पहाड (२) आकाशै चम्किलो । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. येशूलाई धन्यवाद, फूल कति राम्रो
+            <br/>
+            हरियो घाँस हल्लने रूख (२) फल खानु स्वादिलो 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. येशूलाई धन्यवाद, पुतली के राम्रो
+            <br/>
+            उड्ने चरा र हिँड्ने पशु (२) गीत गाउने फटेंग्रा
+         </lines>
+      </verse>
+   </lyrics>
+</song>

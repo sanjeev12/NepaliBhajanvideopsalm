@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan508 Paramprabhu Aghi Baddai Chan</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            परमप्रभु अघि बढ्दै छन्
+            <br/>
+            उनको सेना सदा बलियो छ
+            <br/>
+            उनको महिमा यस देशमाथि देखिनेछ 
+            <br/>
+             स्वर उचाल्दै जयको गान गाऔं
+            <br/>
+            स्तुति गरौं विजय भएका छौं
+            <br/>
+            कुनै हातहतियार काम लाग्ने छैन । 
+            <br/>
+             हामीहरूको सेनापति येशू हुन्
+            <br/>
+            हामी उनको पाइला पछ्याउँदछौं
+            <br/>
+            कोही अघि खडा हुन सक्नेछैन । 
+            <br/>
+             हामी मसिही सेना हौं
+            <br/>
+            जयको साँचो उनको हातमा छ
+            <br/>
+            प्रतिज्ञाको देश लिन अघि बढौं ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan184 Hey Prabhu Garchau Samarpan</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 v5 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. हे प्रभु गर्छौं समर्पण विश्वास र प्रार्थनासाथ
+            <br/>
+            बाल–बच्चा हाम्रा तपाईंलाई लौ लिनोस् ईश्वर नाथ । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. तपाईंले आफ्नो मण्डलीलाई दिनुभयो करार
+            <br/>
+            त्यसमा यिनै भाग लिएर पाउन् सबै उद्धार । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. यस पृथ्वीमा डुल्दाखेरि प्रेम गरेर तपाईं
+            <br/>
+            अङ्गालो हाल्नु हुदथ्यो बाल–बच्चाहरूलाई । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. ऐले पनि दिलाउनु होस् अनुग्रहको यो वर
+            <br/>
+            हामी र हाम्रा बच्चालाई हे दयालु ईश्वर । 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. बाल रहुञ्जेल जोगाउनुहोस् सांसारिक लोभदेखि
+            <br/>
+            र धार्मिक पथमा ल्याउनुहोस् तिनलाई जीवनभरि ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

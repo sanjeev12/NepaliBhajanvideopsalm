@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus224 Aaeraheka Chau</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            आइरहेका छौँ (३), थुमाको रगतको कारण
+            <br/>
+            छुन सिंहासनलाई, (आइरहेका छौँ) २ 
+            <br/>
+             दण्डवत् गर्न येशूलाई आराधना गर्न प्रभुलाई
+            <br/>
+            आइरहेका छौँ (३)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

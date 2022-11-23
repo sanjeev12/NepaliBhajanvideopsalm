@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan224 Bhai Bahini Papalai Dhoyi</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>कोः भाइ बहिनी पापलाई धोई माग न येशूको रगतले । </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. समय पूरो भई गए परमेश्वरले राज्य गर्ने
+            <br/>
+            मुक्ति उद्धार पाउनेछन् जसले विश्वास गर्ने । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. स्वर्गबाट ओर्ली आए मानिस चोला लिएर
+            <br/>
+            पापको बन्धन खोलिदिए आफ्नै रगत दिएर । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. कल्वरी डाँडैमा क्रूसमा झुण्डाई मारे
+            <br/>
+            तिम्रो हाम्रोे पापको साटो रगतको धारा बगाए । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. समय छैन भाइ बहिनी चाँडै उठी आउनुहोस्
+            <br/>
+            सुसमाचारलाई विश्वास गरी उद्धार मुक्ति पाउनुहोस् । 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. पापको भवसागरमा रहन्छौ कति दिन
+            <br/>
+            प्रभु येशू तयार छन् पार तारी दिन । 
+         </lines>
+      </verse>
+      <verse name="v6">
+         <lines>
+             ६. साँचो अनि एउटै मात्र स्वर्गीय अमर प्रेमलाई
+            <br/>
+            आज अनि यसै घडी माग पाउनलाई ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

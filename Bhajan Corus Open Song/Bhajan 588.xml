@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan588 Janma Bhayo Yeshu Rajako</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः जन्म भयो येशू राजाको बेथलेहेम गाउँमा
+            <br/>
+            स्वर्ग छोडी आउनुभयो मान्छेको भेषमा । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. हामी पापीलाई मुक्ति दिनलाई जन्म लिनुभयो यही धरतीमा (२)
+            <br/>
+            अन्धकारमा ज्योति बनेर आउनुभयो येशू (यो संसारमा) २ 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. परमेश्वर पुत्र भएर पनि गाईको गोठमा जन्मनुभयो (२)
+            <br/>
+            साँचो परमेश्वर चिनाउन भनेर स्वर्गबाट (ओर्लिआउनुभो) २
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus261 Bihaniko Bihaniko Suryako</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            बिहानीको, बिहानीको (सूर्यको किरणले भेट्नअघि) २ 
+            <br/>
+             म येशू तपाईंलाई छुन चाहन्छु (२)
+            <br/>
+            आकाशमा उड़्ने पंक्षी तपाईंले बनाउनुभो 
+            <br/>
+             पशु पंक्षी (२) (ले प्रभात डाक्नअघि) २
+            <br/>
+            म येशूलाई बोलाउन चाहन्छु (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

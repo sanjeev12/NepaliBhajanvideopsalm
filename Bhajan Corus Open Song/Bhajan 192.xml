@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan192 Sunana Sathi Yo Mitho</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः सुनन साथी यो मीठो वचन मनैमा गुन न
+            <br/>
+            प्रेमैले ल्याएको मुक्तिको माला विश्वासमा उन न, (विश्वासमा उन न) २ 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. यो भवसागर आँधीले पूर्ण पापैले अँध्यारो (२)
+            <br/>
+            अँध्यारो जगको ख्रीष्टमात्र हाम्रो मुक्तिको उज्यालो (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. संसारको ज्योति तारणहार ईशपुत्र पियारा (२)
+            <br/>
+            पियारा येशू शुद्धको निम्ति, मुक्तिको सहारा (२) 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. सित्तेंइमा ल्याएको सित्तेंइमा लैजाऊ भनेर यो प्रचार (२)
+            <br/>
+            प्रचार भयो यो मानव धर्म बचाउन संसार (२) 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. शुद्धिको उपाय मुक्तिको हाम्रो ख्रीष्टमात्र पियारो (२)
+            <br/>
+            पियारो जगको ख्रीष्ट मात्र हाम्रो मुक्तिको उज्यालो (२) 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. विश्वास गर पापैलाई त्याग सुनेर सङ्गाल (२)
+            <br/>
+            भजन सुनी येशूलाई पछ्याई सत्यलाई अङ्गाल (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

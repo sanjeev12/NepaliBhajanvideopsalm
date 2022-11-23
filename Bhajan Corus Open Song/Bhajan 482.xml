@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan482 Yeshu Dhanyabad Maile Pujna</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः येशू धन्यवाद मैले पुज्नुपर्दैन न आकाश, न पृथ्वीका आकृतिहरू
+            <br/>
+            तिमीले चिनाइदियौ साँचो परमेश्वरलाई । येशू धन्यवाद । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. पहाड, नदी, जङ्गल र बादल तिम्रा सृष्टि हुन् (२)
+            <br/>
+            कसरी पुजूँ मैले तिम्रा हातका रचनाहरू ?
+            <br/>
+            तिमीले बताइदियौ आदि अन्त तिमी नै हौ (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. तोडूँ कति मेरो जीवनलाई मुक्तिको खोजीमा (२)
+            <br/>
+            पूण्य गरे भन्छु, छैन शान्ति मेरो आत्मामा
+            <br/>
+            तिमीले देखाइदियौ बाटो सत्य र जीवन (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

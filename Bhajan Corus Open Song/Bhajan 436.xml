@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan436 Hamile Suneka Chau</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. हामीले सुनेका छौं येशूले बचाउँदछन्
+            <br/>
+            अरूलाई जनाएका छौं येशूले बचाउँदछन् ।
+            <br/>
+            सबै देशमा होस् प्रचार ख्रीष्टले दिएको उद्धार
+            <br/>
+            प्रभुको सुसमाचार येशूले बचाउँदछन् । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. पापीलाई सुनाइयोस् येशूले बचाउँदछन्
+            <br/>
+            दुःखीलाई जनाइयोस् येशूले बचाउँदछन् ।
+            <br/>
+            पृथ्वीमा होस् विश्वास, नष्ट हवस् सब उदास
+            <br/>
+            सबका मनमा यस्तै होस् येशूले बचाउँदछन् । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. आफ्नो जीवन, मृत्युले येशूले बचाउँदछन्
+            <br/>
+            स्तुति गर यस गीतले येशूले बचाउँदछन् ।
+            <br/>
+            गाऊ दुःख सहँदा, गाऊ पश्चात्ताप गर्दा
+            <br/>
+            गाऊ जिउनी छोड्दा, येशूले बचाउँदछन् । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. सबैलाई यो आव्हान छ येशूले बचाउँदछन्
+            <br/>
+            सबैलाई रमाहट छ येशूले बचाउँदछन् ।
+            <br/>
+            हवस् दुष्टको पूरो क्षय हवस् ख्रीष्टको पूरो जय
+            <br/>
+            गाऊ सधैँ बहिनी  भाइ येशूले बचाउँदछन् ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

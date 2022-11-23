@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan149 Rakchu Maile Khristhko</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. राख्छु मैले ख्रीष्टको वचनमा विश्वास
+            <br/>
+            उनको श्रेष्ठ नाममा नित्य महिमा होस् ।
+            <br/>
+            मेरो गीत छ सदा उनको स्तुति होस्
+            <br/>
+            राख्छु ख्रीष्टको वचनमा विश्वास । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः राख्छु, राख्छु, राख्छु ख्रीष्टको प्रतिज्ञामाथि भरोसा
+            <br/>
+            राख्छु, राख्छु, म राख्छु उनको वचनमा विश्वास । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. छ विश्वास त्यस वचनमा जो टल्दैन
+            <br/>
+            जब दुबिधा र भयको बाढ उठ्छ ।
+            <br/>
+            उनको जीवित वचनले जित्नेछु म
+            <br/>
+            राख्छु ख्रीष्टको वचनमा विश्वास । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. विश्वास गरी वचनमा म देख्दछु
+            <br/>
+            पापलाई धोइदिने रगत येशूको ।
+            <br/>
+            ख्रीष्टले दिएको छुटकारा गीत गाउँदछु
+            <br/>
+            राख्छु ख्रीष्टको वचनमा विश्वास ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

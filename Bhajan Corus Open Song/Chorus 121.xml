@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus121 Mahima Rajaharuka Rajalai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            महिमा राजाहरूका राजालाई महिमा, महिमा, थुमालाई (२) 
+            <br/>
+             सिंहासनमा विराजमान् छन्, धार्मिकताका परमेश्वर,
+            <br/>
+            उनले हामीलाई बचाए उनैसँग राज गर्न, उठौँ... 
+            <br/>
+             धार्मिकताको खोजी गर्न, दिए उद्धारको पोशाक
+            <br/>
+            राष्ट्रहरूलाई प्रचार गरौँ उनको महिमा, उठौँ... ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

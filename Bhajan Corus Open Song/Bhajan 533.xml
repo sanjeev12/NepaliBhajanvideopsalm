@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan533 Parmeshworlai Dhanyabad Sadhai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. परमेश्वरलाई धन्यवाद सधैँ चढाउँछौं
+            <br/>
+            यस दिनमा आज यी दुईलाई ल्याउँछौं २
+            <br/>
+            तादिका परमेश्वर आज पनि उही
+            <br/>
+            दिनुभएको प्रतिज्ञालाई पूरो गर्नुहुन्छ नै २ 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. उपस्थिति जो त्यो थियो बगैँचा अदनमा
+            <br/>
+            आनन्द लिएर आउनुभो हाम्रो यस हृदयमा
+            <br/>
+            खोज्ने साथी जीवनको काम हो यो तपाईंको
+            <br/>
+            भविष्य बनाउने सब योजना हो तपाईंको (तपाईंको) २
+         </lines>
+      </verse>
+   </lyrics>
+</song>

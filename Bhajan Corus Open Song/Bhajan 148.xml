@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan148 Susamachar Failaaun Jaha</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. सुसमाचार फैलाऔं, जहाँ पनि पाउँदछौं,
+            <br/>
+            दुःखित पीडित लोकलाई र पापले दबेका
+            <br/>
+            खुसीको यो खबर, प्रत्येकले प्रचारौं, आत्मा आएका छन् । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः आत्मा आएका छन् दिल हाम्रो नयाँ छ जो करार पिताको हृदयमा
+            <br/>
+            खडा छन् खुसीको खबर देऊ, जहाँ पनि जाँदछौ, आत्मा आएका छन्। 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. अन्धकारको रात सक्यो, उज्ज्वलको दिन भयो
+            <br/>
+            भयो विलाप टाढा ख्रीष्टको अनुग्रहमा
+            <br/>
+            पहाड, मैदान कहीँ ज्योति अग्घोर चम्काई, आत्मा आएका छन् ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan40 Adradha Nisama</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>कोः अद्र्ध निशामा लिई सुसन्देश, दीन बनी आयौं हामी तिम्रो दुवारमा । </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. दुर्दशा यो सब देखी संसारको (२) पापको भारले मानव मिचेको (२)
+            <br/>
+            जिन्दगीको हाल सुधार्न भनी (२) ईश्वरपुत्र जगमा आए सङ्कोच नमानी । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. ईश्वर र मानव बीचको पर्दा (२) पापी मानवको पापले गर्दा (२)
+            <br/>
+            तोडी मानवलाई लान ईश्वरकहाँ (२) आउनुभयो महान् ईश्वर दुष्ट संसारमा । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. सहर यरूशलेम, गावैँ बेथलेहेम (२) जन्मे गोठैमा बालक एक नरम (२)
+            <br/>
+            ख्रीष्ट जीवनधार येशू तारणहार (२) विश्वास गरी आउने जति हुन्छन् मृत्युपार ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

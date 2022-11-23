@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan57 Ek Dinko Kura</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. एक दिनको कुरा गालीलमा जब प्रभु येशू घुम्दथे
+            <br/>
+            सब आमाहरूले नानीहरूलाई उनकहाँ ल्याएथे । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. उनले काखमा लिई हरेकलाई प्रेमले आशिष्को हात राखे
+            <br/>
+            यी सानाहरू मकहाँ आउन देऊ, प्रभुले भनेथे । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. खुसी विचार र नम्र स्वभाव एक अर्कालाई देखाई दया
+            <br/>
+            हे प्रभु, मेरो हृदयमा तपाईंको स्वर्ग बनोस् । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. यस रहरलाग्दो संसारमा ईश्वरको प्रेम र महिमा
+            <br/>
+            जसले भेट्छ त्यो धन्य होस्, सब ठाउँमा ईश्वर छन् ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

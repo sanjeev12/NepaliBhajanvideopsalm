@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan324 Isworchai Prem Hun</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 v5 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. ईश्वरचाहिँ प्रेम हुन्, प्रेमचाहिँ ईश्वर हो ईश्वरको प्रेम सर्वश्रेष्ठ हो,
+            <br/>
+            विश्वास, आशा र प्रेममध्ये पनि प्रेम सबैभन्दा श्रेष्ठ हो । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. पूर्ण हृदय र शक्ति, बल, प्राणले परम ईश्वरलाई प्रेम गरौं,
+            <br/>
+            छिमेकीसँग आफैंसँग झैँ सर्वदा निष्कपट प्रेम गरौं । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. प्रेमले सदाकाल धीरज धर्दछ, प्रेमले कहिल्यै ईख गर्दैन,
+            <br/>
+            प्रेमले कहिल्यै शेखी गर्दैन, प्रेमचाहिँ कहिल्यै फुलिंदैन । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. प्रेमले कुरीति कहिल्यै गर्दैन, आफ्नै भलाइ खोज्दैन,
+            <br/>
+            बुराइ, घमण्ड, छल, कपट गर्दैन, प्रेमचाहिँ कहिल्यै मर्दैन । 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. प्रभु येशूको पछिल्लो आज्ञा एकअर्कासँग प्रेम गरौं,
+            <br/>
+            एकअर्काको प्रेमको ऋण बोक्दै येशूको आज्ञा पूरो गरौं ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

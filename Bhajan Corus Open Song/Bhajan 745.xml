@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan745 Herana Sathi Hera</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः हेरन साथी हेर लौ सुनन साथी सुन लौ
+            <br/>
+            येशूले बत्ती बालेको कति रमाइलो हाम्रो घर (२)
+            <br/>
+            हेरन साथी हेर लौ सुनन साथी सुन लौ ।
+            <br/>
+            आशिषको झरी वर्षेको यही हो येशू ख्रीष्टको घर (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. यो सारा संसार केही छैन, धनी र गरीब केही होइन
+            <br/>
+            राजा र भिखारी एकै हो, सबैले छोडेर जाने हो । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. लोभ र लाच गरेर, गरीब जनलाई मारेर
+            <br/>
+            सम्पत्ति जोडेर के गर्छौ, मरेर स्वर्गमा के लान्छौ । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. हामी सबै स्वर्गमा जानेछौँ, येशूलाई ढोकामा भेट्नेछौँ
+            <br/>
+            स्वर्गको इनाम पाउनेछौँ, अजम्मरी जीवन जिउँनेछौँ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

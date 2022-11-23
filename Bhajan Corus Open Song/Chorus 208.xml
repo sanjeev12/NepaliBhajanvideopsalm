@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus208 Haami Ataauna Sakdainau</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            हामी अटाउन सक्तैनौँ तपाईं महान् प्रभुलाई
+            <br/>
+            हामी बुझ्न सक्तैनौँ तपाईं उदेकको प्रभुलाई
+            <br/>
+            हामीमा शक्ति छैन, भाषा छैन, वर्णन गर्न तपाईं प्रभुको ।
+            <br/>
+            तपाईंको महिमामा हेर्छौं र दण्डवत् गर्छौं सदा
+            <br/>
+            तपाईंको कामलाईं हेर्छौं र दण्डवत् गर्छौं सदा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

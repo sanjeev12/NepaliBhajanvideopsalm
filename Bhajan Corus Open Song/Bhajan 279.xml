@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan279 Papako Bandhan Chinigayo</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. पापको बन्धन छिनिगयो म निर्बन्ध छु, निर्बन्ध ।
+            <br/>
+            सब पाप पनि टाढा भयो म निर्बन्ध छु, निर्बन्ध । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः हल्लेलूयाह येशू मरे, मेरो बदलीमा मरे
+            <br/>
+            हल्लेलूयाह, हल्लेलूयाह म निर्बन्ध छु, निर्बन्ध । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. आफ्ना पाप जब मानिलिएँ म निर्बन्ध छु, निर्बन्ध ।
+            <br/>
+            तब मनमा आत्मा आए म निर्बन्ध छु, निर्बन्ध । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. केही बन्धन अब छैन म निर्बन्ध छु, निर्बन्ध ।
+            <br/>
+            अब केही डरै छैन म निर्बन्ध छु, निर्बन्ध । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. उनको स्तुति गाउनेछु म निर्बन्ध छु, निर्बन्ध ।
+            <br/>
+            र येशूको सेवा गर्छु, म निर्बन्ध छु, निर्बन्ध ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

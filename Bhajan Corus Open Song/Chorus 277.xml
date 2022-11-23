@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus277 Halleluya Halleluya</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>१. (केटाः हल्लेलूयाह । केटीः हल्लेलूयाह) ३ </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. (केटाः प्रशंसा गर्छु । केटीः प्रशंसा गर्छु) ३
+            <br/>
+            प्रभु तपाईंलाई प्रशंसा गर्छु । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. (केटाः म प्रेम गर्छु । केटीः म प्रेम गर्छु) ३
+            <br/>
+            प्रभु तपाईंलाई म प्रेम गर्छु । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. (केटाः हल्लेलूयाह । केटीः हल्लेलूयाह) ३
+            <br/>
+            प्रभु तपाईंलाई म प्रेम गर्छु ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

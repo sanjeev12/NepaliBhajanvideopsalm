@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan620 Hey Mero Aatma</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः हे मेरो आत्मा प्रशंसा गर, उहाँको नाउँलाई उचालेर हृदयका
+            <br/>
+            मेरा चोटहरू निको तुल्याउने छन् उनै येशू (२)
+            <br/>
+            होशन्ना मारानाथा उचाल्छु तिम्रो नाउँ
+            <br/>
+            होशन्ना मारानाथा पुकार्छु तिम्रो नाउँ 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. पखेटा फैलाई समेटे मलाई न्यानो अङ्गालोमा शान्त गराए
+            <br/>
+            हृदयका हलचल एकै स्पर्शमा (२) होशन्ना मारानाथा धन्य हुन्
+            <br/>
+            तिम्रो कृपा होशन्ना मारानाथा धन्य हुन् तिम्रो दया 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. बोझले लादिएको मेरो जीवनलाई क्रूसमा विश्राम दिए
+            <br/>
+            छाडिसकेको मेरो देहलाई पुनर्जीवित पारे (२) होशन्ना मारानाथा धन्य हुन्
+            <br/>
+            तिम्रो कृपा होशन्ना मारानाथा धन्य हुन् तिम्रो दया ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

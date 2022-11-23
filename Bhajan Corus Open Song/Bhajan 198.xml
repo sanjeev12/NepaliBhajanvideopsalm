@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan198 Sunera Manma Gunana</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>कोः सुनेर मनमा गुन न, येशूमा विश्वास गर न (२) </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. कुन नाम छ साँचो स्वर्गको मुनि मानिसलाई बचाउने (२)
+            <br/>
+            नगरौं हामी पापैको कर्म नरकमा लैजाने,
+            <br/>
+            सुन भाइ हो नरकमा लैजाने । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. पृथ्वी टल्छ स्वर्गलोक टल्छ टल्दैन त्यो वचन (२)
+            <br/>
+            ईश्वरको वचन मानिसको लागि बचाउन अमोल प्राण । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. जीवनको ढोका खोल्दिन्छन् येशू विश्वासीहरूलाई (२)
+            <br/>
+            ईश्वरको राज्यमा आत्मामा सधैँ येशूसँग बस्नलाई । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. येशूको हातमा न्याय छ हाम्रो ईश्वरले दिएको (२)
+            <br/>
+            बचाएको मानिस छोड्दैनन् उनले क्रूसैमा किनेको । 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. विश्वास छ हाम्रो ख्रीष्ट येशूमाथि अघि नै बढ्दछौं (२)
+            <br/>
+            विश्वास गर्छौ स्वर्गको लागि ठाउँ तयार गर्दछन् ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

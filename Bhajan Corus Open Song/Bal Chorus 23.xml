@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bal Chorus23 Ek Sano Diyo</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            एक सानो, दुई सानो, तीन सानो माछा
+            <br/>
+            चार सानो, पाँच सानो, छ सानो माछा
+            <br/>
+            सात सानो, आठ सानो, नौ सानो माछा घोर समुन्द्रमा,
+            <br/>
+            नाउमा पत्रुस, याकूब, यूहन्ना (३) घोर समुद्रमा,
+            <br/>
+            रातभरि जाल हाने केही पनि पाएनन् (३) घोर समुन्द्रमा
+            <br/>
+            येशू झीलमाथि हिँड़्दैआए (३) घोर समन्द्रमा,
+            <br/>
+            येशूले भन्नुभयो, फेरि जाल हान (३) घोर समन्द्रमा,
+            <br/>
+            उनीहरूले धेरै माछा पक्रे (३) घोर समुन्द्रमा,
+            <br/>
+            हामी पनि येशूको आज्ञा मानौं (३) हाम्रो जीवनमा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

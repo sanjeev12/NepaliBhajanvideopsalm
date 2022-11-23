@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan264 Suna Na Sathi Yo Mitho</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः सुन न साथी यो मीठो कुरा मनमा गुन न
+            <br/>
+            आनन्दै उनी जो येशूदेखि नयाँ धन पाउँछन् (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. जक्कै नाउँ भएको थुप्रै धन उसको ठगेर यस्तो भो
+            <br/>
+            सरकारको तिरो उठाउँदा उसले मनपरि चोर्दथ्यो । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. जिउ उसको पुड्को मन उसको छुच्चो घिन गरे सबैले
+            <br/>
+             हृदयको शान्ति कसरी पाऊँ  खोज्यो त्यो उपाय नि । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३.  येशूज्यू आउँदा कसरी भेट्ने ?  चढ्यो रूख नेभारा
+            <br/>
+             अब म देख्छु मेरो पाप मेट्ने पाउँछु कि उद्धार ?  
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. जब ख्रीष्ट आए मास्तिर हेरे भने  ओर्लेर आऊ 
+            <br/>
+            तिम्रो घर जक्कै बास बस्नुपर्ने सँगसँगै हामी जाऔं । 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. तल आई जक्कै कति रमायो मन उसको फेरेथ्यो
+            <br/>
+             जे जति ठगें नराम्रो गरें ठीकै पार्नुपर्यो ।  
+         </lines>
+      </verse>
+      <verse name="v6">
+         <lines>
+             ६. उसैको घरमा ख्रीष्ट येशू आई उसलाई दिए शान्ति
+            <br/>
+            सम्पत्तिभन्दा पापको माफी ठूलो धन सम्झ्यो नि ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

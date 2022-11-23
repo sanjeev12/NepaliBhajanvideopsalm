@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan63 Udekko Tyo Tara</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. उदेकको त्यो तारा चम्कियो आकाशमा
+            <br/>
+            जन्मनुभो प्रभु आज गाईको गोठमा
+            <br/>
+            हाम्रो जीवनमा । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः होस्–होस् प्रभुलाई महिमा हाम्रो जीवनमा
+            <br/>
+            होस्–होस् प्रभुलाई महिमा अनन्त कालसम्म । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. उदेकको त्यो बलिदान प्रभुले जो दिनुभो
+            <br/>
+            श्रापित क्रूसमा मर्नुभो प्रभु दिन एक वरदान
+            <br/>
+            हामीलाई मुक्तिदान । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. उदेकको त्यो आशा पाउँछौं जो प्रभुमा
+            <br/>
+            आउनेछन् बादलमा तुरहीको साथमा
+            <br/>
+            लिन हामीलाई उनकै राज्यमा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

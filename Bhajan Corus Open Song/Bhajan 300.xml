@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan300 Kalbari Dadako Tyo Krushma</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. कलवरी डाँडाको त्यो क्रूसमा जहाँ ख्रीष्ट टाँगिए
+            <br/>
+            कत्रो उदेकको त्यो प्रेम उनले ममा प्रकट गराए,
+            <br/>
+            उनको हृदय छेडियो, हातमा किलाको दाग
+            <br/>
+            पाउ किलाले जो घोचियो, मेरो र तिम्रो यो भाग । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः धन्य हो पाठो ईश्वरको स्तुति प्रभुको
+            <br/>
+            येशूको गाउँदै रहनेछु यश सदा, उनको जय होस् 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. बाँच्ने उपाय अरू नदेख्दा म क्रूसमा गएँ
+            <br/>
+            ख्रीष्टले आफ्नो दयाको हातले मलाई चङ्गा गराए,
+            <br/>
+            उदेकको बदलाव ममा ल्याउनुभो ख्रीष्टले
+            <br/>
+            हृदयको दुःख निकालेर आफ्नो शान्ति दिए । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. आऊ हे मित्र ख्रीष्ट प्रभुमा उनले बोलाउँछन्
+            <br/>
+            हृदय अशान्तिले भरेको पापले दबेको जीवन,
+            <br/>
+            पाप क्षमा र शान्ति ख्रीष्ट दिनेछन् उसलाई
+            <br/>
+            अरू कोही दाता छैन प्रभु मसीह सिवाय ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

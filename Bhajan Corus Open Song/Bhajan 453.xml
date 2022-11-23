@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan453 Bolaunuhos Prabhu Hamilai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः बोलाउनुहोस्, प्रभु हामीलाई साना हामी बालकलाई
+            <br/>
+            छैन हाम्रो जगमा कोही तपाईं छोडी गुहार हाम्रो गर्ने । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. फिर्दछौं भेडाझैँ गोठालाबिनाका
+            <br/>
+            बोलाउनुहोस् प्रभु हामीलाई स्वर्गीय राज्यमै । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. हामीजस्तो बालकलाई स्वर्गीय राज्य दिनलाई
+            <br/>
+            रूखो वचन शिक्षालाई प्रिय हामीलाई । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. धन्य, माता पिताले हामीलाई प्रभु चिनाए
+            <br/>
+            पापीको विलाप सुन्नलाई ख्रीष्ट रमाए । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. रोई रोई म आउँदा शान्ति पाउन तपाईंमा
+            <br/>
+            आँसु पुछी राख्नुहोस् हात शिरैमा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

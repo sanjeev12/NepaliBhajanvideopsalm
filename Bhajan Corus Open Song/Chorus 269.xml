@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus269 Herana Mathi Aakashaima</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            हा... हा... हा... हा...
+            <br/>
+            हेरन माथि आकाशैमा ख्रीष्ट आउने बेला भो
+            <br/>
+            जागी उठी तयार हुने समयले बतायो । 
+            <br/>
+             छक्क पर्ने बेला छैन झटपट गर्नुछ (२) 
+            <br/>
+             आफ्नो सारा जीवनलाई उहाँमा अर्पिदेऊ (२) 
+            <br/>
+             जब प्रभु येशू आउँछन् बादलमा भएर (२) 
+            <br/>
+             देख्नेछन् सबले महिमित येशू स्वर्गको बीचैमा (२) 
+            <br/>
+             हा... हा... हा... हा...
+         </lines>
+      </verse>
+   </lyrics>
+</song>

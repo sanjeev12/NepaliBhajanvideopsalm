@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan529 Aaye Hai Aaye</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः आए है आए, आए है येशू संसारमा आए
+            <br/>
+            गए है, हाम्रो पाप मेटिगए (ओ हो आ हा) ४ 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. दुई हजार वर्षअघि गाईको गोठमा (२)
+            <br/>
+            परमेश्वरको एकलो पुत्र (यसै ठाउँमा) २
+            <br/>
+            मुक्तिदाता (२) तारणहार (मानिस अवतार भए) २
+            <br/>
+            (ओ हो आ हा) २ 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. हामी सबैको दुःख बुझ्न संसारमा आए (२)
+            <br/>
+            बाटो, सत्य र जीवन सबै (एकै ठाउँ आए) २
+            <br/>
+            येशू राजा (२) हाम्रो माझ (मुक्ति बनी आए) २
+            <br/>
+            (ओ हो आ हा) २
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan643 Prasansa Garau Hai Yeshu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः प्रशंसा गरौ है येशू राजाको एउटा नयाँ गीत गाएर
+            <br/>
+            आदर गरौँ है येशूू राजाको स्वच्छ अनि सिद्ध मनले 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. स्वर्गलाई त्यागी धर्तीमै आए बचाउन हामीलाई,
+            <br/>
+            थुकाइ र कुटाइ चोट है सही क्रूसैमा मरे नि (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. मानिसलाई मुक्ति दिनलाई येशू है मरे नि,
+            <br/>
+            स्वर्गको साँचो मुक्तिको बाटो येशू हुन् बुझ लौ (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

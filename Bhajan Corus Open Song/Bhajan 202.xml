@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan202 Aau Yeshukaha Aajai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. आऊ येशूकहाँ आजै हे भाइ उनको निम्तो छ अहिले नै
+            <br/>
+            ख्रीष्ट नजिक छन् आशिष् दिनलाई भन्दछन् मकहाँ आऊ ।
+            <br/>
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+            कोः आनन्द आनन्द गरौंला सधैं खुसी हौंला जब निष्पापी भई
+            <br/>
+            बसौंला नित्यसँग येशूकै अनन्त घरैमा ।
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+            २. हे पापी आऊ प्रभुको बात सुनी, समाऊ प्रभुको हात
+            <br/>
+            आउँछन् जो उनकहाँ सब पाउँछन् सुख, काटिन्छन् तिनका दुःख
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+            ३. आऊ येशूकहाँ विचार गर भाइ छन् उनी नजिक वर दिनलाई
+            <br/>
+            आऊ सब छिटो येशूकहाँ आऊ आशिष् सधंैको पाऊ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

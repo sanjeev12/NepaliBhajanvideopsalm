@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan536 Rokera Rokidaina</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः रोकेर रोकिँदैन, नदीको प्रवाहलाई
+            <br/>
+            छेकेर छेकिँदैन सूर्यको प्रकाशलाई
+            <br/>
+            थुनेर थुनिँदैन हावाको गतिलाई (यस्तै छ, यस्तै नै हो) २
+            <br/>
+            (प्रभुको राज्य, प्रभुको काम) २ 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. रोमी शासकले रोक्न खोजे, यहूदी जातिले छेक्न खोज्यो
+            <br/>
+            सा रे सा सा रे सा सा नि ध प सा रे ग रे रे ग म नि सा रे सा २
+            <br/>
+            (न सके रोक्न, न सके छेक्न) २ फैलिनुपथ्र्यो, फैलिँदैआयो
+            <br/>
+            (प्रभुको राज्य, प्रभुको काम)२ 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. खोल्नुपर्छ आवाजहरू, तोड्नुपर्छ बन्धनहरू
+            <br/>
+            सा रे सा सा रे सा सा नि ध प सा रे ग रे ग म नि सा रे सा २
+            <br/>
+            (भैसक्यो बेला नगरौं ढीला) २ फैलिनुपथ्र्यो, फैलिँदैआयो
+            <br/>
+            प्रभुको राज्य, प्रभुको काम २
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bal Chorus68 Martha Gharko Dhandamaa</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            मार्था घरको धन्दामा छिन् चिन्तामा सधैँ रहन्छिन्
+            <br/>
+            प्रार्थनाको समय राख्दिनन् । 
+            <br/>
+             मरियमले काम बन्द गर्दछिन् प्रभुको चरणमा बस्दछिन्
+            <br/>
+            ध्यान दिई वचन सुन्दछिन् । 
+            <br/>
+             मरियमले प्रभुलाई प्यार गर्छिन् सुगन्धित तेलले पाउ मोल्छिन्
+            <br/>
+            प्रभुको सेवा गर्दछिन् ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

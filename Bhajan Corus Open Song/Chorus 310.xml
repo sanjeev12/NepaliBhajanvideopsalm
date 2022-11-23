@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus310 Haami Sunaulo Saharma</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः हामी सुनौलो शहरमा जान्छौ, हामी ईश्वरको साथमा हिँड्छौँ
+            <br/>
+            (हो हो हो हो हो) २ हा हा हा हा हा 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. अब्राहामका सन्तान हामी, ईश्वरले सृष्टि गर्नुभयो,
+            <br/>
+            अचम्म छ है मेरा प्रिय ईश्वरको प्रेम । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. येशू राजाले दिएका ज्ञान, गरौँन हामीले उनैको ध्यान,
+            <br/>
+            डरलाग्दो छ है, हे मेरा प्रिय, पापी संसार ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

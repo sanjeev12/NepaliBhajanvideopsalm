@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan720 Aatmik Daud Lamo Cha</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः आत्मिक दौड लामो छ, तर धीरजसाथ दगुरेर
+            <br/>
+            अनन्त मौरास र इनामलाई, तयार होऊ
+            <br/>
+            प्राप्त गर्नलाई । आत्मिक दौड लामो छ । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. वाधा दिन्छ पलपलमा नाशवान् यो माटोको शरीरले (२)
+            <br/>
+            जागा रही प्रार्थना गरे जयवन्त तिमी निश्चय बन्नेछौ (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

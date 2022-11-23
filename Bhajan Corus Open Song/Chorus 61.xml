@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus61 Hosanna Hosanna Hosanna</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. होसत्रा, होसत्रा, होसत्रा येशू राजालाई (२)
+            <br/>
+            उहाँको नाउँ उचालौँ र प्रशंसा चढ़ाऔँ
+            <br/>
+            हाम्रो प्रभुलाई स्तुति होस्, होसत्रा येशू राजालाई । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. महिमा, महिमा, महिमा येशू राजालाई (२)
+            <br/>
+            उहाँको नाउँ उचालौँ र प्रशंसा चढ़ाऔँ
+            <br/>
+            हाम्रो प्रभुलाई स्तुति होस्, महिमा येशू राजालाई । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. प्रशंसा, प्रशंसा, प्रशंसा येशू राजालाई (२)
+            <br/>
+            उहाँको नाउँ उचालौँ र प्रशंसा चढ़ाऔँ
+            <br/>
+            हाम्रो प्रभुलाई स्तुति होस्, प्रशंसा येशू राजालाई ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

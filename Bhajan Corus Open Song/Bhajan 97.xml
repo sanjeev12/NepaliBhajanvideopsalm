@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan97 Jay Hos Yeshu Rajako</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>कोः जय होस् येशू राजाको, मुक्तिदाताको उद्धारकर्ताको (२) </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. उनले हामीलाई प्रेम गरी क्रूसको सबै दुःख भोग्नुभो
+            <br/>
+            हर पापको बन्धनलाई तोडी हामीलाई स्वतन्त्र गर्नुभो । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. पुरानो जीवन सब भुली नयाँ जीवन ख्रीष्टमा जिउनेछु
+            <br/>
+            पिताको हर प्रतिज्ञालाई सम्झी ख्रीष्टको पाइलो म पछ्याउनेछु ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan568 Aau Aba Prakashman Hou</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः आऊ अब प्रकाशमान होऊ ज्योतिका सन्तान भई
+            <br/>
+            अन्धकार सबलाई त्यागेर महिमा र पूर्णतामा आऊ 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. महान् आज्ञालाई पूरा गर्न ज्योति धारण गर्नुछ (२)
+            <br/>
+            जिउँदो वचनलाई शक्तिको साथमा,
+            <br/>
+            ज्योतिको सन्तान भई यो विश्वलाई सुनाउनुछ । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. सियोनका राजालाई स्वागत गर्न राजपथ हामीले बनाउनुछ (२)
+            <br/>
+            लिएर उपहार त्यो , हेर, कोही आउँदै छन्,
+            <br/>
+            ज्योतिका सन्तान भई यो पुस्तालाई बचाउनुछ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

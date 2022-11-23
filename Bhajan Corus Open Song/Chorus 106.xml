@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus106 Ma Banaudaichu Shaktishali</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            म बनाउँदैछु शक्तिशाली जाति
+            <br/>
+            जसले गर्नेछ मेरो स्तुति, 
+            <br/>
+             मेरो आत्मा बहनेछ यो देशमा
+            <br/>
+            र हुनेछ मेरो नाउँको महिमा । 
+            <br/>
+             बनाउनोस् प्रभु आफ्नो मण्डली,
+            <br/>
+            हामीहरूलाई बलियो बनाई
+            <br/>
+            एउटै बनाउनोस् आफ्नो शरीरमा,
+            <br/>
+            आफ्नो पुत्रको राज्यमा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

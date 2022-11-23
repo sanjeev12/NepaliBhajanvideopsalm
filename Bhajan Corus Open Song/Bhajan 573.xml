@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan573 Ya Sathi Suna</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>(ल ल ल ल ल ल) २</lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+            कोः ए साथी, सुन (२) (ढाँटेको कुरा काटे मिल्दैन) २
+            <br/>
+            बाइबललाई जेसुकै भन, सत्य कहिल्यै डग्दैन (२), ए साथी, सुन । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             १. सत्यलाई छोप्न कतिले यसलाई दन्त्यकथा नै हो भने
+            <br/>
+            बाइबल लेखकले चलाखी गरी लेख्या भनी प्रमाण दिनखोजे २
+            <br/>
+            परमेश्वरकै प्रेरणाद्वारा लेखिएको वचन यो (२)
+            <br/>
+            ऐतिहासिक   वैज्ञानिकरूपले प्रमाणित भयो (२) ए साथी, सुन । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             २. भूगर्भशास्त्रीहरूको साक्षी, अवशेष शिलापत्रबाट
+            <br/>
+            पुराना पाण्डुलिपिबाट अनि सियोनका राजा येशूबाट २
+            <br/>
+            अकाट्य बाइबलीय प्रमाण भो सत्यताको (२)
+            <br/>
+            कुनै प्रमाण छैन अहिलेसम्म बाइबलविरुद्धको (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

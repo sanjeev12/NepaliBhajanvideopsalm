@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus108 Shukhaa Bhayo Marutulya</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            सुख्खा भयो मरुतुल्य, के भो जीवन अमूल्य ?
+            <br/>
+            कहाँ गयो हरियाली, बाँझो भयो धर्ती
+            <br/>
+            <br/>
+            बर्साऊ, प्रभु, बर्साऊ फेरि आत्मा हामीमाथि
+            <br/>
+            भर प्रभु, भर फेरि जीवन यो खाली खाली ।
+            <br/>
+            <br/>
+            शैतान हाम्रो गर्छ उपहास, पठाऊ त्यो हुरी बतास
+            <br/>
+            पाप हाम्रो गर्छौं स्वीकार, फर्काऊ हाम्रो अधिकार
+            <br/>
+            <br/>
+            हँसाऊ प्रभु, हँसाऊ फेरि पुछ आँखा हाम्रो
+            <br/>
+            सजाऊ प्रभु, सजाऊ फेरि उजाड जीवन हाम्रो ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

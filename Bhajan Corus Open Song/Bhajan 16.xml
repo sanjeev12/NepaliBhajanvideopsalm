@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan16 Parmeshworko Badhai Garau</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः परमेश्वरको बढाई गरौं सारा सन्तगण मिली (२)
+            <br/>
+            उच्च स्वरमा स्तुति गरौं ख्रीष्ट मुक्तिदाताकै (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. अपार प्रेम प्रभुको नभुलौं जीवनमा
+            <br/>
+            कृतज्ञ भई चरण परी चढाऊँ आराधना । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. प्रतिदिन यात्रामा ख्रीष्टतिर दृष्टि लाऊँ,
+            <br/>
+            दुःख–सुखलाई स्वीकार गर्दै सदा स्तुति गरौं । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. जाग्ने समय छ यो शोक चिन्तालाई पन्साई
+            <br/>
+            ख्रीष्टको हातमा जीवन सौंप्दै स्तुति चढाऊँ उनलाई ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

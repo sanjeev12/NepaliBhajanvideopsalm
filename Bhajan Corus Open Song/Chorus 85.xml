@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus85 Aau Hami Aradhana Garau</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            आऔँ हामी आराधना गरौँ, सृष्टिकर्ताकै सामु घुँड़ा टेकौँ
+            <br/>
+            आऔँ हामी दण्डवत् गरौँ, सृष्टिकर्ताकै सामु घुँड़ा टेकौँ,
+            <br/>
+            उहाँ नै हाम्रा परमेश्वर हुन् र हामी उहाँको खर्कका प्रजा
+            <br/>
+            र उहाँका हातका भेड़ा हौँ र उहाँका हातका भेड़ा हौँ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

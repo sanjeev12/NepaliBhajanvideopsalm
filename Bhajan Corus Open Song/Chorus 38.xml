@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus38 Nau Unko Udekko</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            नाउँ उनको उदेकको (३) प्रभु येशू
+            <br/>
+            प्रबल राजा उनी, सबै थोकको धनी
+            <br/>
+            नाउँ उनको उदेकको, प्रभु येशू 
+            <br/>
+             असल गोठालो, सनातनको चट्टान
+            <br/>
+            शक्तिमान् ईश्वर उनी
+            <br/>
+            दण्डवत् गरौँ उनलाई, आदर, भक्ति चढ़ाई,
+            <br/>
+            नाउँ उनको उदेकको, प्रभु येशू ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

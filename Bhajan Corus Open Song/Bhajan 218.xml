@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan218 Jagat Sansar Kehi Pani</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. जगत संसार केही पनि छैन सुन दाजु भाइ (२)
+            <br/>
+            विश्वास गरौं हामी सबले, मुक्ति पाउनलाई (२)
+            <br/>
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+            कोः ख्रीष्ट येशू छन् ख्रीष्ट येशू छन्,
+            <br/>
+            ख्रीष्ट येशू छन् तयार मुक्ति दिनलाई ।
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+            २. लोभै गर्छौ, लालच गर्छौं संसारको थोकलाई (२)
+            <br/>
+            यी सबै थोक केही पनि होइन, साथमा जानलाई (२)
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+            ३. आऊ सबै फिक्री गरौं, मुक्ति पाउनलाई (२)
+            <br/>
+            येशूबाहेक अरू छैन, छैन केही उपाय (२)
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+            ४. आऊ सबै दाजु भाइ हो सुन मन लगाई (२)
+            <br/>
+            ख्रीष्ट येशू तारणहारको निम्तो छ सबलाई (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan447 Jayjay Gara Sana Naniharu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 v5 v6 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>१. जयजय गर साना नानीहरू, ख्रीष्ट हुन् प्रेम, (ख्रीष्ट हुन् प्रेम) २ </lines>
+      </verse>
+      <verse name="v2">
+         <lines> २. सेवा गर साना नानीहरू, (ख्रीष्ट हुन् प्रेम) २ </lines>
+      </verse>
+      <verse name="v3">
+         <lines> ३. धन्यवाद गर साना नानीहरू, (ख्रीष्ट हुन् प्रेम) २ </lines>
+      </verse>
+      <verse name="v4">
+         <lines> ४. उनलाई भज साना नानीहरू, (ख्रीष्ट हुन् प्रेम) २ </lines>
+      </verse>
+      <verse name="v5">
+         <lines> ५. प्यारो गर साना नानीहरू, (ख्रीष्ट हुन् प्रेम) २ </lines>
+      </verse>
+      <verse name="v6">
+         <lines> ६. प्रार्थना गर साना नानीहरू, (ख्रीष्ट हुन् प्रेम) २</lines>
+      </verse>
+   </lyrics>
+</song>

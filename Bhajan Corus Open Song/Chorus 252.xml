@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus252 Hariyo Kharkama Malai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः ला ला (७) हरियो खर्कमा मलाई चराउनुभो
+            <br/>
+            मेरा आँखाको आँसु पुछ्नुभो (२)
+            <br/>
+            हे येशू, तपाईं मेरो पहिलो प्रेम (२)
+            <br/>
+            मलाई येशू चाहिन्छ (४) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. संसारको पानीले मेटिँदैन मेरो तृष्णा (२)
+            <br/>
+            हे येशू, तपाईं मेरो पहिलो प्रेम (२)
+            <br/>
+            मलाई येशू चाहिन्छ (४) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. पराईलाई आफ्नो ठात्रुभो, प्रेमविहीनलाई प्रेम गर्नुभो (२)
+            <br/>
+            हे येशू, तपाईं मेरो पहिलो प्रेम (२)
+            <br/>
+            मलाई येशू चाहिन्छ (४)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

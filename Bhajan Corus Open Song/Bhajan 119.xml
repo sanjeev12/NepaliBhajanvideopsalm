@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan119 Prabhu Yeshu Khristhko Sital</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः प्रभु येशू ख्रीष्टको शीतल रगत मुटुमा सुरुरु (२)
+            <br/>
+            उहाँको माया नबिर्स बैनी (मन रुन्छ धुरुरु) (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. म, तिमी, हामी, सबैको लागि आफ्नो पुत्र दिएको (२)
+            <br/>
+            त्यागेको प्राण सम्झना राखौँ, रगतले लेखेको । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. रगतको धारा आलो छ बैनी गल्गथा पहाडमा (२)
+            <br/>
+            तिम्रो र मेरो निम्तिमा गुथे काँडा त्यो शिरमा । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. बोकेका थिए दयनीय क्रूस, मनमा गुन न (२)
+            <br/>
+            हृदयमा अङ्कित प्रभुको देन, तिमीले सम्झ न । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. नभुलौं बैनी कष्टको घुट्को, येशूले पिएको (२)
+            <br/>
+            सबैले उद्धार पाउनलाई उनले प्राण दान दिएको । 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. प्रभुका गुण नम्र र दीन मुटुमा गाँसौं न (२)
+            <br/>
+            ज्योतिका सन्तान बनेर फिरौं बोकेर बासना ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

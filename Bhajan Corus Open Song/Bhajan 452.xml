@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan452 Sansarma Khub Ramro</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. संसारमा खुब राम्रो देख्दछु रमाहट गर्छु म
+            <br/>
+            सब थोकमा घामको किरण देखाउँछ महिमा
+            <br/>
+            संसारमा बस्दाखेरी म, जरुर हर्षिलो छु
+            <br/>
+            म येशू ख्रीष्टको बाटोमा पछ्याउँछु । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. म सानो यात्री मात्र, यात्राको सुरुमा
+            <br/>
+            म जीवन यात्रा गर्दा शोक भेट्नेछु यहाँ
+            <br/>
+            संसार छ शोकले भरेको र विपद पनि छ
+            <br/>
+            तर येशू ख्रीष्टको बाटोमा पछ्याउँछु । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. त सानो यात्रीजस्तै जे जे म भेट्नेछु
+            <br/>
+            हर्ष कि दुःख लान्छु, चरणमा येशूको
+            <br/>
+            ती दुःखमा शान्ति दिन्छन् ती पुच्छन् सब आँसु
+            <br/>
+            रमाहट गरी बाटोमा पछ्याउँछु । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. परीक्षा सताउँदैन, दुःखदेखि छैन भय
+            <br/>
+            जब येशू आउँछन्, नजिक, शोक हुन्छ टाढै नै
+            <br/>
+            मृत्युले नष्ट गर्दैन, जब मृत्यु भेट्नेछु
+            <br/>
+            स्वर्ग जाने बाटोमा पछ्याउँछु ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

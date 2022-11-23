@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan253 Prabhuji Arji Mero Sunileu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            को. प्रभुजी अर्जी मेरो सुनिदेऊ लौ है चढाएँ,
+            <br/>
+            प्रभुजी लौ है आज चढाएँ लौ है चढाएँ,
+            <br/>
+            प्रभुजी मनको मैलो धोइदेऊ लौ है चढाएँ । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. संसारै छ पापैले भरेको (२) धनको लोभमा सबै परेको (२)
+            <br/>
+            लौन बिन्ती आज मैले चढाएँ (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. संसाररूपी समुद्र चौडा छ (२) जीवनरूपी नाव पुरानो छ (२)
+            <br/>
+            लौन मेरो नावलाई पार लगाइदेऊ (२) 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. राता सेता फूलै फुलेका (२) मायाजालमा दुनियाँ भुलेका (२)
+            <br/>
+            लौन जगको मायाजाललाई फुकाइदेऊ (२) 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. डाँडापारि घामै डुबिगो (२) चारै दिशा घोर अन्धकार भोे (२)
+            <br/>
+            लौन अन्धकारमा मलाई ज्योति देऊ (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan633 Bethlehem Gaoima Daudko</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः बेथलेहेम गावैँमा दाऊदको शहरैमा (२)
+            <br/>
+            जन्मिए मुक्तिदाता तिम्रो हाम्रो लागि (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. मानिसको चोला बोकी आउनुभो धर्तीमा
+            <br/>
+            पापलाई बोकी मर्नुभयो कलवरीको क्रूसैमा (२)
+            <br/>
+            आफैलाई रित्याई आज बचाउनुभो तिमी हामीलाई (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. मुक्ति दिने कोही छैन यो पापी संसारमा,
+            <br/>
+            स्वर्ग लाने कोही छैन यो पापी जगतमा (२)
+            <br/>
+            येशू जन्मे धर्तीमा स्वर्ग लान तिमी हामीलाई (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan481 Badalma Feri Aunechan</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः बादलमा फेरि आउनेछन् येशू राजा
+            <br/>
+            यही आशामा हाँसिदेऊ, आँसुलाई थामिदेऊ । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. तिमीले मुटु बाँधेर कारागारहरूमा पर्खेका छौ
+            <br/>
+            तिमीले निन्दा चोटहरू उनको निम्ति भनेर खपेका छौ
+            <br/>
+            साथी समाज छुटेर जाँदा, आकाशमा उनलाई कुरेका छौ (२) 
+            <br/>
+             निश्चय नै प्रभु आउनेछन् त्यही आकाशमा
+            <br/>
+            तिम्रो धीरजलाई नहराऊ, केही बेर पर्खिदेऊ । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. तिम्रो नाउँलाई पनि उनले जीवनको किताबमा लेखेका छन्
+            <br/>
+            तिम्रो ठाउँ उनले आफ्नो घरमा अनन्तसम्मलाई तोकेका छन्
+            <br/>
+            तिम्रो हृदय दुःखित नबनोस् उनको वचन सधैँ पालन गर (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

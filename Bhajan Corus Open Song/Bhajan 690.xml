@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan690 Getsamaniko Bagaichama</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः गेतसमनीको बगैंचामा येशूजी प्रार्थना गर्नुभो
+            <br/>
+            (हामी जस्तो पापीलाई बचाउन) २, पापको कचौरा पिउनुभो (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. कोही थिएन त्यो मध्य रातमा येशूलाई साथ दिने (२)
+            <br/>
+            आफ्नै चेलाले (२) पनि उनलाई (एकलो छाडिदिए) २
+            <br/>
+            प्रार्थना गर परीक्षामा नपर्न येशूले भन्नुभयो
+            <br/>
+            तिम्रो मेरो निम्ति दाम तिरेर (२) रगतले किन्नुभयो (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. हतास उदास हुँदै प्रभु पितालाई पुकारे (२)
+            <br/>
+            रगतको थोपा (२) थोपा पसिना (प्रार्थनामा बगाए) २
+            <br/>
+            जागा रहो पवित्र आत्मामा येशूले सम्झाउनुभो
+            <br/>
+            तिम्रो मेरो निम्ति बलिदान भए (२) पापदेखि छुडाउनुभो (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

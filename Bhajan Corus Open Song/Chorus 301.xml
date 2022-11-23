@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus301 Samman Hos Prabhuko</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            सम्मान होस् प्रभुको, यो मेरो इच्छा हो,
+            <br/>
+            तपाईंको महिमा गाऊँ म हृदयले 
+            <br/>
+             सर्वस्वले तपाईंको प्रशंसा गर्न पाऊँ,
+            <br/>
+            मेरो आदर सम्मान येशू तपाईं 
+            <br/>
+             प्रभु, मेरो यो हृदय आत्मा तपाईंले लिई,
+            <br/>
+            तपाईं नै जिउनुहोस् ममा । 
+            <br/>
+             मेरो ढुकढुकी र स्वास जीवनको हर पल प्रभुकै भइरहोस्
+            <br/>
+            मेरो प्राण आत्मा येशू तपाईंको,
+            <br/>
+            मेरो प्राण आत्मा प्रभु तपाईंको ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

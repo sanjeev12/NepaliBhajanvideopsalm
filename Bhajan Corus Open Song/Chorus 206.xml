@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus206 Senaharuko Prabhu Hamro</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            सेनाहरूको प्रभु हाम्रो परमेश्वर,
+            <br/>
+            सारा सृष्टिका प्रभु हाम्रो मालिक
+            <br/>
+            बौरी उठेका येशू हाम्रा शक्ति,
+            <br/>
+            प्रभुहरूका प्रभु हाम्रो उद्धार, 
+            <br/>
+             उनी हाम्रो चट्टान, किल्ला, भरोसा (२),
+            <br/>
+            हृदय खोली गाउँछौँ जयको ध्वनि,
+            <br/>
+            जय राजा येशूलाई, आदर राजा येशूलाई, महिमा राजा येशूलाई
+            <br/>
+            प्रशंसा राजा येशूलाई, गौरव राजा येशूलाई ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

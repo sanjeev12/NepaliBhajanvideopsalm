@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan231 Prachar Gari Samjhaye</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1 v8 c1 v9 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>कोः प्रचार गरी सम्झाएँ तिमीलाई लिएनौ बुझी भर्मंदै गयौ निष्ठुर तिमी । </lines>
+      </verse>
+      <verse name="v1">
+         <lines> १. हात, पाऊ, शिर, कोखामा बहाए रक्त (आँसु पसिना) २ </lines>
+      </verse>
+      <verse name="v2">
+         <lines> २. आज यो घडी गत जीवनभरि सुन्यौ सुन्दै,छौ सुनि,नै रहन्छौ कहानी यो मेरो </lines>
+      </verse>
+      <verse name="v3">
+         <lines> ३. के छ र लाभ भनेर हायहाय नि नि हे प्रभु, (हे मेरा नाथ) २ </lines>
+      </verse>
+      <verse name="v4">
+         <lines> ४. विश्वका अन्य मानिस पनि गुरु मान्यता, (भक्ति चढाउँछन्) २ </lines>
+      </verse>
+      <verse name="v5">
+         <lines> ५. स्वर्गे पिताको, हे परिवार चाहन्नँ यी सब (म तिमीबाट) २ </lines>
+      </verse>
+      <verse name="v6">
+         <lines> ६. चढाएको, आन्तरिक हृदय धोई पखाली, (रगतले मेरो) २ </lines>
+      </verse>
+      <verse name="v7">
+         <lines> ७. वचनअनुसार, तिमी हौ मेरा अपनायौ गरी, (स्वयं तिम्रो) २ </lines>
+      </verse>
+      <verse name="v8">
+         <lines> ८. बेर नगरी, चाँडै नै अब आउनेछु लान्छु, (पिताकहाँ मेरो) २ </lines>
+      </verse>
+      <verse name="v9">
+         <lines> ९. जाँच गरी, हेर न आफूलाई उठ गर लौ पश्चात्ताप रोई (२) विश्वास गरी</lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan389 Aghi Badhau Hey Khristya Daju Bhai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः अघि बढौँ (२) हे ख्रीष्टीय दाजुभाइ हो
+            <br/>
+            अघि बढौँ (२) हे ख्रीष्टीय दिदीबहिनी हो । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. मुक्ति ता हामीले पाइसक्यौं आफूमा मात्र सीमित नराखौँ (२)
+            <br/>
+            तृषित आत्मा हजारौं छन् ती आत्माहरूको उपकार गरौं । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. कर्तव्य के हो सम्झी बुझी क्रूसलाई सधैँ अघि राखी (२)
+            <br/>
+            प्रभुको वचन प्रचार गरौं यसैले हाम्रो कम्मर कसौँ । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. समयमै हामी बिउ छरौं पछि नै हामी कोसेली बटुलौं (२)
+            <br/>
+            प्रभुको आगमन नजिकै छ यसकारण सधैँ तयार रहौं ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

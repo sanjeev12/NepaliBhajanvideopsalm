@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan234 Udharko Din Cha Aja</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः उद्धारको दिन छ आज नै मित्र समयलाई नपर्ख
+            <br/>
+            अनिश्चित चोलाको भरोसा के छ अहिले नै ढल्न सक्छ । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. देखी डरलाग्दो दशा पापीको ख्रीष्ट अघि सर्नुभो (२)
+            <br/>
+            सही चोट त्यो श्रापित क्रूसको, मुक्तिद्वार खोल्नुभो (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. दिन्छन् प्रभु ख्रीष्ट मुक्ति र शान्ति पछ्ताउने पापीलाई (२)
+            <br/>
+            सित्तैको मुक्ति लिनका निम्ति आऊ आज येशू थाई (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

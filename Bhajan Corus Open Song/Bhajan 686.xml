@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan686 Ananta Jiwanko Batobhari</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः अनन्त जीवनको बाटोभरि, ज्योति बनेर सधैँ सधैँ
+            <br/>
+            डोर्याउनुहोस् प्रभु मलाई साथ दिनुहोस् सदा सदा (२ ) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. आउँनेछु प्रभु तिम्रो साथमा कठिन यात्रा लामो नि भए पनि (२)
+            <br/>
+            बाटोभरि काँडाले बिजे पनि (२) तपाईं माझ एकलो म भए पनि ।
+            <br/>
+            डुब्नेछ आशाको जब घाम पनि ज्योति बनेर सधैँ सधैँ
+            <br/>
+            डोर्याउनुहोस् प्रभु मलाई साथ दिनुहोस् सदा सदा । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. प्रशंसा धन्यवाद चढाइरहूँ आराधनाको जीवन देऊ मलाई (२)
+            <br/>
+            प्रभु तिम्रो चरणमा रहन देऊ (२) जीवनको अन्तिम पलसम्म मलाई
+            <br/>
+            अन्धकार संसारको यात्राभरि ज्योति बनेर सधैँ सधैँ,
+            <br/>
+            डोर्याउनुहोस् प्रभु मलाई साथ दिनुहोस् सदा सदा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus193 Shristiko Uttam Shristima</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            सृष्टिको उत्तम सृष्टिमा, मानव तपाईंले बनाउनुभो
+            <br/>
+            आफ्नै स्वरूपमा सृजिएर, आफ्नै रगत बगाएर,
+            <br/>
+            हामीलाई बचाउनुभो (२), 
+            <br/>
+             धन्यवाद ... धन्यवाद (४)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

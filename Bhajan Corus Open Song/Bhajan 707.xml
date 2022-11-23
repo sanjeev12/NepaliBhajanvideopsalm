@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan707 Srijana Gari Prabhu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः सृजना गरी प्रभु तपाईंले मलाई यो सुन्दर जीवन दिनुभयो
+            <br/>
+            प्रभु, तपाईंलाई के चढाऊँ मैले ? मलाई त जीवन नै दिनुभयो ।
+            <br/>
+            सृजना गरी प्रभु तपाईंले 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. मेरो जीवन मर्दै गएको देखी प्रभु रुनुभयो (२)
+            <br/>
+            अविश्वासी भई टाढा भाग्दा क्रूसबाट मलाई पुकार्नुभयो (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. बुझ्न चाहन्छु, किन मलाई यति प्यारो गर्नुभयो ? (२)
+            <br/>
+            मेरो जीवनको निम्ति आफै किन क्रूसमा मर्नुभयो (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

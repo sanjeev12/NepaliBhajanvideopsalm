@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan159 Nirantar Rahane Prem Khristh</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १.कोः निरन्तर रहने प्रेम ख्रीष्ट येशूको, अनुग्रह असीम अपार
+            <br/>
+            गाउनेछौं महिमा इम्मानुएल प्रभुको होस् उहाँको जयजयकार ।
+            <br/>
+            पापका दास थियौं हामी नरकुण्डको भागी
+            <br/>
+            पापै नजान्ने मसीह येशू प्रभुले सबै दोष हटाउनुभो (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. धन्यवाद येशूलाई नचढाई सक्छौं कहाँ ? हाम्रो उहाँ सृजनहार
+            <br/>
+            तोड्नुभो डरलाग्दो शक्ति सब पापको हटाउनुभो घोर अन्धकार
+            <br/>
+            अयोग्य भए पनि ज्योतिका सन्तान हामी
+            <br/>
+            यस्तो त्राणकर्ता प्रेमी येशू प्रभुलाई चढाऔं सबैले धन्यवाद (२) 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. आनन्दित छौं आज शक्ति पापको भयो नाश छुटकारा दैनिक जीवनमा
+            <br/>
+            सम्पूर्ण हृदयलाई शुद्ध स्वच्छ पारेर दिनुभो ख्रीष्टले गीत नयाँ
+            <br/>
+            जयजयकार मसीह येशू गाउँनेछौं प्यारो प्रभु (२)
+            <br/>
+            बाटोमा तपाईंको जस्तै भए पनि स्तुति गाउँदै नै जानेछौं (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

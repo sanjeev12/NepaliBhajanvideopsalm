@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan657 Anantako Rajyama Janako</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः अनन्तको राज्यमा जानको लागि,
+            <br/>
+            ईश्वरीय शक्ति पाउनको लागि भक्तिसाथ जीवन जिउनको लागि,
+            <br/>
+            विश्वासमा विजय बन्नको लागि (प्रार्थनामा लागिरहौँ) ४ 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. शौतानले अवश्य वाधा नै ल्याउँछ, दुःख र कष्टको हुरी चलाउँछ (२)
+            <br/>
+            कमजोर विश्वासको मुटु हल्लाउँछ, (त्यसैले म भन्छु, प्रार्थनामा लागिरहाँै) २ 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. गर्जने सिंहझैँ तर्साउन आउँछ, घमण्ड र स्वार्थ मनमा ल्याइदिन्छ (२)
+            <br/>
+            विश्वासको जीवनमा शंका ल्याइदिन्छ (त्यसैले म भन्छु, प्रार्थनामा लागिरहाँै) २ 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. लोभ र लालचमा फँसाइ छोड्छ, संसारको पापमा डुबाइदिन्छ (२)
+            <br/>
+            विश्वासबाट पछि हटाउँछ, (त्यसैले म भन्छु, प्रार्थनामा लागिरहाँै) २
+         </lines>
+      </verse>
+   </lyrics>
+</song>

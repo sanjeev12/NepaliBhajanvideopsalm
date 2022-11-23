@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan43 Jayjay Gara</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>कोः जयजय गर... खुसीले... प्रभुको... जन्मदिन (२) </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. मरियम गर्भवती थिइन्, पवित्र आत्माले
+            <br/>
+            त्याग्ने इच्छा गरे युसुफ दाऊदको छोराले,
+            <br/>
+            स्वर्गदूतले युसुफलाई खबर पुर्याए
+            <br/>
+            अनि उनले मरियमलाई आफ्नै गराए । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. भेडी गोठमा गोठाला सब, गोठै छोडेर
+            <br/>
+            गाउँदै गए ख्रीष्टको जयजय दर्शन गरेर
+            <br/>
+            बेथलेहेम भन्ने सानो गाउँमा ख्रीष्टको जन्म भो,
+            <br/>
+            भविष्यवक्ताले बोलेको वचन पूरो भो । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. सानो तारा देखा पर्यो पूर्व देशमा
+            <br/>
+            ज्योतिषीहरू दौड्दै आए प्रभुको खोजमा
+            <br/>
+            बालक ख्रीष्टको दर्शन पाई आनन्दित भए
+            <br/>
+            कन्तुर खोली सुन, धूप, मूर्रका भेटी चढाए । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. आउनुहोस् आजै, हे भाइ हो, विश्वास गरेर
+            <br/>
+            माग्नुहोस् क्षमा, प्रभुको पाऊमा परेर
+            <br/>
+            आज प्रभु आउनुभो मुक्ति दिनलाई
+            <br/>
+            फेरि प्रभु आउनेछन् निया गर्नलाई ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

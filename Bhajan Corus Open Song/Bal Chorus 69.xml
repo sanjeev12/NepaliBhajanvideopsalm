@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bal Chorus69 Hera Aakashaima</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः हेर हेर हेर हेर आकाशैमा, कस्तो अचम्मको बढो शक्तिशाली
+            <br/>
+            घटना घट्नेछन् बादलैमा, भन भन के हो त्यो
+            <br/>
+            (येशूको आगमन हो प्रभुको आगमन हो) २ 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. दुइ मिल्ने साथी खेतमा सँगै काम गरिरहेका हुन्छन्
+            <br/>
+            (एउटा चाहिँ सुँई अर्को चाहिँ भुँई) २
+            <br/>
+            सुँई हुने आनन्दले आकाशैमा, भुँई हुने विलाप गर्दै संसारैमा छोडिनेछन् । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. दुइ मिल्ने आमा घरमा सँगै जाँतो पिसिरहेका हुन्छन्
+            <br/>
+            (एउटा चाहिँ सुँई अर्को चाहिँ भुँई) २
+            <br/>
+            सुँई हुने आनन्दले आकाशैमा भुँई हुने विलाप गर्दै संसारैमा छोडिनेछन् । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. दुइ मिल्ने साथी खाटमा सँगै मस्त निदाईरहेका हुन्छन्
+            <br/>
+            (एउटा चाहिँ सुँई अर्को चाहिँ भुँई) २
+            <br/>
+            सुँई हुने आनन्दले आकाशैमा भुँई हुने विलाप गर्दै संसारैमा छोडिनेछन् ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan615 Kasto Anmol Balidan</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः कस्तो अनमोल बलिदान दियौ मानव जातिलाई (२)
+            <br/>
+            चाहन्छु म प्रभु तिमीलाई नै (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. नयाँ आशा नयाँ उमंग नयाँ किरण, पाएँ मैले (२) येशू तिम्रो हात समाई,
+            <br/>
+            नयाँ जीवन पाएँ मैले (अब छाड्नेछैन तिम्रो हात अब त्याग्नेछैन तिम्रो साथ) २ 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. मेरो दुःखमा दुःखी बनी दुःख सबै उठाउनुभयो (२) मेरो निम्ति दोषी बनी
+            <br/>
+            दोषबाट छुटाउनुभो (अब छाड्ने छैन तिम्रो हात अब त्याग्नेछैन तिम्रो साथ) २
+         </lines>
+      </verse>
+   </lyrics>
+</song>

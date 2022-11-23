@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan636 Yo Yeshu Khristko Katha</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः यो येशू ख्रीष्टको कथा हो (२) जीवन दिनेको कथा हो ।
+            <br/>
+            बोझले लादिएकालाई, बाटो बिराएकालाई, गन्तव्य विहीनको कथा हो (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. जन्म लिए उनले कन्याको कोखमा,
+            <br/>
+            अनौठो व्यथा थियो गाईको गोठमा (२)
+            <br/>
+            इतिहासको दुइ पाना लेखियो त्यो रातमा,
+            <br/>
+            सूर्य उदायो चम्किलो हेर (एउटा नयाँ विश्वासमा) २ 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. पापलाई घृणा पापीलाई माया,
+            <br/>
+            पश्चात्तापी हृदयलाई दिन्छन् है छाया (२)
+            <br/>
+            मृत्यु विजय येशूलाई हेर त्यो क्रूसमा,
+            <br/>
+            मानिसका लागि बलिदान भए (धर्तीको माझमा) २
+         </lines>
+      </verse>
+   </lyrics>
+</song>

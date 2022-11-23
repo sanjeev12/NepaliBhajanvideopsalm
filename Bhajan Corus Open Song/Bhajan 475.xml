@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan475 Biswas Gari Prabhuko Charanma</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः विश्वास गरी प्रभुको चरणमा आऊ
+            <br/>
+            आफ्ना भुललाई स्वीकारी उनैमा क्षमा पाउन
+            <br/>
+            उनी आए संसारमा बचाउन हामी सबैलाई
+            <br/>
+            केवल उनमा छ मुक्ति, उनी हुन् साँचो गोठालो । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. कलवरी डाँडामा येशूलाई झुण्डिएको आज हेरिदेऊ
+            <br/>
+            केवल तिम्रै निम्ति मात्र उहाँले आफ्नो प्राणसम्म दिनुभो (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. उनको प्रेमी बोलावट सुनिदेऊ, आफ्नो हृदय उनैलाई खोलिदेऊ
+            <br/>
+            उहाँ आउनुहुनेछ तिमीभित्र दिनलाई अनन्त जीवन (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

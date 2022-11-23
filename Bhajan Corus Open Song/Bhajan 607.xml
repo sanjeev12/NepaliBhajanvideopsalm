@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan607 Samjha Hai Bujha Hai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>कोः सम्झ है बुझ है एकपल्ट सोच है (२) </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. हाम्रो जीवन के छ र ? माटोको शरीर माटोमा हो
+            <br/>
+            एक दिन त माटोमा मिल्नुछ (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. पवित्र बाइबलले भन्दछ प्रभुलाई भुल्ने नाश हुनेछ
+            <br/>
+            उम्कने ठाउँ कहाँ छ र ? (२) 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. अनन्तसम्म नरककुण्डमा दन्किरहेको आगोमा
+            <br/>
+            बचाउने को होला त्यो दिनमा (२) 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. येशूको रगतमा शक्ति छ नरकदेखि बचाउनलाई
+            <br/>
+            पछुताउने पापीलाई मौका छ (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

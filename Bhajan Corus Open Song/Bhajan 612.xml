@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan612 Yeshu Timro Dharmiktako</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः येशू तिम्रो धार्मिकताको वस्त्र पहिर्‌याऊ मलाई (२)
+            <br/>
+            नाङ्गिएझैं लाग्यो संसारमा तिम्रो प्रेम विना 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. काँडैकाँडा र चोटहरू आफैले बुनेका पिरहरू (२)
+            <br/>
+            यस्तै यस्तै मनका कुराहरूमा म आफै फँसेको छु
+            <br/>
+            तिम्रो शिरको काँडा र चोटहरूको बलिदान भुलेको छु
+            <br/>
+            येशू मेरो पश्चात्तापी हृदय लिनुहोस्, धुनुहोस् फेरि मलाई
+            <br/>
+            पवित तिम्रो रगतले । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. जिन्दगीका उकालीहरू मनका हजारौँ धोकोहरू (२)
+            <br/>
+            जहाँसम्म डुबेँ दलदलहरूमा निस्सासिलो जिन्दगी भोगेँ
+            <br/>
+            तिम्रो न्यानो प्रेम र बोलावटहरूलाई जानी जानी त्यागिरहेँ
+            <br/>
+            येशू तिम्रो सत्यताको आभास देऊ मलाई
+            <br/>
+            भत्काई फेरि मलाई मनपर्दो भाँडो बनाउ मलाई ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan292 Indreni Jasta Rangbirangi</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः इन्द्रेणीजस्ता रङ्गविरङ्गी तिम्रा प्यारा प्यारा सपनाहरूको
+            <br/>
+            मुक्तिदाता येशूसँग प्रतिज्ञा बनोस् आशिष्को जीवन पाई । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. सम्झिहेर जीवन नै उनको दान हो
+            <br/>
+            मूल्यहीन त छैन यो दाम परेको हो
+            <br/>
+            बेअर्थ नहोस् जीवनको सित्तैैमा पाएको मुक्ति यो,
+            <br/>
+            मौसमझैँ बदली बदली हिँड्ने
+            <br/>
+            तिम्रा जिन्दगीका कामनाहरूको मुक्तिदाता येशूसँग.... 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. यस्तै हुन्छ जीवनमा यी घटीहरू
+            <br/>
+            बाधा बनि आउनेछन् ती कमीहरू
+            <br/>
+            डराइनदेऊ जीवनमा, घर त्यो सम्झी येशूमा,
+            <br/>
+            बादलजस्ता हल्का हल्का, तिम्रा प्यारा सबै सबै इच्छाहरूको
+            <br/>
+            मुक्तिदाता येशूसँग प्रतिज्ञा बनोस् आशिष्को जीवन पाई ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

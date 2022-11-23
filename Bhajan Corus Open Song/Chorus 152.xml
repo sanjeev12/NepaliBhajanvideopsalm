@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus152 Chadai Dherai Chadai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            चाँडै, धेरै चाँडै हामी राजालाई भेट्नेछौँ (३)
+            <br/>
+            हल्लेलूयाह, हल्लेलूयाह, हाम्रो राजालाई भेट्नेछौँ 
+            <br/>
+             खुशी हुनेछौँ, हामी हाम्रो राजालाई भेट्नेछौँ (३) 
+            <br/>
+             मृत्यु हुँदैन, हामी हाम्रो राजालाई भेट्नेछौँ (३) 
+            <br/>
+             रुवाइ हुँदैन, हामी हाम्रो राजालाई भेट्नेछौँ (३)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

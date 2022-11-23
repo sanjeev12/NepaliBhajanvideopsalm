@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan178 Prabhu Yeshu Hamro Sathma</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. प्रभु येशू हाम्रो साथमा होऊ, जीवनको बाटोमा डोर्‌याऊ
+            <br/>
+            हामीलाई आफूमा मिलाऊ, प्रभु येशू हाम्रो साथमा होऊ । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः जबसम्म भेट्दैनौं हामी प्रभु ख्रीष्टको चरणमा
+            <br/>
+            तबसम्म भेट्दैनौं हामी प्रभु हाम्रो साथमा होऊ । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. प्रभु येशू हाम्रो साथमा होऊ दुःख र विपतदेखि बचाऊ
+            <br/>
+            आत्मिक भोजन हामीलाई देऊ प्रभु येशू हाम्रो साथमा होऊ । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. प्रभु येशू हाम्रो साथमा होऊ जोखिम जीवनमा जब आउँछ
+            <br/>
+            ख्रीष्टको प्रेमी हात समाउँछ प्रभु येशू हाम्रो साथमा होऊ । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. प्रभु येशू हाम्रो साथमा होऊ उच्च राख प्रेमको झण्डा
+            <br/>
+            मृत्युको बाढीले तर्साउँदा प्रभु येशू हाम्रो साथमा होऊ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

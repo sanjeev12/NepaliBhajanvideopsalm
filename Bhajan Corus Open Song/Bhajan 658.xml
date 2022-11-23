@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan658 Prabhuji Chyama Deu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः प्रभुजी क्षमा देऊ म जस्तो पापीलाई
+            <br/>
+            धेरै रुवाएँ, धेरै रुवाएँ तिमीलाई मेरो जीवनमा (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. पश्चात्तापी जीवन लिएर आउँदैछु तिमी कहाँ (२)
+            <br/>
+            कति धोका दिएँ मैले आफ्नै स्वार्थलाई अङ्गाली
+            <br/>
+            अपराधी छु, म यसैले तिम्रो प्रेम पाउने योग्य कहाँ
+            <br/>
+            म छुद्र पापीलाई क्षमा देऊ (२) आफ्नै बनाउनोस् मलाई । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. जीवनको हरेक कदममा, चाहन्छु तिमीलाई (२)
+            <br/>
+            सहारा देऊ प्रभु जीवनको दुर्गम गोरेटोमा सम्हालीदेऊ
+            <br/>
+            मेरो जीवन तिम्रो कोमल अङ्गालोमा
+            <br/>
+            दिनेछु प्रभु यो जीवन (२), अर्पन्छु तिमीलाई ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan503 Krushako Cheuma Rakhnuhos</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. क्रूसको छेउमा राख्नुहोस् जहाँ मुक्तिको धारा छ
+            <br/>
+            जहाँ पापको प्रायश्चित छ जहाँ पीडाको अन्त छ
+            <br/>
+            क्रूसको छेउमा राख्नुहोस् । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः तपाईंको धन्य मान्नेछु सदा म धन्य मान्नेछु
+            <br/>
+            तपाईंको आगमनसम्म सदा म धन्य मान्नेछु २ 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. तपाईंको सेवा सदा गर्नेछु, कृपा तपाईंकै म पाउनेछु,
+            <br/>
+            जीवन तपाईंलाई म दिनेछु, आत्मा तपाईंलाई चढाउँछु । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. क्रूसको छेउमा जब हुनेछु कृपा प्रभु मलाई गर्नुहोस्
+            <br/>
+            पाप मेरो क्षमा दिई स्वर्गीय राज्य दिनुहोस्
+            <br/>
+            क्रूसको छेउमा जब हुनेछु ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

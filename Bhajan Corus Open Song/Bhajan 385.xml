@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan385 Dinma Badalko Khabo Bani</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. दिनमा बादलको खाँबो बनी, रातमा आगोको ज्वाला बनी
+            <br/>
+            रक्षा गर्यौ हामीलाई (प्रभुजी सुख शान्तिमा बिते दिन) २ 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः धन्य, धन्य, धन्य प्रभुलाई जो दिनुभयो हामीलाई
+            <br/>
+            छत्र छायाँमा लुकाई, (प्रभुजी दिन रात हर समयमा) २ 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. वचनको मन्न दिनुभयो चटान फुटाई पानी दियौ
+            <br/>
+            आत्मामा भई हामीलाई (प्रभुजी तिम्रो बाटोमा डोर्यायौ) २ 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. यो नयाँ सुन्दर सालमा पनि प्राण, आत्मा, शरीर, हृदय पनि
+            <br/>
+            रक्षा गरिदिनुहोस् प्रभुजी (गरिदेऊ आत्मिक उन्नति) २ 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. स्वर्ग देशमा पुग्न पाऊँ अनन्त भजन सुनाउन पाऊँ
+            <br/>
+            सधैँ शरण परेर प्रभुजी (साष्टाङ्ग प्रणाम् गर्न पाऊँ) २
+         </lines>
+      </verse>
+   </lyrics>
+</song>

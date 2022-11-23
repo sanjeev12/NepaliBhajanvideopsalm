@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan344 Hey Prabhu Garna Darshan</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>कोः हे प्रभु गर्न दर्शन तिम्रो, आएका छौं हामी आशा लगाई </lines>
+      </verse>
+      <verse name="v1">
+         <lines> १. मनलाई आफ्नोतिर लगाइदेऊ (२) नापबिना आशिष् खनाइदेऊ </lines>
+      </verse>
+      <verse name="v2">
+         <lines> २. आफ्नो पूर्ण ज्ञान दिनुहोस् (२) स्वर्गीय वाणी आज सुनाउनुहोस् </lines>
+      </verse>
+      <verse name="v3">
+         <lines> ३. खाली होस् प्रभु हृदय मेरो (२) मोह लोभ अरू क्रोध मेटाइदेऊ </lines>
+      </verse>
+      <verse name="v4">
+         <lines> ४. सबै अशुद्धतालाई धोइदेऊ (२) क्रूसको मुनि स्नान गराइदेऊ </lines>
+      </verse>
+      <verse name="v5">
+         <lines> ५. क्रूसको वेदीमा आदर साथ आउँछौं (२) तन मन धन सबै भेटी चढाउँछौं</lines>
+      </verse>
+   </lyrics>
+</song>

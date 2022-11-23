@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan60 Udekko Premilo Khrist</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः उदेकको प्रेमिलो ख्रीष्ट येशू राजाको
+            <br/>
+            धन्यवाद, महिमा, स्तुति होस् सर्वदा । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. पिताले पुत्रलाई संसारमा दिनुभो
+            <br/>
+            यो कति उदेकको प्रेम ईश्वर पिताको
+            <br/>
+            येशू ख्रीष्ट प्रेमिलो प्रेमले स्वर्ग छोड्नुभो
+            <br/>
+            गेतसमनी पनि प्रेमले जानुभो । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. प्रेमले क्रूसको मृत्यु भोग्नलाई जानुभो
+            <br/>
+            मृत्युबाट तेस्रो दिन बौरिउठ्नुभयो
+            <br/>
+            येशू ख्रीष्ट जीवित छन्, म उनमा जिउँदछु
+            <br/>
+            तन–मनले उनको गाउनेछु गीत जयको । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. उदेकको प्रेमिलो ख्रीष्ट येशू राजाको
+            <br/>
+            धन्यवाद, महिमा, स्तुति होस् सर्वदा
+            <br/>
+            जानुभो स्वर्गधाममा फिर्नेछन् बादलमा
+            <br/>
+            लिएर हामीलाई पुर्‌याउँछन् त्यस ठाउँमा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan18 Mahima Mahima Mahima Hos</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः महिमा, महिमा, महिमा होस् (२)
+            <br/>
+            ईश्वरलाई महिमा होस् महिमा होस् (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. मृतक आत्मालाई, आशारहितलाई
+            <br/>
+            घृणित, गरीब, शुन्य, अर्थहीन जीवनलाई (२)
+            <br/>
+            नवीन दर्शन दिन, नयाँ जीवन दिन मानव बन्नुभो (२) प्रशंसा (३) होस् । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. सत्य अमर पे्रमको, सुन्दर उद्धार प्रेमको
+            <br/>
+            असीमित एकमात्र जीवित साक्षात् प्रेमको (२)
+            <br/>
+            प्रमाणित कोसेली, मूल्यवान कोसेली आज दिनुभो (२) धन्यवाद (३) होस् ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

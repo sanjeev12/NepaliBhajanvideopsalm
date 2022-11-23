@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan98 Satya Sundar Sidha Manis</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः सत्य सुन्दर सिद्ध मानिस हुनुहुन्छ, प्रभु ख्रीष्ट (२)
+            <br/>
+            उहाँसँग साटें मैले, अनन्त–अनन्तलाई चोखो प्रीत । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. सिद्ध ईश्वर सिद्ध मानिस, मेरो जीवन स्वामीलाई
+            <br/>
+            अन्तरात्मादेखि श्रद्धा–भक्ति छ तपाईंलाई । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. तपाईं मेरो म तपाईंको, अनन्तलाई हाम्रो प्रीत (२)
+            <br/>
+            दुःख–सुखमा दिलोज्यानले, रात–दिन गाउँछु ख्रीष्टको गीत ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

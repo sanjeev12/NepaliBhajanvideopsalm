@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bal Chorus55 Gahiro Gahiro</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            गहिरो, गहिरो ओ अति गहिरो, मेरो हृदयमा (२)
+            <br/>
+            येशूलाई प्रेम गर्छौ कि ? तिम्रो हृदयमा ?
+            <br/>
+            हो, म येशूलाई प्रेम गर्छु मेरो हृदयमा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

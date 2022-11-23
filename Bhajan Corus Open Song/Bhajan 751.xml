@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan751 Saitansanga Lada</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १ शैतानसँग लड, हार मान्नु हो पाप
+            <br/>
+            हरेक विजयद्वारा जान तिम्रो प्रताप
+            <br/>
+            कुकर्म हराउन, लड उत्तम लडाइँ
+            <br/>
+            येशूतिर हेर दिनुहुन्छ विजय । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः येशूसँग आऊ माग शान्ति शक्ति सुरक्षा
+            <br/>
+            खुशीसँग सहारा दिनुहुन्छ विजय । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. दुष्टसँग नमिली कामुकता नमान
+            <br/>
+            व्यर्थैमा नलिनु परमेश्वरको नाम
+            <br/>
+            होऊ सत्य विचारशील प्रेमी दयामय
+            <br/>
+            येशूतिर हेर दिनुहुन्छ विजय । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. ईश्वर दिनुहुन्छ मुक्ति जित्नेलाई
+            <br/>
+            विश्वासद्वारा जित्छौ सब समस्यालाई
+            <br/>
+            येशूबाट पाउँछन् नयाँ बल र अभय
+            <br/>
+            येशूतिर हेर, दिनुहुन्छ विजय ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

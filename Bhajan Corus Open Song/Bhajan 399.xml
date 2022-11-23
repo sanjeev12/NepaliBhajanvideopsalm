@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan399 Prabhu Arji Sunileu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>कोः प्रभु अर्जी सुनिलेऊ (२) गोर्खालीले मुक्ति पाउने ढोका खोलिदेऊ । </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. पिता, पुत्र, पवित्रात्मा, अर्जी हाम्रो लेऊन्
+            <br/>
+            आगो मेघको खाँबो उभ्याई बाटो देखाइदेऊन् । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. पूर्व, दक्षिण, पश्चिम दिशा अनेक धर्मका लोग छन्
+            <br/>
+            उत्तर तिब्बत मध्ये नेपाल गोर्खालीका कूर छन् । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. थापाथली, भाद्गाउँ, पाटन, काठमाडौँ छन् सहर
+            <br/>
+            तिनलाई तिम्रो भक्त पार्नु, प्रभु हाम्रो रहर । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. उठ भाइ हो, जानै पर्छ, पचाई निन्दा, लाज
+            <br/>
+            धन, जन, चैन र सुख त्यागी गर्नु धर्मकाज ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

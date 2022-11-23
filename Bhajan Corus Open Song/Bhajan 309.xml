@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan309 Nadijasto Ramro Isworko</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. नदीजस्तो राम्रो ईश्वरको शान्ति
+            <br/>
+            दुःख हटाउँछ हाम्रो हुँदा खूब वृद्धि,
+            <br/>
+            पूरा छ, तै हुन्छ झन् फराकिलो
+            <br/>
+            पूरा छ, तै बढ्छ अझै गहिरो । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः परमेश्वरमा स्थापित मनमा छ आराम
+            <br/>
+            वचनअन्सार पाई शान्ति र विश्राम । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. उनको आडमा बस्छ जो कोही पाउँछ सुख
+            <br/>
+            शत्रु त्यहाँ न पस्छ न ता दिन्छ दुःख,
+            <br/>
+            चिन्ता, पीर, आतुरी आँधीझैँ आउँछ
+            <br/>
+            तर प्राणलाई हुरी असर पार्दैन । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. हर वरदान सर्वोत्तम ईश्वरबाट हो
+            <br/>
+            हामीलाई छ उत्तम दुःख वा सुखको
+            <br/>
+            उनमा राख्न सक्छौं पूरा भरोसा
+            <br/>
+            राखे उनमा पाउँछौं सत्य पूर्णता ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

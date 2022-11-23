@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan103 Jiwanko Swami Prabhulai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. जीवनको स्वामी प्रभुलाई महिमा होस् सधैँ
+            <br/>
+            म जब भुल्छु तपाईंलाई कलवरीमा डोर्‌याऊ । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः भुल्छु जब गलगथाको कष्टको प्रार्थना तपाईंको
+            <br/>
+            भुल्छु जब प्रेम तपाईंको कलवरीमा डोर्‌याऊ । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. देखाऊ मलाई कबर उनको दूतगणले घेरेको
+            <br/>
+            जहाँ यस कठोर हृदय लिई गर्छु अर्पण उनलाई । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. मरियमले कबरमा दान लिई तपाईंलाई खोजे थिई
+            <br/>
+            हृदयको दान लिई म पनि खोज्न सकूँ अनि । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. छु प्रभु बोक्नलाई तयार आफ्नो त्यो क्रूसको भार
+            <br/>
+            गर्नेछु जीवन दुःख पार शक्ति देऊ तारणहार ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan712 Bauriuthnubhayeko Prabhu Yeshuko</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः बौरिउठ्नुभएको प्रभु येशूको चरणमा पर्छु
+            <br/>
+            घुँडा टेक्दै दण्डवत् गर्छु, प्रभुलाई म प्यार गर्छु । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. भज्दै, पुज्दै, स्तुति गाउँदै, हृदयबाट धन्यवाद दिनेछु
+            <br/>
+            उनको मुहार हेरिबस्दै, उनको आवाज सुनिरहनेछु । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. मेरो अरू कोही छैन, हजुरबाहेक कोही छैन
+            <br/>
+            हजुरको हात समातेर कहिले पनि छोड्नेछैन् ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

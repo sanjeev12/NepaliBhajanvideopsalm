@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan511 Aachuchuchu Bhayo Ni Jado</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. आछुछुछु भयो नि जाडो, स्वर सबैले खोलौं साह्रो
+            <br/>
+            हुँदैन कसैलाई गाउन गाह्रो, जन्मे गोठमा प्रभु हाम्रो । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. गरीब गोठाला दर्शनमा आए, येशूलाई भेटी औधी रमाए (२)
+            <br/>
+            पाप क्षमा जीवन पाए (२), सबैको लागि नै मुक्तिदान ल्याए । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. स्वर्गलाई छोडी जगमा आए, रुचाए गरीब गाईको गोठ नै (२)
+            <br/>
+            दिएनन् कैले ठाउँ तपाईंलाई (२), आफ्नैले लत्याए हजुरलाई ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus76 Jaba Prabhuko Aatma</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. जब प्रभुको आत्मा मेरो हृदयमा छ म गाउँछु दाऊद झैँ (२)
+            <br/>
+            म गाउँछु, म गाउँछु, म गाउँछु दाऊद झैँ (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. जब प्रभुको आत्मा मेरो हृदयमा छ स्तुति गर्छु दाऊद झैँ) २
+            <br/>
+            स्तुति गर्छु, स्तुति गर्छु, स्तुति गर्छु दाऊद झैँ) २ 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. जब प्रभुको आत्मा मेरो हृदयमा छ ताली बजाउँछु दाऊद झैँ) २
+            <br/>
+            ताली बजाउँछु, ताली बजाउँछु, ताली बजाउँछु दाऊद झैँ (२) 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. जब प्रभुको आत्मा मेरो हृदयमा छ म नाच्छु दाऊद झैँ (२)
+            <br/>
+            म नाच्छु, म नाच्छु, म नाच्छु दाऊद झैँ) २
+         </lines>
+      </verse>
+   </lyrics>
+</song>

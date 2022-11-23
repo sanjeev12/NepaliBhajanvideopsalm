@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan400 Othbata Niskeka Sabdaharu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः ओठबाट निस्केका शब्दहरू मेरा हृदयका भावनाहरू (२)
+            <br/>
+            ग्रहणयोग्य होस् सदा तपाईंको कृपा  दृष्टिमा । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. सबैभन्दा उत्तम यो सबैभन्दा श्रेष्ठ हो (२)
+            <br/>
+            तपाईंको प्रेम र दया, सत्य छन् सदासर्वदा । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. मेरा यी अधर्मबाट, धुनुहोस मलाई (२)
+            <br/>
+            नगरोस् ममा अधिकार र बदनाम पापले ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

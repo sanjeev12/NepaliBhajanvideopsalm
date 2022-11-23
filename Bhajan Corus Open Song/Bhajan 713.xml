@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan713 Charito Chito Bhayera</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः छरितो छिटो भएर येशूको काममा दगुर्छु येशूको काममा दगुर्छु
+            <br/>
+            अल्झाउने कुरा फालेर तयार सधैँ रहन्छु तयार सधैँ रहन्छु । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. लट्याउने रकमको थुप्रोले अल्मल्याउन खोज्छ
+            <br/>
+            लोभ र लालचको वस्तुले तर्काउने कोशिस गर्छ । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. दर्शाउनु भएको कुरामा सधैँ लागिरहन्छु,
+            <br/>
+            येशूको वाणीमा अडिन चाहन्छु । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. जीवन मुकुट पाउनलाई फूर्ति साथ दगुर्छु
+            <br/>
+            धोखा दिने तन मनलाई पिटेर अदल राख्छु । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. जीवन मुकुट पाउनलाई फूर्तिसाथ दगुर्छु
+            <br/>
+            घनिष्ठतामा येशूको झन्झन् बढ्दै जान्छु ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

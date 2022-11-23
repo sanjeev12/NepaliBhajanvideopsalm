@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus216 Biswas Garchu Pukaar Garchu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            विश्वास गर्छु, पुकार गर्छु, जीवन म अर्पण गर्छु
+            <br/>
+            तिमीमा, केवल तिमीमा, (केवल येशू तिमीमा) २ 
+            <br/>
+             भरोसा राख्छु, शरण पर्छु, संसारलाई त्यागिदिन्छु
+            <br/>
+            तिमीमा, केवल तिमीमा, (केवल येशू तिमीमा) २ 
+            <br/>
+             सँगै हिँड्छु, क्रूसलाईं अँगाल्छु, मृत्युपारि उदाउँछु
+            <br/>
+            तिमीमा, केवल तिमीमा, (केवल येशू तिमीमा) २
+         </lines>
+      </verse>
+   </lyrics>
+</song>

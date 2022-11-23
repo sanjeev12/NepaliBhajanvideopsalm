@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus117 Utsav Manauchu Geet Ma</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            उत्सव मनाउँछु गीत म गाउँनेछु,
+            <br/>
+            नयाँ गीत म उनको गाउँछु २ 
+            <br/>
+             स्तुति गर्छु, नयाँ गीत म उनको गाउँछु (२)
+            <br/>
+            हल्लेलूयाह (४) हल्लेलूयाह, हल्लेलूयाह ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

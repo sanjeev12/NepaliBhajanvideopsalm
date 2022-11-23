@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan730 Ajako Din Mahimako Din</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः आजको दिन महिमाको दिन,(२)
+            <br/>
+            महिमा चढाउँछु प्रभु तपाईंलाई (२)
+            <br/>
+            आजको दिन महिमाको दिन (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. आकाशका चन्द्र सूर्य ताराहरूले (२)
+            <br/>
+            हावा, बतास र बादल बर्षाहरूले (२)
+            <br/>
+            महिमा चढाउँछन् प्रभु तपाईंलाई (२)
+            <br/>
+            येशूको नाउँमा महिमा प्रभु (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. नदी, समुद्र सागर झरनाहरूले,
+            <br/>
+            लल थल नभएका प्राणीहरूले,
+            <br/>
+            महिमा चढाउँछन् प्रभु तपाईंलाई (२)
+            <br/>
+            येशूको नाउँमा महिमा प्रभु । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. हिमाल र पहाड पर्वत मैदानहरूले
+            <br/>
+            हे सारा पृथ्वीका मानिसहरू हो,
+            <br/>
+            आफ्नो सृष्टिकर्ताको महिमा गर (२)
+            <br/>
+            येशूको नाउँमा महिमा प्रभु ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

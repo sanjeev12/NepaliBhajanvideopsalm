@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan651 Madalko Talma Namratako</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः मादलको तालमा नम्रताको चालमा मीठो आवाजमा भक्तिको साथमा
+            <br/>
+            रमाऔँ येशूको उपस्थितिमा (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. कुहुकुुहु कोइली करायो येशू आउने हल्ला गुञ्जियो (२)
+            <br/>
+            लालीगुराँस वनमा फक्रियो येशू आउने विश्वास जन्मियो सबैको मनमा
+            <br/>
+            एउटै आशा छ, सबैको मनमा एउटै भरोसा छ (हाम्रो येशू आउनै लागेछन्) ३ 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. वचन सबै पूरा हुँदैछ, चिन्हहरू देखा पर्दैछ (२)
+            <br/>
+            गाउँ शहर प्रचार हुँदैछ, येशू आउने खबर पुग्दैछ सबैको मनमा एउटै आशा छ,
+            <br/>
+            सबैको मनमा एउटै भरोसा छ (हाम्रो येशू आउनै लागेछन्) ३
+         </lines>
+      </verse>
+   </lyrics>
+</song>

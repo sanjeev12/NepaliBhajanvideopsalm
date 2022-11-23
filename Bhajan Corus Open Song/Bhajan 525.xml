@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan525 Futera Hoina Jutera Ladera Hoina</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः (फुटेर होइन, जुटेर, लडेर होइन, मिलेर
+            <br/>
+            परिचय प्रेमको प्रचार्नुछ, नमुना येशूको देखाउनुछ) २ । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. बढेर जाऊ, जितेर आऊ, अखडा शैतानको छिनभरमा
+            <br/>
+            (झुकेर आऊ, घुँडामा आऊ) २, विश्वासी हामी एकताको गाँठोमा २
+            <br/>
+            गरेर जाऊ, गाएर आऊ, प्रशंसा प्रभुको एक स्वरमा
+            <br/>
+            (सम्झेर आऊ, प्रेममा आऊ) २, विश्वासी हामी येशूको आह्वानमा २
+         </lines>
+      </verse>
+   </lyrics>
+</song>

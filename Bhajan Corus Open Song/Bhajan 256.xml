@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan256 Mero Sato Marna</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. मेरो साटो मर्न एकजना थ्यो तयार
+            <br/>
+            कि म पापीले पाऊँ जीवन
+            <br/>
+            आफूमाथि बोके मेरो पापको सब भार
+            <br/>
+            येशूले त्यागिदिए आफ्नो प्राण । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः हेर क्रूसमाथि त्यो काँटीले ठोकेको कति गह्रौँ थ्यो सब पापको भार
+            <br/>
+            दुःख थियो त्यसमाथि ख्रीष्ट गए कलवरी र वहाँ गरे मेरो उद्धार । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. हेर अचम्मको प्रेम जब उनले धीरजसाथ
+            <br/>
+            मनको मैला निकाल्छन् मेरो
+            <br/>
+            खुसी छु यसकारण येशू हुन् मेरो नाथ
+            <br/>
+            दोष सबै क्रूसमा टाँगिसक्यो । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. म येशूकहाँ आउँछु खुसीसँग बस्छु
+            <br/>
+            दिन व दिन उनको पछि हिँड्छु
+            <br/>
+            स्तुति होस् हे प्रभु प्रार्थना यही हो मेरो
+            <br/>
+            पाप भुल तपाईंले मेटाउनुभो ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

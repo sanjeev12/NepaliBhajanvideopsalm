@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan313 Haar Hoina Jiwan Jeet Ho</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः हार होइन जीवन जीत हो, अभिशाप होइन आशिष् हो
+            <br/>
+            मुक्तिदाता ख्रीष्टको रगतले किनेको वरदान यो जीवन धेरै दामी हो । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. ए हतास हतास जिउनेहरू, ए उदास भएका मनहरू
+            <br/>
+            ए निराश निराश आँखाहरू, विवशतामा रुने प्राणहरू
+            <br/>
+            नयाँ गरी ख्रीष्टमा जन्म लेऊ, नत्र जीवन व्यर्थ जानेछ । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. जीवनदेखि थाकेकाहरू अविश्वास गरी भाग्नेहरू
+            <br/>
+            मनका ती सबै व्यथालाई येशूको अगाडि राखिदेऊ
+            <br/>
+            हात फैलाई मागे निश्चय नै तिमीलाई यो दान उनले दिनेछन् ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

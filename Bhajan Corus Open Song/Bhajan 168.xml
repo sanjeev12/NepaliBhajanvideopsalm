@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan168 Yeshu Mero Prabhu Jandachu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. येशू मेरो प्रभु भनी जान्दछु पापमय इच्छा मेरो यसर्थ मार्दछु
+            <br/>
+            येशू मुक्तिदाता हे त्राणकर्ता मेरो प्यारो ख्रीष्टलाई प्रेम गर्छु सदा । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. उदेकको प्रेम प्रभु मलाई गर्नुभो क्रूसको असीम दुःख सही मर्नुभो
+            <br/>
+            सबै मेरो लागि कस्तो प्रेम प्रभु येशूलाई प्रेम गर्छु यसैले सदा । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. स्तुति जीवनभरि गर्दै रहन्छु र प्रेममा तपाईंको सधैँ रहन्छु
+            <br/>
+            छायाँ मृतको पर्छ जब, जीवनमा प्यार गर्छु तपाईंलाई हे येशू सदा । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. गुञ्जोस् भवन उज्ज्वल स्तुतिले मेरो, विश्राम पाई अनन्त जीवन आनन्दको
+            <br/>
+            लाई मुकुट चम्किलो गाउँछु महिमा, मेरो प्यारो ख्रीष्टलाई प्रेम गर्छु सदा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

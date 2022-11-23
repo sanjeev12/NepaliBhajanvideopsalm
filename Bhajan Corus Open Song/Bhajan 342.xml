@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan342 Isworko Cheuma Jadai Chu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 v5 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. ईश्वरको छेवैमा जाँदै छु म, परे पनि दुःखमा लगिन्छु म
+            <br/>
+            स्तुती गाउँदै जय भन्छु ईश्वरको छेवैमा, ईश्वरको छेवैमा जाँदै छु म । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. परदेशीजस्तै छु, घाम डुब्दै छ वास गढमा खोज्दै छु रात पर्दै छ
+            <br/>
+            निद्रामा म हुन्छु ईश्वरको छेवैमा, ईश्वरको छेवैमा जाँदै छु म । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. स्वर्गलोकको बाटोलाई दिन्छन् मलाई सब थोक दिन्छन् मलाई वहाँ आशिष्पाई
+            <br/>
+            दूतभन्दा श्रेष्ठ हुन्छु ईश्वरको छेवैमा, ईश्वरको छेवैमा जाँदै छु म । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. दुःख, शोकलाई त्यागेर, शान्त भएर, चम्कँदै रहन्छु वहाँ गएर
+            <br/>
+            शोक हुँदैन साथमा ईश्वरको छेवैमा, ईश्वरको छेवैमा जाँदै छु म । 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. आनन्दको पखेटा जब लिन्छु म, संसारको शोक चिन्ता बिर्सन्छु म
+            <br/>
+            स्तुति गाउँदै जय भन्छु ईश्वरको छेवैमा, ईश्वरको छेवैमा जाँदै छु म ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

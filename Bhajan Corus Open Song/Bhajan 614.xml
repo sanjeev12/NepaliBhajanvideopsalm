@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan614 Bidaiko Dinaima Bichodko</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः बिदाइको दिनैमा बिछोडको बेला
+            <br/>
+            (फुट्दछ मनको थैला हो नयनबाट) २ 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. कहाँको तिमी कहाँको हामी भेट भयो हाम्रो यसरी (२)
+            <br/>
+            सँगै हिँड्यौँ सँगै खेल्यौँ दुःखहरूमा साथ दियौ,
+            <br/>
+            सुखहरू बाँडिदियौ (२) (ख्रीष्ट येशूको न्यानो अङ्गालोमा) २ 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. यस्तै रहेछ याहाँको चलन मिलनमा हाँसो विछोडमा आँसु (२)
+            <br/>
+            बिदाइको दिनैमा विछोडको बेला (फूट्दछ मनको थैला हो नयनबाट) २
+         </lines>
+      </verse>
+   </lyrics>
+</song>

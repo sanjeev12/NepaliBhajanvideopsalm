@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan698 Biswasilai Linalai Prabhu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः विश्वासीलाई लिनलाई प्रभु आउनेछन्,
+            <br/>
+            निराश नभई पर्ख है प्यारा ख्रीष्टीय जन ।
+            <br/>
+            राजदूत तिमी हौ येशू राजाको (२)
+            <br/>
+            पूरा हुन्छ प्रतिज्ञा महान् प्रभुको (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. मृतकहरू बौरिउठ्छन्, चिहान रित्ता हुनेछन्
+            <br/>
+            आकाशमा प्रभुकासाथ भेट्न जम्मा हुनेछन् ।
+            <br/>
+            समय लाग्दैन प्रभु आउनेछन् (२)
+            <br/>
+            आफ्ना प्रियहरूलाई साथमा लानेछन् (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. निराश नभई दौड है प्रेरित पावल दौडेझैँ,
+            <br/>
+            आफ्ना दौड पूरा गर्दै ख्रीष्टमा झन् नजीक बढ्दै ।
+            <br/>
+            पाउनेछौ तिमीले कामको पूरा फल (२)
+            <br/>
+            मेहनत गर्न नथाक निकाल पूरा बल (२) 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. विश्वास गर प्रभुमा दानिएलले गरेझैँ,
+            <br/>
+            अनुग्रह र आशिष्मा अझै तिमी डुब्नेछौ ।
+            <br/>
+            खेर जाँदैनन् तिम्रो सबै काम (२)
+            <br/>
+            अवश्य नै पाउनेछौ तिमीले इनाम (२) ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

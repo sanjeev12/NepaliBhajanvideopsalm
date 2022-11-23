@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan582 Dharmasanga Nakhelau Aba</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. धर्मसँग नखेलौं अब मण्डली, शक्ति र सत्यता येशूको लिनुछ
+            <br/>
+            सम्झौताको आत्मालाई त्यागेर सत्यता येशूको पहिरिनुछ
+            <br/>
+            युद्धको उच्च भूमिमा हामी चढ्नुछ ।
+            <br/>
+            विजय ख्रीष्टको हुनेछ, अघि जाऔं (४) विजय ख्रीष्टको हुनेछ 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. भाँच्नदिनुहोस् हाम्रो जुवा बन्धनलाई, महिमा र शक्तिले अब सजाउनुहोस्
+            <br/>
+            लड्दा लड्दै आत्मा र शरीरसँग मण्डली चुर्ण बनेको छ ।
+            <br/>
+            क्रूसको शक्तिलाई हामी बुझेर युद्ध फेरि लड्नुछ ।
+            <br/>
+            साहसी हौं, निडर हौं, बलिया हौं, महिमित हौं, विजय मण्डलीको हुनेछ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

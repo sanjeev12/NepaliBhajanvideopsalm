@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan483 Hey Sara Prithvika Manis Ho</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः हे सारा पृथ्वीका मानिस हो, परमप्रभुको जयजयकार मनाऔं
+            <br/>
+            आनन्दसाथ उनको सेवा गर, भजन गाएर उनको सामने आओ । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. परमप्रभु नै परमेश्वर हुन्, उहाँले हामीलाई बनाउनुभयो (२)
+            <br/>
+            हामी उहाँका प्रजा अनि उहाँका खर्कका भेडाहरू हौं (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. धन्यवादसाथ र प्रशंसा गर्दै उहाँको ढोका र चोकभित्र पस (२)
+            <br/>
+            उहाँलाई धन्यवाद चढाऔं, उहाँको नाउँलाई धन्यको भन (२) 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. परमप्रभु भलो हुनुहुन्छ, उहाँको कृपा सधैँभरि छ (२)
+            <br/>
+            अनि उहाँको सत्यता पुस्तौँसम्म स्थिर रहन्छ (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

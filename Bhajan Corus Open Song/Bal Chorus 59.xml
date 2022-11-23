@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bal Chorus59 Haami Saana Baalbaalikaalai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः हामी साना बालबालिकालाई ख्रीष्टले प्रेम गर्नुहुन्छ
+            <br/>
+            लेख्ने पढ्ने विद्यार्थीलाई ज्ञानको वरदान दिनुहुन्छ । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. सानैदेखि बालक हामी ख्रीष्टमा अघि बढ्दैजाऊँ
+            <br/>
+            सबैजना ख्रीष्टमा हामी नम्र व्यवहार सिक्दैजाऊँ । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. ख्रीष्टको आज्ञा पालन गर्दै असल शिक्षा लिनुपर्छ
+            <br/>
+            बालक हामी ज्ञानी बन्दै शिक्षित सभ्य बत्रुपर्छ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan421 Hridayma Khrist Basau</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः हृदयमा ख्रीष्ट बसाऔं, जीवन उनलाई चढाऔं
+            <br/>
+            जीवन रोशनी प्रभुको लिई जीवनको दीप जलाऊँ (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. प्रभु हाम्रो जीवनधार, करुणा जसको अपार (२)
+            <br/>
+            स्वर्गको वैभव त्यागेर ... हा ... आउनुभो जगमा (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. प्रभु ख्रीष्टको आदेश लिई जीवन शुद्ध बिताऔं (२)
+            <br/>
+            उनको महिमा फिजाऔं ... हा ... सारा संसारमा (२) 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. सुसमाचार हामी प्रचारौं प्रभुको राज्य बढाऔं (२)
+            <br/>
+            सनातनी राजा येशूलाई ... हा ... महिमित गराऔं (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

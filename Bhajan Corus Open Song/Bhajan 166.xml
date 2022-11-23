@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan166 Parmeshwor Pitako Jayjaykar</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः परमेश्वर पिताको जयजयकार गाऊँ हामीलाई बनाउने उनी नै हुन्,
+            <br/>
+            आफ्नो ज्ञान र शक्तिले उनैले सबै सृष्टि गरे । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. अँध्यारो शुन्यमा ज्योति चम्के दिन र रात ईश्वरले छुटाए,
+            <br/>
+            सबै तारा र जून र घाम, भूमि र आकाश उनैका काम । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. डाँडाका बीचमा खोला बगे घाँस र रूख–पात उब्जाए,
+            <br/>
+            कति सुन्दर संसार यो उनलाई औधी जाति लाग्यो । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. पानीमा माछा खेल्न थाले आकाशमा चराका सोर सुनिए,
+            <br/>
+            साना–ठूला प्राणी सबै राम्रा र उनका निजी । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. आखिरमा सृष्टि मानिसको भो ईश्वरका रूपमा सृष्टि भयो,
+            <br/>
+            “मसित मिलोस् शुद्ध र साफ” मानिसप्रति ईश्वरको आश । 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. ईश्वरसित नै मिलौं हामी उहाँका नियम हृदयले मानी,
+            <br/>
+            सत्य कुरा हामी मानौँ जीवन अमर हामी पाऔं ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

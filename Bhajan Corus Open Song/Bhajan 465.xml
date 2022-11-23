@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan465 Nabin Saalko Pratham Dinma</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः नवीन सालको प्रथम दिनमा हर्ष हामी आज मनाऔं
+            <br/>
+            यही समय प्रभु याद लिई नवीन हामी जीवन अपनाऔं । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. प्रभु येशू उद्धारकर्ता अद्भुत् त्राता तारणहार
+            <br/>
+            उनको करुणा याद सदा लिई नवीन हामी जीवन अप्नाऔं । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. प्रभु हामी शरण पर्छौं सबै जीवन अर्पण गछौं
+            <br/>
+            तपाईं सेवा सदाभर नै कामना मनमा यही रहोस् ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

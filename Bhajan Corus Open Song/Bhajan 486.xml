@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan486 Yo Sunau Kina Yeshule</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १ यो सुनाऔं किन येशूले ग्रहण गर्छन् पापीलाई
+            <br/>
+            स्वर्गीय मार्गमा लड्ने, बाटो भुल्ने यात्रीलाई । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः हामी गाऔं, निरन्तर गाऔं, पापीलाई ग्रहण गर्छन्
+            <br/>
+            सुसमाचार प्रष्ट सुनाऔं, येशूले बचाउँदछन् । 
+            <br/>
+             २ ख्रीष्टको वचन अपनाई आराम पाउँछौं हामीले
+            <br/>
+            सबैभन्दा दुष्टलाई ग्रहण गर्छन् येशूले । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             ३. मलाई ख्रीष्टले शुद्ध पारी ऋण चुकाए व्यवस्थाको
+            <br/>
+            अब ठहरिन्छु निर्दोषी साम्नेमा परमेश्वरको । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ४. येशूले गर्छन् ग्रहण पापी सब, मलाई पनि
+            <br/>
+            स्वर्ग जान्छु उनकहाँ शुद्ध भई पापदेखि ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

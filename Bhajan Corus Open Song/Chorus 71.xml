@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus71 Mahima Garau Aradhana</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            महिमा गरौँ, आराधना येशूलाई होस्
+            <br/>
+            सबै महिमा, प्रशंसा, आदर, 
+            <br/>
+             होस् महिमा, राज्यको अधिकार
+            <br/>
+            सिंहासनदेखि बग्छ हामीप्रति, गाऔँ उनैको गान । 
+            <br/>
+             उच्च पारौँ, माथि अग्ल्याऔँ येशूको नाउँलाई
+            <br/>
+            बढ़ाइ गरौँ, महिमित पारौँ, ख्रीष्ट राजालाई 
+            <br/>
+             महिमा गरौँ, आराधना,
+            <br/>
+            येशू मरे आज, महिमित बने राजाहरूका राजा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

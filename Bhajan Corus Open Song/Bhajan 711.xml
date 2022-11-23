@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan711 Jadaichu Yeshukaha</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः जाँदैछु येशूकहाँ छैन दुःख, दर्द वहाँ (२)
+            <br/>
+            सधैँ हुन्छु महिमा, जाँदैछु येशूकहाँ (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. यो शरीर छोडी म उडी जान्छु, अनन्त देशमा (२)
+            <br/>
+            सुनौलो शहरको सुन्दर देशमा महिमित भेषमा (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. हेर्दिनँ यहाँ क्षिणिक ज्योति, म आँखा चिम्लन्छु (२)
+            <br/>
+            येशूको महिमित मुहार हेर्दै सधैँ नै रमाउनेछु (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

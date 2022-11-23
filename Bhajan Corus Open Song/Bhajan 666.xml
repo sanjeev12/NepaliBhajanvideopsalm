@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan666 Swagat Cha Kalbariko</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः स्वागत छ कलवरीको फेदीमा
+            <br/>
+            जीवन आफ्नो सर्वाङ्ग चढाउनेलाई (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. निराशतामा जिउने यौवनहरू विवशतामा रुने आत्माहरू (२)
+            <br/>
+            वरदानको अमूल्य जीवनलाई अभिषापमा सिद्ध गर्नेहरू
+            <br/>
+            जीवनको परिभाषा बुझिदिनलाई मौका छ आज नै तिम्रो जीवनलाई 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. थकित भएका जीवनहरू, आशा विहीनका यौवनहरू (२)
+            <br/>
+            सुन्दर जीवन र उज्वल भविष्य, सबै हेर्न चाहने रहरहरू
+            <br/>
+            पहिला तिम्रो जीवन सुम्पिदेउ प्रभुलाई, मौका छ आज नै तिम्रो जीवनलाई ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

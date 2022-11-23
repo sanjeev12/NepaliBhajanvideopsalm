@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan146 Hey Pabitra Aatma Hridayama</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. हे पवित्रात्मा हृदयमा फलाउनोस् आफ्नो फल
+            <br/>
+            हे भावीवक्ताको प्रेरणा जीवन र प्रेमको मूल । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. हे पवित्रात्मा जसदेखि बोल्थे भावी वक्ता
+            <br/>
+            रहस्य बुझन पाऔं भनी खोलिदिनुहोस् ताल्चा । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. हे स्वर्गीय ढुकुर जगमाथि फैलाउनोस् पखेटा
+            <br/>
+            हाम्रो सांसारिक रात हटाई उज्यालो होस् आत्मा । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. जब ईश्वर–आत्मा मनमा आई फैलाउँदछन् ज्योति
+            <br/>
+            तब आफैद्वारा ईश्वरलाई चिनौंला सब हामी ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

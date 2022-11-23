@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan276 Yo Ek Udekko Kura</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. यो एक उदेकको कुरा हो ईश्वरको पुत्र येशू ख्रीष्ट
+            <br/>
+            स्वर्गलाई त्यागी आउनुभो मजस्तो मान्छे बचाउन । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. ती गरीब घरमा जन्मिए काम गरे सुखदुःखले रोए
+            <br/>
+            पापीको लागि ती मरे जान यो कुरो साँचो हो । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. यो एक उदेकको कुरो हो अग्घोर छ उनको प्रेम ममा
+            <br/>
+            यो झन् उदेकको कुरो हो थोरै छ मेरो प्रेम उनमा । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. तपाईंलाई प्रेम म गर्न आएँ हृदयमा प्रेमको आगो बाल्दै
+            <br/>
+            अझै म गर्नेछु धेर प्रेम तपाईंको दर्शन नपाउन्ज्याल ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

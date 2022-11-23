@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bal Chorus35 Suna Chadi Masita Chaina</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            सुन, चाँदी मसित छैन, तर जे छ म तँलाई दिन्छु
+            <br/>
+            नासरतको येशू ख्रीष्टको नाउँमा हिँड्डुल गर्
+            <br/>
+            हिँड़्दै उफ्रँदै स्तुति गर्दै (२)
+            <br/>
+            नासरतको येशू ख्रीष्टको नाउँमा हिँड़्डुल गर् ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

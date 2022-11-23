@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus75 Prem Garchu Prabhu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            प्रेम गर्छु प्रभु, म स्वर उचाल्छु
+            <br/>
+            आराधना गर्न मेरो मन रमाओस्
+            <br/>
+            <br/>
+            आनन्द लिनोस् जे सुत्रुहुन्छ,
+            <br/>
+            त्यही मीठो आवाज होस् तपाईंको कानमा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

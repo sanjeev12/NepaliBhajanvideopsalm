@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus43 Aayo Paramprabhuko Nimti</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            आओ (२) परमप्रभुको निम्ति हामी गाऔँ
+            <br/>
+            हाम्रो उद्धारको चट्टानको निम्ति (जयजयकार) ३ गरौँ 
+            <br/>
+             आओ (२) धन्यवाद गर्दै उहाँको सामुत्रे आओ
+            <br/>
+            भजन गाउँदै (उहाँको) २ (जयजयकार) ३ गरौँ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

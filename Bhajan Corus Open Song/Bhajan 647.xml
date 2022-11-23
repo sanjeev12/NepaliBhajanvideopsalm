@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan647 Sunya Sunya Timro Jiwan</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः शून्य शून्य तिम्रो जीवन (२)
+            <br/>
+            (ख्रीष्ट विना अशान्ति मन) २ 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. धेरै कमायौ धन मान यहाँ तर पाएनौ चैन मनमा (२)
+            <br/>
+            सवथोक पाएर पनि यहाँ लाग्छ केही हराए झैँ मनमा
+            <br/>
+            त्यो त शान्ति आनन्द रहेछ पाइँदैन ख्रीष्ट येशू विना 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. तिम्रो फिक्का निःरस जीवनमा येशू चाहन्छन् रंगरस भर्न (२)
+            <br/>
+            आनन्द शान्तिको रंगरस भरी बनाइदिन्छन् जीवन हरियाली
+            <br/>
+            यी सब पाउन अपनाउँ ख्रीष्टलाई सित्तैमा दिन्छन् ख्रीष्टले तिमीलाई ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

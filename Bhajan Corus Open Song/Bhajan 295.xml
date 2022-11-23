@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan295 Aja Maile Jos Paye</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः आज मैले जोश पाएँ, येशूको वरदान पाएँ
+            <br/>
+            स्वर्ग छोडी आउनुभो महिमा प्रकट गर्नुभो । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. सुस्त जीवन थियो हृदय जगाइदिए
+            <br/>
+            भुलिरहेकालाई बाटो वचनको दिए । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. स्वर्गीय ज्योति ममा प्रकाशित भयो
+            <br/>
+            याद गर अब धर्ती नै स्वर्ग भयो । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. बोलाउँछन् हामीलाई येशू आफ्नो छेउमा
+            <br/>
+            छोड्न संसारको मोह सत्य प्रेम कलवरीमा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

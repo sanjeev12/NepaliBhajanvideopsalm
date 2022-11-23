@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan365 Jiwanko Bato Kadale Purna</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. जीवनको बाटो काँडाले पूर्ण, सङ्ग्राम छ भारी मन हुन्छ चूर्ण
+            <br/>
+            मरूँ झैँ शुष्क हुन्छ कहिले, रसिलो अनि भरिलो पहिले
+            <br/>
+            समय त्यो थियो चिन्न तपाईंलाई, धन्यवाद प्रेमी परमेश्वर पिता
+            <br/>
+            देख्दछु म त्यो बादलको खाँबो, उज्ज्वल चम्किलो डोर्याउने मलाई । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. अन्धकार कस्तो ढाक्दछ मलाई, निराशको नित्य हुँदै छ बढाइँ
+            <br/>
+            कसरी हिँड्नु पाइला कहाँ हाल्नु, चाहन्नँ प्रभु जीवन यो फाल्नु
+            <br/>
+            धन्यवाद पिता कालो बादलको पारि देख्दछु ज्योति जीवनको
+            <br/>
+            सोध्न मन लाग्छ किन हे प्रभु सिकाउनुहोस् मलाई धैर्य हे येशू । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. लछार र पछार संसारको अति घिनलाग्दो पापमय छ मेरो गति
+            <br/>
+            लडाइँ र झगडा छ देश विदेशमा, घमण्ड छ तिनको विद्या र भेषमा
+            <br/>
+            धन्य छ येशू मेरो हो आशा, बादलमा उज्ज्वल देख्नेछु राजा
+            <br/>
+            सबैका मालिक शान्तिका दाता, शक्तिका प्रभु ख्रीष्ट मुक्तिदाता ।
+            <br/>
+            आउनुहुनेछ (३) चाँडै नै महिमित बादलमा येशूजी आउनुहुनेछ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

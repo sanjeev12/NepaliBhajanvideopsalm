@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan424 Jadaichu Yeshukaha</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः जाँदैछु येशूकहाँ, हल्लेलूयाह भन्दै
+            <br/>
+            बोलाउँदैछ हामीलाई, पवित्र वचनले (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. हे दाजु भाइ, हे दिदी बहिनी नभुल त्यो घरलाई (२)
+            <br/>
+            जाऔं हामी सबै जयजय गाउँदै पापलाई त्यागेर । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. रमाहट गर्दै, स्तुति गाउँदै अनन्त घरैमा (२)
+            <br/>
+            जहाँ स्वर्गदूतगण जयजय गाउँछन् येशूको छेवैमा । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. जहाँ न तिर्खा भोक आदि जहाँ न दिन न रात (२)
+            <br/>
+            बसौंला माथि स्तुति गर्दै येशूको छेवैमा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

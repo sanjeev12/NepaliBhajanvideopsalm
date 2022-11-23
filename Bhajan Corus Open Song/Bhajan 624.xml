@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan624 Tapaiko Pakhetaka Chayamuni</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. तपाईको पखेटाका छायामुनि मलाई लुकाउनुहोस्
+            <br/>
+            र आँखाका नानीलाई झैँ मलाई सधै रक्षा गर्नुहोस्
+            <br/>
+            अनि म धार्मिकतामा तपाईंको मुख हेर्नेछु
+            <br/>
+            र तपाईंको रुपको दर्शनले सन्तुष्ट हुनेछु र रमाउनेछु । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines> कोः माथि माथि माथि माथि माथि चील झैँ म उड्नेछु (४) </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. तपाईंको पखेटाका छायामुनि मलाई लुकाउनुहोस्
+            <br/>
+            र आँखाका नानीलाई झैँ मलाई सधै रक्षा गर्नुहोस्
+            <br/>
+            अनि म धार्मिकतामा तपाईंको मुख हेर्नेछु
+            <br/>
+            र तपाईंको रुपको दर्शनले सन्तुष्ट हुनेछु र रमाउनेछु ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

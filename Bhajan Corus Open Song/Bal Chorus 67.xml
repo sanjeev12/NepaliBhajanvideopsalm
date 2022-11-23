@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bal Chorus67 Aaja Haami Saanaa Chau</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. आज हामी साना छौँ भोलि ठूला हुने छौँ
+            <br/>
+            हामी ठूला भएर, मिसनेरी हुने छौँ (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. आज बाइबल पढ्नुछ, ख्रीष्टमा अघि बढ्नुछ
+            <br/>
+            टाढा टाढा गएर, वचनलाई सुनाउनुछ (२) 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. सुख दुःख सहनुछ, आफ्नो भारी बोक्नुछ
+            <br/>
+            अगुवा भएर, ख्रीष्टको बगाल हेर्नुछ (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bal Chorus17 Timii Khusi Chau Bhane</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>१. तिमी खुशी छौ भने, ताली बजाऊ (२) </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः तिमी खुशी छौ भने, देखाउन चाहन्छौ भने
+            <br/>
+            तिमी खुशी छौ भने, ताली बजाऊ । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines> २. तिमी खुशी छौ भने चुट्की बजाऊ (२) </lines>
+      </verse>
+      <verse name="v3">
+         <lines> ३. तिमी खुशी छौ भने, खुट्टा बजाऊ (२)</lines>
+      </verse>
+   </lyrics>
+</song>

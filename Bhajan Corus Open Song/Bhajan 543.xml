@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan543 Ugharera Parda Mero Kothako</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. उघारेर पर्दा मेरो कोठाको जब बाहिर हेर्दछु
+            <br/>
+            बर्सेर पानी भर्खरै रहेको हरियाली पाखा देख्दछु २ 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. (धुनुहोस्) २ येशू मेरो मन पनि तपाईंको पवित्र आत्माले २
+            <br/>
+            (अझै चोखो बनाउनुहोस्) २ तपाईंको पवित्र वचनले । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. जिएर नमुना बन्नुपरेको छ, जब म सिकाउँछु अरूलाई
+            <br/>
+            बोलेर मात्र हुँदैनरहेछ बलियो जग निर्माण गर्नलाई २
+         </lines>
+      </verse>
+   </lyrics>
+</song>

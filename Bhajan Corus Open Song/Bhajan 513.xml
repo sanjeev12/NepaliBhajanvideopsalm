@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan513 Batas Chalirahecha Yas Desbata</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. बतास चलिरहेछ यस देशबाट भएर
+            <br/>
+            स्वर्गीय सुगन्ध फेरि चलिरहेछ,
+            <br/>
+            थाहा छैन कहाँबाट आउँछ ?
+            <br/>
+            थाहा छैन कहाँ जान्छ ? तर हामीमा बहन्छ, 
+            <br/>
+             हो...हो...हो... त्यो बतास हामीमाथि बगोस् । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. वृष्टि भइरहेछ वर्षा, माथिबाट
+            <br/>
+            प्रेम र दयाका बुँदहरू बर्सिरहेछन्,
+            <br/>
+            स्वर्गतिर आँखा उठाऊ, त्यो वर्षा भएको हेर्न
+            <br/>
+            जसले हामीलाई भिजाउँछ, 
+            <br/>
+             हो...हो...हो... त्यो वृष्टि हामीमाथि बर्सोस् । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. आगो बलिरहेछ जो आकाशबाट झर्छ,
+            <br/>
+            आगोका जिब्राहरू जसले हामीलाई जलाउँछन्,
+            <br/>
+            के तिमी थाहा गर्न सक्छौ ?
+            <br/>
+            त्यो आगो बलिरहेछ हामीलाई शुद्ध गर्न, 
+            <br/>
+             हो...हो...हो... त्यो आगो हामीमाथि बर्सोस् ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

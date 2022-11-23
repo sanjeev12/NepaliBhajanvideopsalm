@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan372 Parmeshwor Mera Hun Aguwa</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. परमेश्वर मेरा हुन् अगुवा, यो सुन्नु कस्तो सान्त्वना
+            <br/>
+            जे जति गरूँ, जाऊँ जता परमेश्वर मेरा हुन् अगुवा । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः परमेश्वर मेरा हुन् अगुवा, मलाई डोर्याउँदछन् सदा
+            <br/>
+            म उनको पछि लागूँला कारण परमेश्वर हुन् अगुवा । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. भव सागर कहिले शान्त छ र कहिले आँधी चल्दछ
+            <br/>
+            वा आपदमा वा सुख चैनमा, परमेश्वर मेरा हुन् अगुवा । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. समात्छु म तपाईंको हात नगरूँ गनगनाइको बात
+            <br/>
+            जे परे होस् रमाऊँ सदा कि ईश्वर मेरा हुन् अगुवा । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. आउँदा पृथ्वीको कामको अन्त, अनुग्रहद्वारा भई जयवन्त
+            <br/>
+            निर्भय म तर्छु मृत खोला धामसम्म ईश्वर हुन् अगुवा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

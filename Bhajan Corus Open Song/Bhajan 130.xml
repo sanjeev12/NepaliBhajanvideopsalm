@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan130 Bauri Uthnu Bhaeko Prabhulai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः बौरिउठ्नुभएको प्रभुलाई जीवन भेटी चढाउँछु,
+            <br/>
+            पुनरुत्थान र जीवन प्रभु हो भनेर विश्वास गर्छु 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. हाम्रो पापको लागि प्रभु क्रूसमा टाँगिए
+            <br/>
+            वचन अनुसार तेस्रो दिनमा बौरिउठ्नुभयो ।
+            <br/>
+            अब उप्रान्त प्रभु येशूलाई क्रूसमा नै हेरौं
+            <br/>
+            जिउँदालाई मुर्दाहरूको बीचमा अब न खोजौं । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. चोरझैँ नै आउने प्रतिज्ञा छाडी प्रभु जानभो
+            <br/>
+            प्रार्थना गर्दै जागा रहने सल्लाह दिनुभयो ।
+            <br/>
+            ज्योति जीवनको अपनाउनलाई उहाँमा रहनुछ,
+            <br/>
+            संसारको सुख–शान्तिलाई होइन, प्रभुलाई हेर्नुछ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

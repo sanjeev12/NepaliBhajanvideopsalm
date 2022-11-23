@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan128 Aja Ko Din Khusi Manaau</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. आजको दिन खुसी मनाऔं सबैले,
+            <br/>
+            हाम्रो प्रभु मुक्तिदाता फेरि जी उठे (२)
+            <br/>
+            आजको दिन भरियोस् खुसीले संसार (२)
+            <br/>
+            हाम्रो प्रभु मुक्तिदाता फेरि जी उठे (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. क्रूसमा हाम्रो लागि दिए ख्रीष्टले प्राण,
+            <br/>
+            आफ्नो रगतको बाटोले किने हाम्रो प्राण (२)
+            <br/>
+            ख्रीष्टलाई धन्यवाद चढाऔं मनले जयजय गाऔं (२)
+            <br/>
+            आफ्नो रगतको बाटोले किने हाम्रो प्राण (२) 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. जान्नुपर्छ मनमा हामी सबैले,
+            <br/>
+            हामी पनि बौरिउठ्छौं अन्तको दिनमा (२)
+            <br/>
+            अहिले प्रभु येशू छन् सदा रहन्छन् (२)
+            <br/>
+            हामी पनि बौरिउठ्छौं अन्तको दिनमा (२) 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. हामी पापीहरूलाई उनले दिए सुख,
+            <br/>
+            धन्य ईश्वरका पुत्र स्वर्गको राजालाई (२)
+            <br/>
+            प्रभु आउँछन् एक दिन तयार रह सदा (२)
+            <br/>
+            धन्य ईश्वरका पुत्र स्वर्गको राजालाई (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

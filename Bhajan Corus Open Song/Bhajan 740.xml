@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan740 Susandeshko Yo Geetle</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः सुसन्देशको यो गीतले सम्झाइरहेछ सबैलाई
+            <br/>
+            मरिरहेको आत्माहरू बचाउन जानलाई
+            <br/>
+            हे मित्र जानलाई छिट्टै तयार होऔ (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. साँचो शान्ति नपाई मानिस तड्पिएको देख्छौँ हामी (२)
+            <br/>
+            यो जीवनलाई शान्ति दिने येशू नै हो भन्छौँ हामी (२)
+            <br/>
+            सबको निम्ति क्रूसमा मरे भन्ने सुनाउँदै (२)
+            <br/>
+            हे मित्र जानलाई छिट्टै तयार होऔं । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. घरबाट खेदिएका गाउँलेबाट निन्दिएका
+            <br/>
+            जीवनमा शान्ति नपाईं सधैँ निस्सासिएका
+            <br/>
+            संसारका मानिसहरूको झुप्रो नियाल्दै
+            <br/>
+            हे मित्र जानलाई छिट्टै तयार होऔं । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. लक्ष्यहिन व्यक्तिलाई लक्ष्य दिने प्रभु येशू
+            <br/>
+            यो संसारको सृष्टि गर्ने येशू ख्रीष्ट महान् प्रभु
+            <br/>
+            येशू ख्रीष्ट बौरिउठे भन्ने सुनाउँदै
+            <br/>
+            हे मित्र जानलाई छिट्टै तयार होऔं । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. जीवन नपाई भौँतारिएका बाटो बिराई अल्झिएका
+            <br/>
+            सधैँभरि अँध्यारोमा भाग्य सम्झी रोइरहेका
+            <br/>
+            जीवन दिने येशू नै हुन् भन्ने सुनाउँदै
+            <br/>
+            हे मित्र जानलाई छिट्टै तयार होऔं ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

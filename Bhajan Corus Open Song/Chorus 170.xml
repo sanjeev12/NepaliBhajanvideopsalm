@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus170 Prem Kholajasto Bagcha</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            प्रेम खोलाजस्तो बग्छ, तपाईं र मबाट बग्छ
+            <br/>
+            बाँझो ठाउँलाई भिजाउँछ, निर्वाह सबलाई गर्दछ 
+            <br/>
+             शान्ति खोलाजस्तो ... । 
+            <br/>
+             आनन्द खोलाजस्तो ... ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

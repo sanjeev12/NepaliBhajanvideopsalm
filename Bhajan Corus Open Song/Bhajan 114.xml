@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan114 Kati Achammako Pyar</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः कति अचम्मको प्यार, ईश्वर सृजनाहार
+            <br/>
+            स्वर्गको सुखलाई त्यागेर आए पापी बचाउन तयार (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. नर रूप धारण गरेर उनले प्रचारे सुसमाचार (२)
+            <br/>
+            पापीको पापको, दुःखीको दुःखको उठाए उनले भार (२)
+            <br/>
+            आश्चर्यकर्म गरेर उनले देखाए महिमा अपार (२)
+            <br/>
+            यी सबको बदली पाए उनले क्रूसैको गह्रौँ भार (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. अन्तिम घडीमा गेत्समनीमा चेलागणसँग गए (२)
+            <br/>
+            निरन्तर प्रार्थना गरेर उनले पसिना बगाए । (२)
+            <br/>
+            हुन सके यो कचौरा मदेखि हटाइदेऊ भनी (२)
+            <br/>
+            तरै पनि तपाईंको इच्छा पूर्ण हवस् भने (२) 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. येशू पक्डाइँनु बारब्बा छुटाइनु कहाँ थियो यो न्याय (२)
+            <br/>
+            सिन्दुरेवस्त्र लगाए उनलाई क्रूसमा चढाउनलाई (२)
+            <br/>
+            लड्दै र पड्दै गल्गथा पुगे रोमीको मारा खाई (२)
+            <br/>
+            कष्टित पीडित प्रभुले आफ्नो प्राण दिइहाले, हाइ (२)
+            <br/>
+             
+         </lines>
+      </verse>
+   </lyrics>
+</song>

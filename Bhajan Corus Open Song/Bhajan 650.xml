@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan650 Hamile Boleka Badalka</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. हामीले बोलेका बादलका मायाहरू हाम्रा रंगीन शीतका सपनाहरू (२)
+            <br/>
+            चुडिन सक्छ भत्कन सक्छ
+            <br/>
+            तर ख्रीष्टको प्रेम जो छ सदा बगिरहन्छ
+            <br/>
+            प्रेम (३) (सदा बगिरहन्छ) २ 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. मानव मर्दछ इज्जत छुट्दछ जिन्दगीको अर्थ नै हराएपछि (२)
+            <br/>
+            धन हराउँदछ, दौलत कुहुन्छ, प्रेमको अस्तित्व गुमाएपछि (२)
+            <br/>
+            तर ख्रीष्टको प्रेम जो छ सदा बगिरहन्छ
+            <br/>
+            प्रेम (३) (सदा बगिरहन्छ) २ 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. आशा मर्दछ हर्ष उड्दछ प्रीतिको फूल ओइलिएपछि (२)
+            <br/>
+            सपना टुट्दछ, कप्लना फूट्दछ जिन्दगीको डोरोमा हराएपछि (२)
+            <br/>
+            तर ख्रीष्टको प्रेम जो छ सदा बगिरहन्छ
+            <br/>
+            प्रेम (३) (सदा बगिरहन्छ) २
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan30 Kaska Samu Gothma</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1 v8 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>१. कसका सामु गोठमा घुँडा टेक्छन्, गोठाला ? </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः प्रभु हो उदेकको कुरा, प्रभु हो जीवनका राजा
+            <br/>
+            घुँडा टेक्दै हामी आऔं, प्रभु ख्रीष्टमा मुकुट लाऔं । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines> २. खुसी भई घरैमा आफ्नो हातले काम गर्दा । </lines>
+      </verse>
+      <verse name="v3">
+         <lines> ३. सारो भोको जङ्गलमा शैतानसँग युद्ध गर्दा । </lines>
+      </verse>
+      <verse name="v4">
+         <lines> ४. आफ्नो मितको चिहानमा उभी दुःखले रुँदा । </lines>
+      </verse>
+      <verse name="v5">
+         <lines> ५. सङ्कट भई बारीमा आधी रात प्रार्थना गर्दा । </lines>
+      </verse>
+      <verse name="v6">
+         <lines> ६. पापको क्रूसमा टाँगिदा शत्रुलाई आशिष् दिँदा । </lines>
+      </verse>
+      <verse name="v7">
+         <lines> ७. आफ्नो निज चिहान छोड्दा, यस संसारको त्राण गर्दा । </lines>
+      </verse>
+      <verse name="v8">
+         <lines> ८. स्वर्गको सिंहासनमा बसीकन राज्य गर्दा ।</lines>
+      </verse>
+   </lyrics>
+</song>

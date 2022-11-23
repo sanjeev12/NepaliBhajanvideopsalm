@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan502 Hera Na Hera Shristiko Sundarta</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः हेर न हेर सृष्टिको सुन्दरता, यसलाई बनाउने प्रभुको महानता,
+            <br/>
+            धनी र गरीब दुवै मिलेर भन्न सक्छन् प्रभु धन्यवाद ।
+            <br/>
+            हेरन हेर सृष्टिको सुन्दरता । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. खेतका आलीहरू, अन्न र बालीहरू, बादल, वृष्टि र बतासहरू (२)
+            <br/>
+            चरा चुरुङ्गी उड्दै माथि आकाश छुँदा (२) स्वर्ग नै पुगिदिन्छ मन मेरो । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. अनौठा बातहरू, जीव जीवातहरू, उज्याला दिन अनि रातहरू (२)
+            <br/>
+            असंख्य जातिहरू, विभिन्न रीतहरू (२) उदेकले भरिन्छ यो मन मेरो । 
+            <br/>
+             गरन गर ईश्वरको प्रशंसा, सम्पूर्ण हृदयको उपासना,
+            <br/>
+            मान्छे मान्छेको सबै भिन्नता मेटियो हेर उनको आँगनमा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

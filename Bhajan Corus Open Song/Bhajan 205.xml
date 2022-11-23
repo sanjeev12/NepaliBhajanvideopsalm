@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan205 Samjhideu Bujhideu Hridayma</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः सम्झिदेऊ, बुझिदेऊ, हृदयमा राखिदेऊ बिन्ती हाम्रो
+            <br/>
+            प्रभुको निम्तो छ, तपाईं दाजु, दिदी, बहिनीलाई, प्रत्येक जवानलाई ।
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+            १. ख्रीष्ट आए यस संसारमा उठाउन पापको भार
+            <br/>
+            सही दुःख, बहाई रक्त गराउन मृत्यु पार, गर्नलाई परम उद्धार (२)
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+            २. जवानीपनमा याद गरी, सम्झ सृजनहारलाई
+            <br/>
+            पापमा डुबी, संसारमा भुली बस्छौ किन भाइ, फर्क येशू थाई ।
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+            ३. खोल तिम्रो हृदयको ढोका, खोल न प्यारो भाइ
+            <br/>
+            प्रभु चाहन्छन् तिम्रो आत्मा, हृदय, शरीरलाई, आउन देऊ प्रभुलाई ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

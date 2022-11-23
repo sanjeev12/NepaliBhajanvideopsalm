@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan54 Suni Leu Mero Bhai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>कोः सुनिलेऊ मेरा भाइ हो, येशूजी मेरा दुनियाँमा आए । </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. दुनियाँमा आए, मुक्ति लिई आए (२)
+            <br/>
+            मानिसलाई आई बचाए, येशूजी मेरा दुनियाँमा आए । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. स्वर्गीय पिताका एकमात्र पुत्र (२)
+            <br/>
+            मानिसका पुत्र भनिए, येशूजी मेरा दुनियाँमा आए । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. अन्धालाई आँखा, गुँगालाई बोली (२)
+            <br/>
+            बहिरालाई शब्द सुनाए, येशूजी दुनियाँमा आए । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. कोढी अर्धाङ्गी निको गराए (२)
+            <br/>
+            मुर्दालाई बौराईउठाए, येशूजी मेरा दुनियाँमा आए ।
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+            ५. हामी सब पापमा डुबिरहे थियौं (२)
+            <br/>
+            अद्भूत प्रेम देखाए, येशूजी मेरा दुनियाँमा आए । 
+         </lines>
+      </verse>
+      <verse name="v6">
+         <lines>
+             ६. दुनियाँको कारण क्रूसैमा चढी (२)
+            <br/>
+            पवित्र रगत बगाए, येशूजी मेरा दुनियाँमा आए । 
+         </lines>
+      </verse>
+      <verse name="v7">
+         <lines>
+             ७. ख्रीष्ट मरेपछि चिहानमा राखिए (२)
+            <br/>
+            र तेस्रो दिनमा बौरी उठे येशूजी दुनियाँमा आए ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

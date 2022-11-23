@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan554 Muktidata Khrist Yeshu Jiudai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः मुक्तिदाता ख्रीष्ट येशू जिउँदै हुनुहुन्छ
+            <br/>
+            फेरि फर्की संसारमा आउँदै हुनुहुन्छ (२)
+            <br/>
+            उहाँ नै हुनुहुन्छ संसारका सर्वनेता (२) हो हा हा हा हो,
+            <br/>
+            हो हा हा हा हो (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. सत्य बाटोे देखाउने, दुष्ट बाटो हटाउने,
+            <br/>
+            हाम्रो लागि क्रूसैमा रगत बगाउने (२)
+            <br/>
+            हो हा हा हा हो, हो हा हा हा हो (२) उहाँ नै हुनुहुन्छ पापीहरूका मुक्तिदाता (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. पूर्व, पश्चिम, उत्तर, दक्षिण चेतना जगाइदेऊ,
+            <br/>
+            गाउँघर, पाखाहरूमा सन्देश पुर्याइदेऊ (२)
+            <br/>
+            हो हा हा हा हो, हो हा हा हा हो (२) 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. बाटो बिराई हिँड्नेलाई बाटो देखाइदेऊ
+            <br/>
+            अन्धकारमा सुतेकालाई ब्यूँझाई उठाइदेऊ
+            <br/>
+            हो हा हा हा हो, हो हा हा हा हो (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

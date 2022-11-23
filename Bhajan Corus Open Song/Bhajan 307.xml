@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan307 Yeshu Biswas Garchu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. येशू, विश्वास गर्छु खालि तपाईंमा
+            <br/>
+            दोषी असहाय म तपाईं त्राणकर्ता
+            <br/>
+            पृथ्वी स्वर्गमा छैन कोही तपाईंजस्तो
+            <br/>
+            मजस्तो पापीको लागि मर्नुभो । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. येशू विश्वास गर्छु नाममा सत अपार
+            <br/>
+            नाम दिएका दूतले  येशू तारणहार 
+            <br/>
+            नाम जो लेखिएको थियो लाजको क्रूसमाथि
+            <br/>
+            पापी आऊ त्यस नाममा दृढ विश्वास राखी । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. येशू विश्वास गर्छु तपाईंलाई सम्झी
+            <br/>
+            प्रेम र दयापूर्ण घुम्नुभो पृथ्वी
+            <br/>
+            रोगी, दीन दरिद्र पापी घिनलाग्दा
+            <br/>
+            सबले निगाह पायौं मुक्तिदाताको । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. येशू विश्वास गर्छु वाणी तपाईंकै
+            <br/>
+             म हटाउन्नँ कहिल्यै आउँछ जोसुकै 
+            <br/>
+            रगत छ अमूल्य, सत्य छ करार
+            <br/>
+            उद्धारको हुन् आधार येशू तारणहार ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

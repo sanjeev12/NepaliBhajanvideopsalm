@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus149 Bijaya Cha Mero Khristma</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            विजय छ मेरो ख्रीष्टमा, क्षमा कारण उनी टाँगिए
+            <br/>
+            पूर्णता छ मेरो जीवनमा छुटकारा उनैको जीवनले 
+            <br/>
+             उनैसँग राज्य गर्दैछु, सबै शैतानको शक्तिलाई जित्दै
+            <br/>
+            प्रभु र राजा ख्रीष्टसँग जिउँदै ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan293 Khrist Hun Jiwanka</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः ख्रीष्ट हुन् जीवनका एक मात्र असल गोठाला,
+            <br/>
+            सहायक बन्छन् उनी सदा दुःख सुखको बेला । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. क्लेश, सङ्कटले घेर्छ तिमीलाई तर ख्रीष्ट तिमै्र नजिक हुन्छन्
+            <br/>
+            आँधी तुफान हटाउने प्रभु तिमीसाथ यात्रा गर्दै छन् । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. तर्दै गर्दा भवसागरलाई आँधी आउँछ, विश्वास हल्लाउँछ
+            <br/>
+            डुब्न लाग्दा पुकार, ख्रीष्टलाई, निश्चय तिमीलाई बचाउँछन् । 
+            <br/>
+             
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+            ३. सतावट, बाधा ल्याई शैतानले हल्लाउँछ खुब जीवन जहाजलाई
+            <br/>
+            साथमा ख्रीष्ट छन्, नडराऊ तिमी, सम्हाल्छन् उनले तिमीलाई । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. निराशा आउँछन् अनेक जीवनमा तर हरेश नखाऊ प्रभु भन्छन्
+            <br/>
+            विजयको इनाम जीवनको मुकुट प्रभुले निश्चय दिनेछन् । 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. येशू हाम्रा शक्तिशाली गढ, सुरक्षित उनमा हामी हुन्छौं
+            <br/>
+            शैतानका हमला विफल हुनेछन्, जयवन्त हामी बन्नेछौं ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

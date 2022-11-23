@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan161 Sara Sansarko Manis Ho</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. सारा संसारको मानिस हो, प्रभुको जयजयकार मनाओ
+            <br/>
+            गर खुसीसाथ सेवा उनको उनकहाँ आई भजन गाओ । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. परमेश्वर हाम्रा प्रभु हुन् हामीलाई सृजे भन्ने जान्
+            <br/>
+            हामी सबै उनका हौं प्रजा र उनको खर्कका भेडा । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. द्वारभित्र धन्यवादसाथ आओ चोकभित्र आई खुसी होओ
+            <br/>
+            ईश्वरलाई धन्यवाद चढाओ नाम उनको भन धन्यको । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. कारण प्रभु हुन्छन् भला सधैँभरि उनको कृपा
+            <br/>
+            रहन्छ उनको सत्यता र पुस्तौँसम्म स्थिर रहला ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan95 Hijoko Din Bitigayo</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः हिजोको दिन बितिगयो भोलि कहिले नआउला
+            <br/>
+            आजको दिन जो हातमा छ, गर्छु प्रभुको प्रशंसा । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. अनुग्रह येशूको नदीझैँ बगिरहेको (२)
+            <br/>
+            मेरो निम्ति प्रशस्त अनन्तसम्म पुग्नेछ । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. प्रेमको धारा येशूको सित्थैमा झरिरहेको (२)
+            <br/>
+            हर दिन, हर रात थाहा गर्छु मुटुभरी प्रेम चढाउँछु । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. कोमल कृपा हजुरको झर्नासरी बर्सिएको (२)
+            <br/>
+            बुझी पूर्ण हृदयको तहदेखि प्यारो गर्छु ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

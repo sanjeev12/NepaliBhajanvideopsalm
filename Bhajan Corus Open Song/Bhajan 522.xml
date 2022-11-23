@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan522 Pahadma Fulne Ful Lataharu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. पहाडमा फुल्ने फूल लताहरू कति राम्रा छन्
+            <br/>
+            पहाडबाट खस्ने हिम नदीहरू कति चोखा छन्
+            <br/>
+            पहाडलाई सृष्टि गर्ने प्रभु अझ कति महान् छन् (२) 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः म महान् प्रभुको सृजना, म महान् प्रभुको विपना
+            <br/>
+            म सधैँ गर्र्छु महान् प्रभुको, महान् प्रभुको महिमा । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. पृथ्वीमा हिँड्ने पशु प्राणीहरू कति अचम्मका छन्
+            <br/>
+            पानीमा बाँच्ने सबै प्राणीहरू कति आकर्षक छन्
+            <br/>
+            प्रकृतिलाई सृष्टि गर्ने प्रभु कति अद्वितीय छन् (२) 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. प्रभुमा सुम्पिएका जीवनहरू कति असाधारण छन्
+            <br/>
+            प्रभुलाई मात्र पुज्ने जीवनहरू कति सन्तुष्टिमा छन्
+            <br/>
+            हाम्रा परमेश्वर पिता, पुत्र, आत्मा कति अतुलनीय छन् (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

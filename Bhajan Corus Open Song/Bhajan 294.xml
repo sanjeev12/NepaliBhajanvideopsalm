@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan294 Din Sitai Diyo</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः दिन सित्तै दिइयो हजुर कलवरी डाँडामा रगतै बहाएर
+            <br/>
+            उदासै लाग्ने डाँडैमा बसेर भन्न अब छोडिदेऊ हजुर । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. कति हामीले देवी देवता संसारैमा पुज्दथ्यौं
+            <br/>
+            आखिरमा दुःख पाई संसारैमा मर्यौं,
+            <br/>
+            हामीले सधैँ संसारको भर पर्नेछैनौं
+            <br/>
+            संसारको थोकले सधैँ शान्ति पाउनेछैनौं । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. हाम्रो जीवन अघि सारी प्रभुमा बिसाउँछौं
+            <br/>
+            गरूङ्गो भारी क्रूसको छेउमा अघि सारी ल्याउँछौं
+            <br/>
+            यही प्रभु क्रूसमा मेरो उपहार लिई मृत्युसम्मै आज्ञाकारी बनेर ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

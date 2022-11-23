@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan654 Jaba Ma Prabhuko</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः जब म प्रभुको भएर जिउन थालेँ,
+            <br/>
+            मैले निराशामा शान्ति पाएँ । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. जीवनका धेरै यात्राहरू आफ्नै इच्छामा हिँडिरहेँ (२)
+            <br/>
+            मैले हार सम्झेँ, जीवनलाई, जीवनलाई ।
+            <br/>
+            व्यर्थ थियो यो जीवन मेरो, प्रभु तिमीमा अर्थ पाएँ (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. जीवनका बाँकी यात्राहरू प्रभुको इच्छामा जिउन पाएँ (२)
+            <br/>
+            मैले जीत सम्झेँ जीवनलाई, जीवनलाई
+            <br/>
+            लिनुहोस् प्रभु जीवन मेरो, प्रभु तिमी नै सहारा मेरो (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

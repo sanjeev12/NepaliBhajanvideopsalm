@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus273 Sikaunos Prabhu Tapaisath</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            सिकाउनोस् प्रभु, तपाईंसाथ हिँड्न
+            <br/>
+            सिकाउनोस् आशा, प्रभु तपाईंमा गर्न सिकाउनोस्
+            <br/>
+            तपाईंको स्पर्शको आनन्दमा तपाईंलाई प्रेम गर्ने इच्छा
+            <br/>
+            प्रभु दिनदिन ममा बढोस् । सिकाउनोस्...
+         </lines>
+      </verse>
+   </lyrics>
+</song>

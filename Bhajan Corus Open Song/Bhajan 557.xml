@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan557 Lau Uthau Yuwa Ho</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः लौ उठौं, यूवा हो, उठौं, प्रकाशमान भई उठौं
+            <br/>
+            अँध्यारोमा हिँड्नेलाई जीवनको बाटोमा डोर्याऊँ
+            <br/>
+            लौ उठौं, युवा हो, उठौं, प्रकाशमान भई उठौं 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. काटिएको चङ्गाझैँ लक्ष्यविहीन उड्नेलाई
+            <br/>
+            भविष्य बन्धक राखी कुलतमा रम्नेलाई २
+            <br/>
+            लौ उठौं, युवा हो, उठौं, जागृतिको ज्वाला लिई
+            <br/>
+            जीवनको अर्थ के हो, स्वादिलो नुन बनी बुझाऔं । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. येशू हुन् हाम्रो उचाइ, येशू नै गन्तव्य पनि
+            <br/>
+            उनी नै हाम्रो वर्तमान, भविष्य पनि उनै २
+            <br/>
+            लौ उठौं, युवा हो, उठौं, सगरमाथा भई उठौं
+            <br/>
+            येशूलाई महिमा दिन लौ हामी एक भई जुटौं ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

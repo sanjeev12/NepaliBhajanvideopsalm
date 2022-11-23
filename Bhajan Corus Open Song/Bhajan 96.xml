@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan96 Maile Char Disama Herye</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः मैले चार दिशामा हेरें, आकाश धरतीमा हेरें
+            <br/>
+            तिमीजस्तै मुक्तिदाता, मैले कतै (पाइनँ) (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. फुकाली बन्धन सारा आफ्नो रगतले धोएर (२)
+            <br/>
+            सित्थैमा कोसेली अनन्त जीवनको तिमी मलाई दिई जानुभो ।
+            <br/>
+            हाम्रो पापको लागि हे साथी, बलि भयो ईश्वरको पुत्र
+            <br/>
+            तिमी भन्छौ बलिदान यस्तो मैले कतै (देखिनँ) (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. अन्धकारभित्र बसेर उजेली थाहा के गर्ने ? (२)
+            <br/>
+            तिमीलाई ज्योतिको रहस्य खोलेर दुनियाँको बत्ती बनाउँछन्
+            <br/>
+            अविश्वासमा होइन हे भाइ, अन्तर छ जीवन मृत्युको
+            <br/>
+            त्यागे उसलाई पराया सम्झी अरू कोही (छैन नै) (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

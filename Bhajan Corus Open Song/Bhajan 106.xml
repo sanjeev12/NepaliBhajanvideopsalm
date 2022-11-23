@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan106 Yeshu Hai Khristko Krusaiko</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 v5 v6 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. येशू है ख्रीष्टको क्रूसैको मरण (२)
+            <br/>
+            हृदय ता लैलै छेड्ने गत्
+            <br/>
+            ए दिदै हृदय ता लैलै छेड्ने गत् । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. हेर न दिदै सुन न दिदै (२)
+            <br/>
+            रगतको लैलै धारै–धार । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. मुटु ता मेरो रहेन दिदै (२)
+            <br/>
+            भइगयो लैलै चुरै–चूर । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. गई बस्छु म ता क्रूसैको मुनि (२)
+            <br/>
+            शिरैमा लैलै थाप्छु धार । 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. ख्रीष्टैको मरण, पापैको हरण (२)
+            <br/>
+            छाँद्छु म लैलै ख्रीष्टको पाउ । 
+         </lines>
+      </verse>
+      <verse name="v6">
+         <lines>
+             ६. पिता र पुत्र, पवित्र आत्मा (२)
+            <br/>
+            महिमित लैलै महिमित ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan491 Gaau Na Sabaile Prabhuko</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः गाऊ न सबैले प्रभुको स्तुति मिलेर सबै सृष्ट (२) हल्लेलूयाह
+            <br/>
+            मिलेर सबै सृष्ट, लौ भन सबले जय, हल्लेलूयाह, जी उठे येशू ख्रीष्ट । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. मृत्युको बन्धन तोडेर उहाँले कबरलाई छोड्नुभो (२)
+            <br/>
+            जयवन्त प्रभु जो आज हाम्रो त्राणकर्ता हुनुभो, हल्लेलूयाह, त्राणकर्ता हुनुभो । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. मृत्युको भयले राज्य गर्नेछैन, येशू मसीह मित्र (२)
+            <br/>
+            हुनुहुन्छ हाम्रो तारणहार, सुन न हे मित्र, हल्लेलूयाह, सुन न हुनुभो ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

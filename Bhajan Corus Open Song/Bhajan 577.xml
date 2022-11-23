@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan577 Suna Hai Daju</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः सुन है दाजु, सुन है बहिनी कलवरीको कथालाई
+            <br/>
+            सुनेर, बुझेर सबैले मनमा गुनिराख है, (सुनिराख है, बुझिराख है) २ 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. रगत है रगत, चोट है चोट, येशूले प्राण दिए (२)
+            <br/>
+            तिम्रो र मेरो पापको निम्ति क्रूसमा बलि भए (२)
+            <br/>
+            सुनिराख है, बुझिराख है (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. मृत्युको बन्धनलाई तोडेका छन् ख्रीष्ट येशूले (२)
+            <br/>
+            सित्तैमा दिएको मुक्तिलाई ग्रहण गरिराख है (२)
+            <br/>
+            सुनिराख है, बुझिराख है (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

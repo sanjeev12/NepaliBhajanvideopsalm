@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan659 Tadha Najau Prabhuma</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः टाढा नजाऊ प्रभुमा आऊ दुःखी नबन सधैँ रमाऊ
+            <br/>
+            तन होइन आत्मा बचाउ मन भरिका यी भ्रम हटाऊ (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. माटोको तन यो माटोमै मिल्छ यहाँ रोपेको आत्मा स्वर्गमा पुग्छ (२)
+            <br/>
+            भाँचिएको विश्वासलाई जोडी हेर जिउनलाई लायक हुन्छ (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. उकाली ओराली यात्रामा हुन्छ, चढ्दै जाऔँ उकालो कलवरी पुग्छ (२)
+            <br/>
+            हराएको जीवनलाई खोजी हेर अनन्त हात लाग्छ (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

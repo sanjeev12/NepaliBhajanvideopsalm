@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan574 Hey Yuwa Yo Deshma</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः हे युवा, यो देशमा तिम्रै खाँचो छ, येशूको सन्देशले शान्ति ल्याउनुछ
+            <br/>
+            (अन्यौलपूर्ण जगमा गति दिनुछ,
+            <br/>
+            उदास मुहारभरि खुशी ल्याउनुछ) २ 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. (निराश छन् है नेपालीहरू, सोचिरहेछन् अब के गरूँ ?)२
+            <br/>
+            (अब हामी शालोमको झण्डा फर्फराऔं, नेपाली ब्युँझाउन अब जुर्मुराऔं)२ 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. (नाशवान् यो देश बचाउनुछ, अँध्यारो मनमा दियालो बाल्नुछ)२
+            <br/>
+            अब हामी क्रूसको झण्डा फर्फराऔं, सूर्यझैं उदाई नयाँ बिहानी ल्याऔं ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

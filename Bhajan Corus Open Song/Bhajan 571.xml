@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan571 Bilaijane Baafjhai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः बिलाइजाने बाफझैँ (यो जिन्दगी यस्तै रैछ) २
+            <br/>
+            यसैले म गाउँछु, म रमाउँछु, म नाच्छु (हाम्रो प्रभुको उपस्थितिमा) २ 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. चिन्तामा नै किन डुबिरहने, फिक्री नै किन गर्ने ? (२)
+            <br/>
+            आखिर सबै छोडिजानुछ (२) ख्रीष्टको साथमा, ख्रीष्टको घरमा ।
+            <br/>
+            यसैले म गाउँछु, म रमाउँछु, म नाच्छु, हाम्रो प्रभुको उपस्थितिमा (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. लानु नै के नै सक्छौ र यो संसारबाट हामीले ? (२)
+            <br/>
+            रित्तै आयौं, रित्तै जानुछ ख्रीष्टको साथमा, ख्रीष्टको घरमा ।
+            <br/>
+            यसैले म गाउँछु, म रमाउँछु, म नाच्छु, हाम्रो प्रभुको उपस्थितिमा (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus78 Rajkiya Poshak Layi</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            (राजकीय पोशाक ल्याई, मुकुट स्तुतिको चढ़ाई
+            <br/>
+            प्रभु येशूलाई दिऔँ शक्ति र बल) २ 
+            <br/>
+             राजाहरूका राजा, परमप्रभु युद्धमा बलवान्, शान्तिका राजकुमार ।
+            <br/>
+            महान् ईश्वर, राजा सदाका ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bal Chorus6 Sadhai Aanand Gara</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. सधैँ आनन्द गर यो प्रभुको इच्छा हो (३)
+            <br/>
+            ख्रीष्ट येशूमा तिम्रो लागि । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. सब थोकमा धन्य मान, यो प्रभुको इच्छा हो (३)
+            <br/>
+            ख्रीष्ट येशूमा तिम्रो लागि 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. निरन्तर प्रार्थना गर, यो प्रभुको इच्छा हो (३)
+            <br/>
+            ख्रीष्ट येशूमा तिम्रो लागि ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

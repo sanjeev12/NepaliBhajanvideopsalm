@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan449 Yeshuko  Ma Hu Patho</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. येशूको म हुँ पाठो हृदय खुसी छ मेरो
+            <br/>
+            प्रेम येशूले मलाई गर्छन् राम्रो वरदान मलाई दिन्छन्
+            <br/>
+            पालन पोषण गर्दछन् नाउँबाट बोलाउँदछन् । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. मेरो दैनिक जीवनमा भोक र तिर्खा जान्दिनँ
+            <br/>
+            हूल भेडाको उनको जहाँ, राम्रो हरियो चरन त्यहाँ
+            <br/>
+            लाग्छ मलाई प्यास जहिले, झर्ना देखाउँछन् उनले । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. जीवनभर आनन्दित छु, आशिषित यस झुण्डमा छु
+            <br/>
+            पाउँछु गोठाला चराउने, मृत्युपछि जीवन दिने
+            <br/>
+            मलाई स्वर्गमा पुर्याउँछन्, भाग्यमानी हुन्छु म ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

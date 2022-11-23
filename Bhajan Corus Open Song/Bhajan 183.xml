@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan183 Yas Lok Jaba Yeshu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. यस लोक जब येशू छोड्नुभो प्रभु जो शिर हो मण्डलीको
+            <br/>
+            तब दिए चेलालाई आज्ञा यस रीतले मान्न सर्वदा । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. मलाई दिइयो यस संसार र स्वर्गमा सब अधिकार
+            <br/>
+            यसकारण सबै देशमा जाऊ सब जातिलाई चेला तुल्याऊ । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. नाउँ पिता, पुत्र, आत्माको मा गर तिनलाई बप्तिस्मा
+            <br/>
+            मैले सब दिएको आज्ञा तिनैलाई मान्नलाई सिकाऊ । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. रहन्छु सब दिन साथ तिम्रो अँ अन्तसम्म जगतको
+            <br/>
+            हे प्रभु आफ्नो कुराझैँ देऊ आशिष् यस रीत मान्नेलाई ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

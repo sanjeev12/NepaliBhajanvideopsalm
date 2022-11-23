@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan701 Mero Lagi Yeshu Timile</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः मेरो लागि येशू तिमीले कति पिडा सह्यौ मानिसले थुके
+            <br/>
+            तिमीलाई कोर्रा लगाए तिमीलाई मेरो नै निम्ति प्रभु तिमीले,
+            <br/>
+            मलाई बचाउन प्रभु तिमीले (आफैलाई क्रूसमा टाँगिदियौ) २
+            <br/>
+            मेरो निम्ति... मेरो निम्ति... मेरो निम्ति । २ 
+            <br/>
+             सिकाउ येशू मलाई तिमी जस्तै हुन क्रूसको
+            <br/>
+            त्यो पिडा सहेर पनि मानिसलाई क्षमा दिन
+            <br/>
+            कसरी तिमीले सक्यौ मेरो लागि यो सबै गर्न
+            <br/>
+            कोखबाट बगेको रगतमा मलाई तिमीले धोयौ
+            <br/>
+            भक्कानो फुटेर आउँछ मनमा, मन पग्लेर भरिन्छ गहमा
+            <br/>
+            जब डुब्छु तिम्रो मायामा, प्रभु येशू तिम्रो मायामा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

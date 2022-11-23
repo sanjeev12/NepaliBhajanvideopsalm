@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan709 Herana Hera Badalmathi</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः हेरन, हेर बादलमाथि ख्रीष्ट आउने बेला भो
+            <br/>
+            सन्तगण तुरही हातमा उठाई फुक्नलाई तयार भो (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. सन्तगण बराँत दुलाहा येशू लिएर आउनेछन्
+            <br/>
+            सुसज्जित दुलही आत्माले भरपूर येशूसाथ जानेछन्
+            <br/>
+            नामधारी इसाई लापरवाहीसित पापमा खेल्दछन्
+            <br/>
+            ख्रीष्ट फेरि आउँदा सतावट बीचमा ती सबै छोडिनेछन् । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. यसकारण ख्रीष्टीय दाजु भाइ बहिनी, पाप परित्याग गर
+            <br/>
+            मूर्तिलाई फाली मनलाई माझी बेतेलमा वास गर
+            <br/>
+            तब पो मित्र, हुनेछौ विजयी, ख्रीष्ट केन्द्रित भएर,
+            <br/>
+            सिद्ध मिलनको गीत गाइरहनेछौ, महिमित भएर ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

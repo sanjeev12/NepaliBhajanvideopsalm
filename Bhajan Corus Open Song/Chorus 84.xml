@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus84 Aau Hami Utsav Manau</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            आऊ, हामी उत्सव मनाऔँ,
+            <br/>
+            उत्सव मनाऔँ प्रेमदानको लागि
+            <br/>
+            ईश्वर पुत्रले प्रेम गरी जीवन दिए, 
+            <br/>
+             स्तुति चढ़ाउँदछौँ कसैले नदिने आनन्द दिनुभो,
+            <br/>
+            भेटी लिएर आउँदछौँ, उत्सवको स्तुतिमा,
+            <br/>
+            (आऊ हामी उत्सव मनाऔँ) २, (उत्सव मनाउँदै गाऔँ) २ राजालाई ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

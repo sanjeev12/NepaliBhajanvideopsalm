@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan201 Muktidatale Bolaudai Chan</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः मुक्तिदाताले बोलाउँदै छन् (२) प्रेमैले बोलाउँदैछन्
+            <br/>
+            तिम्रो पाप धुनलाई । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. प्रभु छन् उभिएका हृदयद्वारमा (२)
+            <br/>
+            वचन सुनी खोल न हृदयद्वार खोल न (२) हृदयद्वार खोल न । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. किन अबेर गर्छौ दाजुभाइ हो (२)
+            <br/>
+            दिदी बहिनी साथी हौ नयन खोल न (२) हृदयद्वार खोल न । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. शान्तिदाताले बोलाउँदै छन् (२)
+            <br/>
+            प्रेमले बोलाउँदै छन् शान्ति दिनलाई (२) शान्ति दिनलाई ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

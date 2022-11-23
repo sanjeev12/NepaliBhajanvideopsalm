@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan460 Aau Sabai Geet Gaau</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. आऊ सबै गीत गाऔं है, हल्लेलूयाह आमेन
+            <br/>
+            होस् बढाइ येशूकै, हल्लेलूयाह आमेन
+            <br/>
+            स्वर र मन उचाली सिंहासनको अघि
+            <br/>
+            मन पर्दो छ स्तुति, हल्लेलूयाह आमेन । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. मन उँभो उचाल्दै, हल्लेलूयाह आमेन
+            <br/>
+            खुब आकाश गर्जाउँदै, हल्लेलूयाह आमेन
+            <br/>
+            ख्रीष्ट हाम्रा मित्र हुन, हामीमा उत्रन्छन्
+            <br/>
+            प्रेम उनको टुङ्दैन, हल्लेलूयाह आमेन 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. गुण गाऔं प्रभुको, हल्लेलूयाह आमेन
+            <br/>
+            शक्ति भर जीवनको हल्लेलूयाह आमेन
+            <br/>
+            स्वर्गमा पुगौंला, उनैलाई भेटौंला,
+            <br/>
+            सधैँ नै गीत गाऔंला, हल्लेलूयाह आमेन
+         </lines>
+      </verse>
+   </lyrics>
+</song>

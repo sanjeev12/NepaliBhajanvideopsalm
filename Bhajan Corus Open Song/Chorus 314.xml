@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus314 Dhanya Hos Prabhuko Naau</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            धन्य होस् प्रभुको नाउँ (३)
+            <br/>
+            सर्वोच्च धन्य होस् प्रभुको नाउँ (३)
+            <br/>
+            सर्वोच्च तपाईंको नाउँ बलियो धरहरा,
+            <br/>
+            तपाईंको शरण पर्छन् र वास गर्छन्
+            <br/>
+            येशू हुन् प्रभुको नाउँ, पवित्र होस् येशूको नाउँ (३)
+            <br/>
+            सर्वोच्च...
+         </lines>
+      </verse>
+   </lyrics>
+</song>

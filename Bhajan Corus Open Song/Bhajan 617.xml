@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan617 Haar Mero</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः हार मेरो स्वीकारेर तिमीलाई अर्पन्छु
+            <br/>
+            लेऊ प्रभु जीवन मेरो तिमीलाई सुम्पन्छु (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. आफ्नो जीवन दिई हेर्दा कष्टहरू भार भए
+            <br/>
+            चारैतिर अँध्यारो ती बाटोहरू भए (२)
+            <br/>
+            सुन्छु तिम्रो छेउ हुँदा शान्तिको वास छ
+            <br/>
+            अशान्तिले थिच्यो प्रभु देऊ वास तिम्रो छेउ । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. जुनै पाइला अघि सार्छु उति बिज्ने काँडाहरू
+            <br/>
+            चारैतिर अप्ठयारो ती बाटोहरू भए (२)
+            <br/>
+            सुन्छु तिम्रो विजय गाथा अपेक्षा गरौन
+            <br/>
+            मनको पिरले थित्यो प्रभु अङ्गालोमा लेउ मलाई ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

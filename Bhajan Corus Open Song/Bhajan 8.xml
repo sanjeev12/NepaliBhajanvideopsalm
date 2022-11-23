@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan8 Mahan Ishwor Bicharchu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. महान् ईश्वर विचार्छु काम तपाईंको, अचम्मको जो सृष्टि गर्नुभो
+            <br/>
+            हेर्छु तारा, सुन्छु गर्जन् डरलाग्दो, प्रकट सामर्थ संसारमा तपाईंंको । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines> कोः प्रशंसा होइरहोस् ईश्वरको, कति महान्, कति महान् (२) </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. पहाड पर्वत, जङ्गल म जब घुम्छु, पंक्षीहरू म सुन्छु गाएको
+            <br/>
+            सुन्दर पहाडदेखि म तल हेर्छु, कलकल आवाज खोलाको सुन्दछु । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. जब पिताले एकलौटे पुत्रलाई पठाए जगमा पाप उठाउनलाई
+            <br/>
+            मेरो बद्ली क्रूसैमा उनी चढी, उद्धार मेरो गरे रगत बगाई । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. जयध्वनीसाथ येशू संसारमा आउँछन्, असीम आनन्दसाथ लैजान्छन् वहाँ
+            <br/>
+            विनम्रसाथ उनलाई वहाँ पुज्नेछु, महान् ईश्वरको गर्छु प्रशंसा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan669 Mero Premi Prabhulai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः मेरो प्रेमी प्रभुलाई आराधना चढाउँछु,
+            <br/>
+            मेरो हृदयको राजालाई धन्यवाद चढाउँछु,
+            <br/>
+            क्रूसको प्रेमको निम्ति अपार प्रेमको निम्ति (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. दास भएको थिएँ मेरै पापको यात्री भएको थिएँ,
+            <br/>
+            अनन्त दण्ड नरकको (स्वतन्त्र गरायौ मलाई प्रेमले) २
+            <br/>
+            निश्चयता दियौ मलाई महिमित स्वर्गमा पुग्ने (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. बिर्सिसकेको थिएँ आफ्नै सृष्टिकर्तालाई गुमाइरहेको थिएँ,
+            <br/>
+            दर्दनाक नरकमा आत्मालाई (बचायौ प्रभु मलाई प्रेमले) २
+            <br/>
+            यसैले महिमा दिन्छु आत्मा, प्राण, शरीरले (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

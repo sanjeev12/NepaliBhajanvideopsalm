@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan282 Dhanya Hos Muktiko</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. धन्य होस् मुक्तिको लागि रगतमा भएँ चोखो
+            <br/>
+            येशूले धोए धारामा कलवरीमा जो बह्यो । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः जयजय भन सबै मिली पापदेखि मुक्ति पाइयो
+            <br/>
+            येशूले दिन्छन् मुकुट त्यो जीवनभरि खुसीको । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. धन्य होस् यर्दनको लागि जहाँ म गाडिएको थिएँ
+            <br/>
+            प्यारो येशूसँग मरी कबरदेखि बौरिएँ । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. धन्य होस् आगोको लागि पेन्तिकोसमा जुन खस्यो
+            <br/>
+            पवित्र आत्माले मलाई प्रेम र शान्ति दिनुभो । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. धन्य होस् महिमाको राजा फेरि फर्किआउनेछन्
+            <br/>
+            अनि सबै आफ्नो मण्डली आफ्नो सँगमा लानेछन् ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

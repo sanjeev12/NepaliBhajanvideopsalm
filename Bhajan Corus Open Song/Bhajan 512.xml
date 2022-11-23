@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan512 Prabhu Ma Aauchu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. प्रभु म आउँछु, मेरो हृदय परिवर्तन्
+            <br/>
+            गर्नोस् तपाईंको त्यो अनुग्रहले,
+            <br/>
+            प्रभु जान्दछु मेरा कमजोरीहरू,
+            <br/>
+            सबै हट्नेछन् त्यो प्रेमको शक्तिले । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः अँगाल्नुहोस् तपाईंको प्रेमले घेर्नुहोस्
+            <br/>
+            नजिक ल्याएर तपाईंको छेउमा राख्नुहोस्,
+            <br/>
+            पर्खन्छु म चीलझैं माथि उड्न
+            <br/>
+            मलाई उडाउनुहोस्, तपाईंको आत्माले
+            <br/>
+            त्यो प्रेमको शक्तिमा । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. प्रभु खोल्नोस् आँखा, देख्नसकूँ प्रेमको ज्ञान
+            <br/>
+            जसै तपाईं मभित्र वास गर्नुहुन्छ,
+            <br/>
+            नयाँ गर्नोस् हृदय आफ्नो योजनाअनुसार
+            <br/>
+            हरेक दिन जिउँन त्यो प्रेमको शक्तिमा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

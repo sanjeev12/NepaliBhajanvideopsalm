@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus51 Santan Hau Hami Khristko</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            सन्तान हौँ हामी ख्रीष्टको, गर्छौं प्रशंसा उनको
+            <br/>
+            जसले गरे हाम्रो उद्धार, हटाई पापको भार 
+            <br/>
+             यो संसार बिलाइजानेछ, सृष्टि हुनेछ नयाँ संसार (२)
+            <br/>
+            ख्रीष्ट यहाँ गर्नेछन् राज अनन्त विश्वासी जनसाथ (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan210 Chaina Bharosa Yo Jindagiko</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः छैन भरोसा यो जिन्दगीको (२)
+            <br/>
+            गरौं भजन अब येशूजीको (२)
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+            १. बालक काल बित्यो खेलैमा खेली जवानी बित्यो प्रेमैमा भुली
+            <br/>
+            वृद्धकाल बित्दै छन् जमजालमा डुबी गरौं भजन अब येशूजीको ।
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+            २. जमजालमा डुबिरहन्छौ कति चेत गरी अब सुधार गती
+            <br/>
+            छैन बेला भाइ अब अति गरौं भजन अब येशूजीको ।
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+            ३. पाप र सन्ताप बढ्दछन् अति हुनेछन् नष्ट जीवन उती
+            <br/>
+            फर्काऊ मन अब येशूपट्टि गरौं भजन अब येशूजीको ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

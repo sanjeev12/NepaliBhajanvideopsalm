@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bal Chorus11 Buddhimanle Ghar Chattanma</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. बुद्धिमान्ले घर चट्टानमा बनायो (३) र पानी पर्नथाल्यो,
+            <br/>
+            पानी परेर भल आयो (३) र बुद्धिमान्को घर अडियो । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. मूर्खले घर बालुवामा बनायो (३) र पानी पर्नथाल्यो,
+            <br/>
+            पानी परेर भल आयो (३) र मूर्खको घर भत्कियो ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

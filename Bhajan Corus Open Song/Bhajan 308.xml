@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan308 Param Premi Sarbasestha</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. परम प्रेमी सर्वश्रेष्ठ, ओर्लिआउनोस् जगतमा
+            <br/>
+            दयाभन्दा दया गरी वास गर्नोस् तुच्छ हामीमा
+            <br/>
+            येशू दयापूर्ण भई निर्मल प्रेम अपार तपाईं
+            <br/>
+            हरेक नम्र मनमा आई लौ बचाउनुहोस् हामीलाई । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. सर्वशक्तिमान उद्धारक, आउनोस् सबैलाई बचाई
+            <br/>
+            फर्की जगतमा अचानक लौ, नछोड्नोस् मण्डलीलाई
+            <br/>
+            नाथ, तपाईंलाई गरौं सेवा स्वर्गदूतले गरेझैँ
+            <br/>
+            प्रार्थना, स्तुति गरौं सदा भजी ख्रीष्टको प्रेम सधैँ । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. परिवर्तन पूरा गर्नोस्, हामी निष्कलङ्क बनौं
+            <br/>
+            आफैसँग फेरि मिलाउनोस्, मुक्तिदाताको दर्शन पाऔं
+            <br/>
+            तेजैबाट तेजैतिर परिवर्तन होस् अपार
+            <br/>
+            ख्रीष्टको पाउ नपरेसम्म प्रेमसाथ गरी जयजयकार ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

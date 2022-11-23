@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan706 Dhanya Dhanya Dhanya</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः धन्य ! धन्य ! धन्य !, प्रभु मेरो राजा येशू !
+            <br/>
+            आदर, स्तुति, महिमा गर्छु, तिम्रै स्तुति गाउँछु । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. हजुरको कोमल चरणमा, मरियमझैँ झुक्छु
+            <br/>
+            सुनेर मधुर वाणीले सामर्थी म बन्छु । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. बाँचुन्जेल हजुरको मन्दिर मण्डली निर्माण गर्छु ।
+            <br/>
+            डाँडा काँडा, पखेरोमा ख्रीष्टको वचन छर्छु, तिम्रै गीत म गाउँछु ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

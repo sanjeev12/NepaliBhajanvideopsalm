@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan31 Santmaya Raat Santmaya Rat</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. शान्तमय रात, शान्तमय रात येशू ख्रीष्ट कृपानाथ
+            <br/>
+            विश्वका सर्वश्रेष्ठ तारणहार
+            <br/>
+            लिए गोठैमा सत औतार, बेथलेहेम सहरमा, बेथलेहेम सहरमा । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. शान्तमय रात, शान्तमय रात, जयजय गाऔं दूतगणसाथ,
+            <br/>
+            बालक सुन्दर जन्मेका छन्
+            <br/>
+            बालक ईश्वरका पुत्र हुन्, येशू हो उनको नाउँ (२) 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. शान्तमय रात, शान्तमय रात येशू ख्रीष्ट हर्षसाथ,
+            <br/>
+            आए स्वर्गदेखि जगतमा
+            <br/>
+            पापी मानिसको खोजीमा, स्वागत गरौं उनलाई (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan515 Sabai Jatika Parmeshwor</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. सबै जातिका परमेश्वर सारा पृथ्वी र स्वर्गको मालिक
+            <br/>
+            तपाईंको नाउँ उच्च पार्छौं तपाईंको शक्तिको बढाइ गर्छौं । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. सारा संसारले येशूलाई देख्नुपर्छ सारा मानिसले येशूलाई पुज्नुपर्छ (२)
+            <br/>
+            कारण तपाईं मात्र राजा र प्रभु एक मात्र परमेश्वर (२) 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. सारा जातिले येशूलाई चिन्नुपर्छ सारा नेपालीले येशूलाई पाउनुपर्छ (२)
+            <br/>
+            कारण तपाईं मात्र राजा र प्रभु एक मात्र परमेश्वर (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

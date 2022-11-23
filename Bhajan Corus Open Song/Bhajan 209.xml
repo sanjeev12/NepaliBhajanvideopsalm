@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan209 Man Sudh Parnalai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. मन शुद्ध पार्नलाई येशूकहाँ गयौ के ?
+            <br/>
+            ख्रीष्टको रगतले शुद्ध भयौ के ?
+            <br/>
+            पूरा भरोसा येशूमा राख्छौ के ?
+            <br/>
+            ख्रीष्टको रगतले शुद्ध भयौ के ?
+            <br/>
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+            कोः तिमी शुद्ध भयौ के ?
+            <br/>
+            त्राणकर्ता येशूको रगतले
+            <br/>
+            तिम्रो मन साँच्चै निष्कलङ्क भयो के ?
+            <br/>
+            येशूको त्यो अमोल रगतले ।
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+            २. दिनहुँ तिमी येशू साथ साथ हिँड्छौ के ?
+            <br/>
+            उनकोे रगतले शुद्ध भयौ के ?
+            <br/>
+            येशूको आनन्द तिमीले पायौ के ?
+            <br/>
+            ख्रीष्टको रगतले शुद्ध भएर ।
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+            ३. ख्रीष्ट आउँदा तिम्रो लुगा साफ होला के ?
+            <br/>
+            ख्रीष्टको रगतले साफ र उज्ज्वल
+            <br/>
+            तिमी स्वर्ग जानलाई तयार छौ के ?
+            <br/>
+            ख्रीष्टको रगतले शुद्ध भएर ।
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+            ४. पापको दाग लागेको वस्त्र फुकाइदेऊ
+            <br/>
+            ख्रीष्टको रगतले शुद्ध हुन आऊ
+            <br/>
+            पापी मन चोख्याउने धारा बग्दै छ
+            <br/>
+            ख्रीष्टको रगतले शुद्ध होइजाऊ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

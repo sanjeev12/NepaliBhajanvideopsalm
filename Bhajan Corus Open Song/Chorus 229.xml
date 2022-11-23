@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus229 Jasle Achuk Prem</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            जसले अचूक प्रेम प्रभुको चाखेका छन्
+            <br/>
+            सबैले भनून्, (आमेन्, प्रशंसा होस्) २ 
+            <br/>
+             जसले अद्भुत काम प्रभुको देखेका छन्
+            <br/>
+            सबैले भनून्, (आमेन्, प्रशंसा होस्) २ 
+            <br/>
+             जसले शैतानमाथि विजय पाएका छन्
+            <br/>
+            सबैले भनून्, (आमेन्, प्रशंसा होस्) २ 
+            <br/>
+             आमेन् प्रशंसा होस् येशूको येशूको
+            <br/>
+            आमेन् महिमा होस् येशूको
+            <br/>
+            आमेन् जयजयकार होस् येशूको ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

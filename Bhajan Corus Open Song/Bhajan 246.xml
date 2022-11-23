@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan246 Prabhuko Stuti Garau</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            को. प्रभुको स्तुति गरौं हामी सबले जयजयकार उनको तनमन धनले
+            <br/>
+            धन्यहोस् प्रभुको जो हाम्रो सृजनहार महिमा उनको बने हाम्रो तारणहार 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. अन्धकारपूर्ण दुनियाँमा भुली बस्छौं किन भाइ दोषी बनी
+            <br/>
+            सुन यो पुकार जो आज भन्दछन्, फर्की पापदेखि मकहाँ आऊ (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. खुल्ला छन् फाटक, जो कोही आउँदछन्, दाम केही लाग्दैन पस्न त्यहाँ
+            <br/>
+            जो कोही आउँछन् भनिन्छन् धन्यका, दूर हुन्छन्, पापहरू चुर्ण मनका (२) 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. ख्रीष्ट आज भन्दछन् तिमी छौ कहाँ ? भन हे मित्र हो प्रभु म यहाँ
+            <br/>
+            बोझले दबिएको पापले छु पीडित, लिएर जीवनलाई गराऊ निश्चित (२) 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. देख्दछु ढोकालाई प्रभुको क्रूसमा, बहेको त्यो रगत मेरो लागि
+            <br/>
+            शुद्ध हुन पापदेखि, आउँदै छु प्रभु म, जाँचेर हृदय धुनोस् मलाई (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan250 Aau Yeshu Lau Malai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>कोः आऊ, येशू लौ मलाई बचाऊ पापको यो भारी आँधीमा (२) </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. सांसारिक सागरको हे बलियो माझी (२)
+            <br/>
+            दुःख दर्द बुझिहिँड्ने दुनियाँको लागि ।
+            <br/>
+            प्राण दिने, ज्यान दिने परम् उपकारी (२)
+            <br/>
+            सच्चा पक्का धर्म ल्याउने अधर्म पखाली । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. उपदेश दिन्थ्यौ प्रभु दुनियाँ चहारी (२)
+            <br/>
+            धर्मीलाई धन्य भनी पापीलाई उतारी ।
+            <br/>
+            दुःखसुख साथी सम्झी हाँसूँ रोऊँ नभई (२)
+            <br/>
+            क्रूसमाथि चढ्यौ प्रभु जीवन दिन कठै । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. नगरिदेऊ ढिलो प्रभु लौ न छिटो आऊ न (२)
+            <br/>
+            दुष्कर्मको बाढी बग्यो बगे सबै जन ।
+            <br/>
+            नाउ खियाऊ पारी लैजाऊ सुन आर्तनाद (२)
+            <br/>
+            हे जिन्दगीदाता येशू राख आफ्नै साथ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

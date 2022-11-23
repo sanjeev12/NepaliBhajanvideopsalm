@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan474 Sara Shristi Ko Malik</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>ह ह ह हल्लेलूयाह (७) आमेन </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः सारा सृष्टिको मालिक तपाईंलाई, सारा सृष्टिको रक्षक तपाईंलाई
+            <br/>
+            हाम्रो हृदयसमेतले आदर प्रणाम सदैव होस् तपाईंको गुणगान,
+            <br/>
+            ह ह ह हल्लेलूयाह (७) आमेन । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             १. (सब संसार टलेर जानेछ, टल्नेछैन तपाईंको वचन
+            <br/>
+            बितेर जानेछ यो जीवन तर विश्वासी मर्दैन कहिले) २ 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             २. (नयाँ संसार र स्वर्ग हुनेछ विश्वास गर्ने सबैको निम्ति
+            <br/>
+            प्रशंसा, आदर हुनेछ त्यहाँ, हाम्रो परमप्रेमी पितालाई) २
+         </lines>
+      </verse>
+   </lyrics>
+</song>

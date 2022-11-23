@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan645 Sacho Shanti Khojneharu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः साँचो शान्ति खोज्नेहरू आँसु पिउँदै बाँचिरहेछन ्
+            <br/>
+            सुख विलास रोज्नेहरू (येशू विना मरिरहेछन्) २ 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. अस्तव्यस्त संसारलाई नियालेर हेर्दा मान्छेको मुल्य केही पनि छैन (२)
+            <br/>
+            बाटो सत्य र जीवन यहाँ (२) (येशू बाहेक अरु कोही पनि छैन) २
+            <br/>
+            साँचो ईश्वर खोज्नेहरू निराश बनी रोइरहेछन्
+            <br/>
+            सुख विलास रोज्नेहरू (येशू विना मरिरहेछन्) २ 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. संसारको घटनाले यही संकेत दिन्छ, येशूको आगमन चाँडै नै हुँदैछ (२)
+            <br/>
+            बाइबलको वचनले सत्य सत्य भन्छ (२),येशू राजा फेरि आउनुहुँदैछ (२)
+            <br/>
+            उद्धार मुक्ति खोज्नेहरू विवश बनी बाँचिरहेछन्
+            <br/>
+            सुख विलास रोज्नेहरू (येशू विना मरिरहेछन्) २
+         </lines>
+      </verse>
+   </lyrics>
+</song>

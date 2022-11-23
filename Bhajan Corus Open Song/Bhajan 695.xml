@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan695 Aghi Badha Yuwa Ho</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>कोः अघि बढ युवा हो प्रभुको मार्गमा (२) प्रभुको मार्गमा (२) </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. बढ तिमी प्रभुमा प्रार्थनाको जीवन लिएर (२)
+            <br/>
+            सफलताको शिखरमा (२) पुग्नेछौ अनन्तसम्म (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. ख्रीष्टले मात्र दिनेछ तिमीलाई छुटकारा (२)
+            <br/>
+            विश्वास गर प्रभु ख्रीष्टमा (२) पाउनेछौ अनन्त जीवन (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

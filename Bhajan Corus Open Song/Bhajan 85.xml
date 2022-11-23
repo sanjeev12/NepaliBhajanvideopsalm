@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan85 Yeshu Naau Apar Premko</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 v5 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. येशू नाउँ अपार प्रेमको सबैभन्दा श्रेष्ठ यो हो
+            <br/>
+            जसमा सबका घुँडाले टेक्नुपर्छ अवश्य । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. येशू नाउँ अमोल पे्रमको पापी जनको लागि हो
+            <br/>
+            यसमा दिएछ करार उनले गर्दछन् उद्धार । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. येशू नाउँ जो दया हो, जो बालकलाई दिइयो
+            <br/>
+            जसले भोग्यो महा दुःख हामी सबलाई दिन सुख । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. येशू नाउँ जो दिइयो मुनि सारा स्वर्गको
+            <br/>
+            पापी यसमा पत्याउँदा छोडाइन्छ नै सदा । 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. येशू नाउँ अपार प्रेमको ईश्वर मान्छे नाउँको भो
+            <br/>
+            यसमा आश्रा गर्ने हीन आउँदै छौं तपाईं अधीन ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

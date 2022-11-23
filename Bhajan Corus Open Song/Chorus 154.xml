@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus154 Prabhu Jiudo Paani</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            प्रभु जिउँदो पानी दिनुहोस् (३)
+            <br/>
+            मबाट खोला बगेर निस्कियोस्, मबाट खोला निस्कियोस् ।
+            <br/>
+            जिउँदो पानी पिउने इच्छा छ, यो पानी मलाई दिनुहोस् 
+            <br/>
+             तपाईंको शक्ति दिनहुँ चाहिन्छ,
+            <br/>
+            तपाईंको खोला बगेर निस्कियोस्, तपाईको खोला बगी निस्कियोस् 
+            <br/>
+             फसल पाकेको जस्तो देखिन्छ, हामीले बटुल्नुपर्ने हो,
+            <br/>
+            तपाईंको आत्मा हुनु आवश्यक छ, हाम्रो कचौरा भरेर पोखियोस्,
+            <br/>
+            हाम्रो कचौरा पोखियोस् ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

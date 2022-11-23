@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan299 Yeshu Mero Gothalo</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः येशू मेरो गोठालो, म उनको गुण गाउँदछु
+            <br/>
+            जसको हुँ म सानो पाठो, पछि पछ्याउँछु । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. हरियो चउरमा मलाई चराउँदछन्
+            <br/>
+            सुख चैनको पानीमा मलाई डोर्याउँदछन ्,
+            <br/>
+            उनी अघि अघि हिँड्दछन् र मेरा पाउ डोर्याउँदछन्
+            <br/>
+            धर्मका बाटामा हात समाई लिई हिँडाउँदछन् । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. मुत्युको तराईमा मलाई हिँडाउँदछन्
+            <br/>
+            शैतानको भयदेखि मलाई बचाउँदछन्
+            <br/>
+            बलवन्त र शक्तिमान बनाई जयवन्त सधैँ गराउँदछन्
+            <br/>
+            उनको शिक्षा दण्डले मलाई चेतमा ल्याउँदछन् । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. दुश्मनका सामुन्नेमा भोज तयार गर्दछन्
+            <br/>
+            जीवनको कचौरो भराई रहँदछन्
+            <br/>
+            उनी शिरमा तेल मल्दछन्, भलाइ करुणा गर्दछन्
+            <br/>
+            उनको अनन्त राज्यमा सदा बस्नेगर्छु ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

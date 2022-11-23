@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan242 Lau Daju Suna Na</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v2 v3 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            कोेः लौ दाजु सुन न लौ बहिनी सुन न येशूको वचन
+            <br/>
+            मनैमा गुन न बुझिराख हृदयमा (चिनिराख येशूलाई) २ 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             १. कलवरी डाँडामा त्यो एउटै क्रूसैमा (२)
+            <br/>
+            मुक्तिदाता येशूको त्यो शुद्ध रगतमा
+            <br/>
+            त्यो मुक्ति तिम्रै लागि हो (२) 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             २. जीवन हाम्रो छोटो छ है लामो जीवन येशूमा (२)
+            <br/>
+            बुझिराख आज नै नत्र भोलि समय छैन
+            <br/>
+            हाम्रो येशू आउनै लागेछन् (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

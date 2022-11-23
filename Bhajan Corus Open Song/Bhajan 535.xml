@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan535 Pahadi Bhaka Taraiko Taal</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः (पहाडी भाका, तराईको ताल, सबै मिली येशूको जय जय गाऔँ
+            <br/>
+            बेँसी हुँदै देवराली जाऔँ, जहीँ जाऔँ येशूको भजन गाऔँ) २
+            <br/>
+            ल (हो हो आहा हा) २ 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. उकाली हेर, झरना हेर, जहीँ जाऊ, येशूको गुण गाऔँ (२)
+            <br/>
+            वनको फूल उपवन हेर, सृष्टिकर्ताको भजन मिली गाऔँ (२)
+            <br/>
+            (ए हे हे) २ 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. तिम्रो मेरो मनमा हलचल, शान्तिका राजा येशूलाई प्रणाम् (२)
+            <br/>
+            बलिदान उनको, मोचन हाम्रो, उद्धारकर्ता येशूलाई प्रणाम्
+            <br/>
+            (ए है हे) २ 
+            <br/>
+             शान्तिका राजा येशूलाई प्रणाम्, उद्धारकर्ता येशूलाई प्रणाम् ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

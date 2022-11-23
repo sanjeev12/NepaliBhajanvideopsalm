@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan271 Parmeshwor Pita Kati Mahan</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. परमेश्वर पिता कति महान् हाम्रा मित्र विश्वासी पालनहार
+            <br/>
+            उनको शक्ति र प्रेम छन् समान् छन् दुवै अनन्त र अपार । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. ख्रीष्ट आदि र अन्त हुन् उनी जसले आत्मा पुर्याउँछन् स्वर्गमा
+            <br/>
+            आशिष् सम्झँदा गरौं स्तुति भविष्यको लागि भरोसा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan167 Andhakarma Bhuliraheka Manablai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः अन्धकारमा भुलिरहेका मानवलाई
+            <br/>
+            ज्योति देखाउने स्तुति–महिमा छ प्रभुलाई (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. निष्कलङ्क बलिदान निर्दाेष प्रभुको अमूल्य रक्त उद्धारको बाटो बन्यो
+            <br/>
+            साटोमा यसको तपाईंलाई के चढाऊँ स्तुति–महिमा छ प्रभुलाई । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. मृत्युमाथि जय प्राप्त गरी पिताको दाहिने हात बसी बिन्ती गर्ने
+            <br/>
+            साटोमा यसको तपाईंलाई के चढाऊँ स्तुति–महिमा छ प्रभुलाई । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. प्रतिफल जीवनको रक्षक तपाईं निःस्वार्थ प्रेमको सत्य ज्योति
+            <br/>
+            अनन्त, शान्ति र आशा हाम्रो स्तुति–महिमा छ प्रभुलाई ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

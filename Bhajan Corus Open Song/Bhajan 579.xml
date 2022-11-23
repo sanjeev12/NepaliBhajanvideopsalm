@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan579 Sarbashaktiman Prabhu Aunuhos</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः सर्वशक्तिमान् प्रभु आउनुहोस्, हाम्रो पापलाई धोइदिनुहोस्,
+            <br/>
+            यो हाम्रो भूमिमा शान्ति दिनुहोस्, यो हाम्रो देशलाई टिठाउनुहोस् ।
+            <br/>
+            मेचीदेखि महाकालीसम्म, हिमालदेखि तराईसम्म
+            <br/>
+            एउटै देशका सन्तहरू आउँछौं, तपाईंकै चरणमा,
+            <br/>
+            पूर्खाको पापले अन्धकार भएको यो देशको पापलाई मेटाइदिनुहोस् । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. ढुङ्गाको मनलाई पगालीदिनुहोस्, कठोर आत्मा नरम बनाउनुहोस्,
+            <br/>
+            तपाईंको वचनले जडता हटाऔं, नेपाली सारा येशूमै अटाओस ्,
+            <br/>
+            सुख चैनको पानी पिलाइ दिनुहोस्, एकताको आत्मा खन्याइ दिनुहोस् । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. पूर्व र पश्चिम, उत्तर र दक्षिण यो देशको कुना कन्दराहरूमा,
+            <br/>
+            हिमाल, पहाड, तराईहरूमा तपाईंकै महिमा गुञ्जिरहोस्,
+            <br/>
+            तपाईंको वचनको अर्थ बुझेर, सारा देशले सत्यलाई चिन्नसकोस् ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

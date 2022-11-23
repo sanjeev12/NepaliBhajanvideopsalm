@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus175 Bhakti Garu Bhakti Garu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            भक्ति गरूँ, भक्ति गरूँ सम्पूर्ण मनले, सम्पूर्ण मनले
+            <br/>
+            स्तुति गरूँ, सम्पूर्ण, सम्पूर्ण बलले, सम्पूर्ण बलले ।
+            <br/>
+            सेवा गरूँ सारा जीवनले र म हिँडू (तपाईंको अगुवाइमा) २ 
+            <br/>
+             म गर्छु उपासना तपाईंको, सारा स्तुति दिन्छु तपाईंलाई
+            <br/>
+            केवल तपाईंको भक्ति गरूँ, केवल तपाईंको नै स्तुतिको योग्य ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

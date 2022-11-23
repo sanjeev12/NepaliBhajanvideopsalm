@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan191 Jaba Pahila Bibha Bhayo</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 v5 v6 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. जब पहिला विवाह भयो आदम र हव्वाको,
+            <br/>
+            ईश्वर हाजिर हुनुभो विवाह आशीषित भो । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. आजको यो विवाहमा ईश्वर उपस्थित छन्,
+            <br/>
+            दुलहा र दुलही दुईलाई आशीर्वाद दिने छन् । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. हे परमेश्वर यो दुलही दिँदैछांै दुलहालाई,
+            <br/>
+            जसरी अघि हव्वा दिनुभो आदमलाई । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. प्रभु यी दुईको हृदय जोडी एक बनाउनु होस्,
+            <br/>
+            दुःख सुखमा प्रभु येशू कैले नछाड्नु होस् । 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. अँ, हे पवित्र आत्मा उत्रेर आउनुहोस्,
+            <br/>
+            यी दुईमा सधैँ मेल होस् प्रेमको आशिष बर्सोस् । 
+         </lines>
+      </verse>
+      <verse name="v6">
+         <lines>
+             ६. खराबीदेखि बाँच्नलाई सहायता दिनुहोस्,
+            <br/>
+            जब दुईले संसार छोड्छन् स्वर्गमा ठाउँ दिनुहोस् ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

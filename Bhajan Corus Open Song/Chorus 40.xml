@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus40 Hami Bhedalai Charauchan</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            हामी भेड़ालाई चराउँछन् खर्कमा,
+            <br/>
+            र जम्मा गर्छन् उनको अङ्गालोमा 
+            <br/>
+             बोक्छन् उनले आफ्नो काँधमा,
+            <br/>
+            र हामीलाई अगुवाइ गर्दछन् ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

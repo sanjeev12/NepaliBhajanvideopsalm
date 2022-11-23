@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan471 Hera Na Hera Na</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः हेर न, हेर न, हेर न कलवरीको त्यो डाँडालाई
+            <br/>
+            महान् प्रेम गर्नुभो येशूले, हेर न, हेर न, दाजु भाइ (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. पापीको पापलाई मेटाउन क्रूसमा मर्नुभो येशूजी (२)
+            <br/>
+            विश्वास गर न गर न क्रूसैमा टाँगिएको येशूलाई (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. आउनेछन् संसारमा येशूजी विश्वासीहरूलाई उठाउन (२)
+            <br/>
+            जानलाई तयार होऊ दाजु भाइ, आनन्दको त्यो देशैमा (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

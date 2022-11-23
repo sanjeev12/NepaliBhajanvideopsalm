@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan280 Ishworle Diyeko Ramahat</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. ईश्वरले दिएको रमाहट यस पापी संसारमा
+            <br/>
+            कि आफ्नो वचनअनुसार दया पाइनेछ
+            <br/>
+            कि प्रत्येक छिन र प्रत्येक दिन प्रशस्त दया पाइन्छ । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines> कोः हल्लेलूयाह हल्लेलूयाह हल्लेलूयाह येशू । </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. अँध्यारो भए पनि रमाउँछु सधैँ
+            <br/>
+            किनकि ईश्वरले मलाई छोड्दैनन् कहिल्यै
+            <br/>
+            यात्रामा तकलिफ भए पनि स्वर्गमा पुग्नेछु निश्चय । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. म यात्रा सिध्याएपछि स्वर्गपुरी आउनेछु
+            <br/>
+            त्यहाँ निरन्तर रमाहट येशूसँग पाउनेछु
+            <br/>
+            सबै पवित्र जनसँग प्रशंसा स्तुति गर्छु म ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

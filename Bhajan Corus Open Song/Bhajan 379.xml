@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan379 Manau Ananda Parbhuma</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. मनाऔं आनन्द प्रभुमा र आत्मिक धन गनौँ
+            <br/>
+            वचनमा जाहेर गरेका अपार भण्डार हेरौं । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः क्षमा र शक्ति, पवित्रता र स्वर्गनिवास
+            <br/>
+            मेरो लागि मसीहमा छन् आनन्दको स्तुति प्रभुलाई हवस । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. ईश्वरले पाप मेटाउनलाई सित्तेइँ दिन्छन् क्षमा
+            <br/>
+            क्षमाको साथमा मेल पनि येशूको रगतमा । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. पापको शक्ति नाश गर्नलाई प्रभुले बल दिन्छन्
+            <br/>
+            पवित्र आत्माले मनलाई पापदेखि चोख्याउँछन् । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. भरोसा गरी बालकझैँ यो आशिष् पाउनेछौं
+            <br/>
+            ईश्वरले ख्रीष्टमा दिएका दानले भरिनेछौं ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

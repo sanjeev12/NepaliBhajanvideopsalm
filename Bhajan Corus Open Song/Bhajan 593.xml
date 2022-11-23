@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan593 Sunsan Raatlai Jagaudai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः सुनसान रातलाई जगाउँदै आयौं हामी यो रातमा
+            <br/>
+            कोसेली एउटै बोकेर, आनन्दको सन्देश छ साथमा । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. ताराले आकाश छाएछ, जून पनि मुसुक्क हाँसेछ
+            <br/>
+            एकलौते पुत्र जो येशू संसारमा आउनुभएछ । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. स्वर्गको ढोका खोलेर पिताले दान दिएछन्
+            <br/>
+            एकलौते पुत्र जो येशू संसारमा आउनुभएछ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

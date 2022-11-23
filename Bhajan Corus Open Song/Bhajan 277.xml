@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan277 Yeshu Mare Mero Lagi</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. येशू मरे मेरो लागि उनको गर्छु जयजयकार
+            <br/>
+            परमधामको दुःखलाई त्यागी क्रूसमा बोके पापको भार । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः येशू मरे मेरो लागि म सुनाउँछु समाचार
+            <br/>
+            अहिले अनि स्वर्ग पुगी गाउँछु ख्रीष्टको जयजयकार । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. मैले भिरालो डाँडामा भेडाझैँ बाटो भुलें
+            <br/>
+            ख्रीष्ट भेट्टाई, मारे अङ्गालो मलाई प्रेमसाथ घर ल्याए । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. म ठेस खाई भएँ लस्त निको पारे चोट उनले
+            <br/>
+            अन्धा थिएँ त्रासले ग्रस्त येशूले उद्धार गरे । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. मृत्यु नदी पुगीकन मलाई तार्नेछन् येशू
+            <br/>
+            स्वर्गमा पसी प्रिय जन फेरि भेट्न पाउनेछु ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

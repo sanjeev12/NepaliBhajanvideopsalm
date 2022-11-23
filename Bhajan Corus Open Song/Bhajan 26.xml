@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan26 Lagdacha Malai Ramailo</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः लाग्दछ मलाई रमाइलो, त्यो उज्यालो ताराको
+            <br/>
+            बेथलेहेम गाउँको त्यो सानो गोठ, येशू जन्मेको सानो डुँड । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. अन्धकारको माझमा उज्ज्वल प्रकाश लिई आए (२)
+            <br/>
+            जगलाई उद्धार गराउन, सत्यको जग बसाल्न (२)
+            <br/>
+            निंदबाट जाग, भाइ हो, मुक्तिको पथमा चल्नलाई, 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. खुसीयाली रात मनाऊँ, यस धरतीलाई उज्ज्वल गराऊँ (२)
+            <br/>
+            स्वर्गदूतले गाउँछन् गीत, बालक ख्रीष्टको महिमा (२)
+            <br/>
+            हामी पनि गाऊँ है गीत, बालक ख्रीष्टको चरणमा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

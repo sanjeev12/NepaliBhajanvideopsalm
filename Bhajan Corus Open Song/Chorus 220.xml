@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus220 Mera Priya Sundar</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            मेरा प्रिय सुन्दर, दस हजारमा एक (२)
+            <br/>
+            उनको शिर, निक्खुर सुनको,
+            <br/>
+            उनको शरीर नीलमणिले जडेको
+            <br/>
+            उनको सुन्दर मुहार (लेबनानजस्तो) २ 
+            <br/>
+             तिम्रो बाटो हेर्छु प्रेमले व्याकुल छु (२)
+            <br/>
+            मेरो बागमा बतास चलोस्
+            <br/>
+            चारैतिर सुबासना फैलियोस् (२)
+            <br/>
+            फल चाखिदेऊ (मेरो बगैँचाको) २
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan340 Yeshulai Ma Sab Thok Dinchu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. येशूलाई म सब थोक दिन्छु, सबै थोक अर्पण गर्छु
+            <br/>
+            प्रति दिन तपाईंको साथमा प्रेम र विश्वासमा बढ्छु । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः सब थोक दिन्छु म, सब थोक दिन्छु म
+            <br/>
+            मुक्तिदाता तपाईंलाई सब थोक दिन्छु म । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. येशूलाई म सब थोक दिन्छु, दण्डवत गर्छु तपाईंलाई
+            <br/>
+            सांसारिक इच्छा म छोड्छु, तपाईं लिनुहोस् मलाई । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. येशूलाई म सब थोक दिन्छु, आफ्नै बनाउनोस् मलाई
+            <br/>
+            पवित्रात्मा हवस साक्षी ख्रीष्ट हुन् मेरो, म ख्रीष्टकै । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. येशूलाई म सब थोक दिन्छु, मेरो जीवन लिनुहोस्
+            <br/>
+            प्रेम र शक्ति ममा भर्नोस्, आशिष्ले भरपूर गर्नोस् । 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. येशूलाई म सब थोक दिन्छु, पवित्रात्मा याद गर्छु
+            <br/>
+            पूरा मुक्तिमा खुसी छु, उनको नाउँको जय गाउँछु ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

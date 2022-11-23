@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan516 Malai Tapaiko Khacho Cha</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः मलाई तपाईंको खाँचो छ, हात प्रेमको बढाउनुहोस्,
+            <br/>
+            सिंहासनबाट आउनुहोस्, नदी प्रेमको बहाउनुहोस्, हे येशू । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. तपाईंको उपस्थितिमा डोर्याउनुहोस्
+            <br/>
+            मेरो हृदय र आत्मा छुनुहोस्
+            <br/>
+            नयाँ आशा, भरोसा, नयाँ चङ्गाइ र मुक्ति दिनुहोस् । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. तपाईंको स्वतन्त्रताभित्र लानुहोस्
+            <br/>
+            मेरो हृदय र आत्मा फुकाउनुहोस्
+            <br/>
+            नयाँ आनन्द र खुसी, नयाँ उचाइ र शक्ति भर्नुहोस् ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

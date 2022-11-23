@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus262 Yahowya Yire Mero Prabandhak</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            यहवे यिरे, मेरो प्रबन्धक, प्रभुको अनुग्रह प्रशस्त छ ।
+            <br/>
+            मेरो प्रभुले खाँचो पूरा गर्छन्, उनको महिमाको धनअनुसार
+            <br/>
+            स्वर्गदूतलाई खटाउँछन्, तिमीमाथि यहवे यिरे हेर्छन्, मलाई, मलाई (२)
+            <br/>
+            यहवे यिरे हेर्छन्, मलाई ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

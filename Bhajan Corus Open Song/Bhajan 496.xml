@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan496 Prabhujiko Jayjaykar Hoerahos</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>कोः प्रभुजीको जयजयकार होइरहोस्, येशूजीको जयजयकार होइरहोस् । </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. श्रापित जगतमा औतार लिई, आए दुःख उठाई आज्ञाकारी भए (२)
+            <br/>
+            निष्कलङ्क रक्त बगाई (२) पापीलाई उद्धार गराए । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. भुलिरहेथ्यै पापी जगत्मा, बितायौं जीवन प्रति दिन पापमा (२)
+            <br/>
+            असहनीय दुःख उठाई (२) बचाउनुभो समयमा । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. मधुर स्वरले बोलाइरहेछन्, जसजसले उनको पुकार सुन्छन् (२)
+            <br/>
+            अमर जीवन पाउनेछन् (२) ईश्वरका सन्तान हुनेछन् ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

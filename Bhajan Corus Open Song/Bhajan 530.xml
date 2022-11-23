@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan530 Goth Gaiko Putra Pitako</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. गोठ गाईको, पुत्र पिताको, पाप हाम्रो, क्रूस अर्कैको
+            <br/>
+            मुक्ति हामीलाई, जीवन हामीलाई आनन्द हामीलाई, शान्ति हामीलाई । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. त्यस अँध्यारो चिसो रातमा, दूतगण आए ईश्वर साथमा
+            <br/>
+            येशू पस्रिए डुँडैमा, गाए दूतगण मीठो स्वरमा (मीठो स्वरमा) २ 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. बेथलेहेमको एकलो गाउँमा, मरियमको सानो कोखमा (२)
+            <br/>
+            आगमन ईश्वरको, हर्ष, आनन्द सबैलाई नै भो (सबैलाई नै भो) २
+         </lines>
+      </verse>
+   </lyrics>
+</song>

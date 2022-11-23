@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan335 Jiwanbhar Prem Khristlai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. जीवनभर प्रेम ख्रीष्टलाई म गर्नेछु, सुनिदेऊ प्रार्थनालाई शरण पर्छु
+            <br/>
+            जीवनभर भक्तिसाथ अधिक प्रेम म गर्छु, त्यो अधिक प्रेम ख्रीष्ट म गर्छु । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. सांसारिक मोहमा खोजें आराम, बिन्ती छ देऊ मलाई आत्मिक विश्राम
+            <br/>
+            नित्य नित भक्तिसाथ, अधिक प्रेम म गर्छु त्यो अधिक प्रेम ख्रीष्ट म गर्छु । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. शैतानले बारम्बार गरे लाचार तिमी छौ तारणहार लाउँछौ भव पार
+            <br/>
+            जयजयगानसाथ प्रभु, अधिक प्रेम म गर्छु, त्यो अधिक प्रेम ख्रीष्ट म गर्छु । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. संसार जब त्याग्दछु, ख्रीष्ट मलाई लेऊ, त्रिएक ईश्वरको म भक्त बन्नेछु
+            <br/>
+            यो मेरो दृढ प्रण हो, अधिक प्रेम म गर्छु, त्रिप्रभुलाई प्रेम म गर्छु ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan319 Gaaun Geet Prabhuko</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>कोः गाऔं गीत प्रभुको मिलीजुली छौं सब जो </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. प्रभु हाम्रो गोठाला सबलाई घटी के होला ?
+            <br/>
+            हरियो हरियो घाँसैमा सबलाई चराई लिहिँड्लान् । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. पुर्याई निर्मल नदीमा विश्राम दिन्छन् मनैमा
+            <br/>
+            आफ्नै नाउँको निम्तिमा डोर्याउँछन् ठीक बाटोमा । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. मृत्यु छायाँ तराईमा हिँड्छु जोखिम नडराई
+            <br/>
+            उनको लठ्ठी समाई शान्ति दिन्छन् हामीलाई । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. सामु जब बैरी आयो हाम्रो लागि भोज राख्यो
+            <br/>
+            हाम्रो प्याला उम्लियो शिरमा तेल लगाइदियो । 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. निश्चय प्रभुको दया जीवनभरि होइरहला
+            <br/>
+            जब स्वर्गमा पुगौंला सदासर्वदै बसौंला ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

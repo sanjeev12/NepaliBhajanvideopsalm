@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan548 Ke Hola Yo Jiwan Bhaneko</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः के होला यो जीवन भनेको, आँसु हो कि हाँसो हो यो
+            <br/>
+            धर्म कर्मको पुरानो रिवाज हो कि स्वर्गको नौलो आवाज हो २ 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. शान्ति विश्वमा हराइरहेछ, आफ्नो शत्रु मान्छे आफैं नै बनेछ
+            <br/>
+            आतङ्क, अन्यायको डढेलो सल्केछ हाम्रो निर्लज्जता यो सडकमा सल्केछ (२)
+            <br/>
+            येशूको आवाजलाई एक पल्ट सुनिहेर
+            <br/>
+            शान्ति विश्राम दिने वचन एक पल्ट बुझिहेर । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. मान्छे आफैले आफ्नो आत्मालाई कति दाम तिरी बचाउन सक्छ र ?
+            <br/>
+            पूजा र भक्ति, आफ्नै प्रयत्नले मैलो पाप हाम्रो बगाउन सक्छ र ? (२)
+            <br/>
+            येशूको कष्ट र वेदना एक पल्ट बुझिहेर
+            <br/>
+            स्वर्गमा कोरेका योजना कलवरी डाँडालाई हेर ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

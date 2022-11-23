@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan102 Stuti Hos Prabhuko Jayjaykar</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>कोः स्तुति होस्, प्रभुको जयजयकार । </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. भुल्नेछैन म त्यो दृश्य प्रभु येशूको,
+            <br/>
+            कलवरी भनिने ठाउँमा उनी टाँगिएको
+            <br/>
+            हात–पाउ र शरीर उनको चोटैचोटले पूर्ण थियो (२)
+            <br/>
+            मैले जानें ती सबै कारण मेरो अर्धम हो (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. भुल्नेछैन म त्योे वचन भनेको ख्रीष्टले
+            <br/>
+            कलवरी भनिने ठाउँमा गम्भीर प्रेमको भावले
+            <br/>
+            पुत्र तेरा अधर्म सबै पापको ऋण तिरिसकेँ (२)
+            <br/>
+            उद्धार छ तेरो लागि यहाँ कमाएँ जो मैले (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

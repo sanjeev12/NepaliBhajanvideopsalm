@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bal Chorus70 Yeshu Ramra Chan</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            येशू राम्रा छन् (३) राम्रा छन् मलाई,
+            <br/>
+            मेरो पाप लिनुभो (३) राम्रा छन् मलाई 
+            <br/>
+             मलाई प्रेम गर्छन् (३) राम्रा छन् मलाई,
+            <br/>
+            तिम्रो वास्ता गर्छन् (३) राम्रा छन् मलाई ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

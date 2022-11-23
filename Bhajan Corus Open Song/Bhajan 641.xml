@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan641 Aakhako Ek Nimeshma</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः आँखाको एक निमेषमा, तुरहीको आखिर आवाजमा
+            <br/>
+            बादलमा हामी उड्नेछौँ, येशूसँग हामी हुनेछौँ (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. ख्रीष्टमा मरेकाहरू पहिले जिइउठ्नेछन्, त्यसपछि जिउँदाहरू
+            <br/>
+            अविश्वासी र पापीहरू चाहिँ छोडिन्छन् पछुुताउँदै (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. पाँच बुद्धिमती कन्याहरूजस्तै, लिइ राखौँ फाल्तु तेल
+            <br/>
+            कुन बेला आउँछन् तिम्रा दुलहा, नसुत धेरै बेर (२) 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. ढिलाउने छैनन् तिम्रा प्रभुले भनेका छन् चाँडै आउँछु
+            <br/>
+            मृत्युसम्म नै विश्वासी होऊ, म तिमीलाई लैजान्छु (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

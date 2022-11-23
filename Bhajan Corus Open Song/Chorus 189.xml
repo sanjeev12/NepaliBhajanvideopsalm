@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus189 Tapaiko Aadar Garne Chahana</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            तपाईंको आदर गर्ने चाहना
+            <br/>
+            सम्पूर्ण हृदयको आराधना 
+            <br/>
+             ममा भएका सबले म स्तुति गर्छु
+            <br/>
+            मेरा सबै भक्ति छ तपाईंमा 
+            <br/>
+             प्रभु, अर्पण गर्छु मेरो हृदय र प्राण
+            <br/>
+            तपाईंको लागि जिउँछु 
+            <br/>
+             हरेक श्वास लिँदा जागा भएको बेला
+            <br/>
+            तपाईंले चाहे झैँ होस् ममा (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

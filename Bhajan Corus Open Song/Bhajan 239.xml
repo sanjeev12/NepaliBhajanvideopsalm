@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan239 Swagat Cha Tapailai Yeshu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>कोः स्वागत छ, तपाईंलाई येशू ख्रीष्टको नाउँमा । </lines>
+      </verse>
+      <verse name="v1">
+         <lines> १. आऊ भाइ, आऊ बहिनी येशूको छेउमा आउनलाई स्वागत </lines>
+      </verse>
+      <verse name="v2">
+         <lines> २. कलवरी दृश्य विचार गरी, हेर्दा अति क्लेस सहँदै स्वागत </lines>
+      </verse>
+      <verse name="v3">
+         <lines> ३. गलगथाको पहाडैमा बलिदान भए हाम्रो निम्ति स्वागत छ ।</lines>
+      </verse>
+   </lyrics>
+</song>

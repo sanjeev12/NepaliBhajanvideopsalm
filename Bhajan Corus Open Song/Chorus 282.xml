@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus282 Jabasamma Ma Bachnechu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            जबसम्म म बाँच्नेछु उहाँकै भजन गाउनेछु
+            <br/>
+            मेरो जीवन रहुञ्जेल सधैँ नै म नाच्नेछु ।
+            <br/>
+            गाउनेछु, गाउनेछु, नाच्नेछु, नाच्नेछु
+            <br/>
+            उहाँकै आनन्दमा प्रशंसा गर्नेछु आनन्दमा बाँच्नेछु ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

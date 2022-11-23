@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus88 Timro Ichya Pura</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            तिम्रो इच्छा पूरा होस्,
+            <br/>
+            तिम्रो हातमा मेरो जीवन छ 
+            <br/>
+             म माटो हुँ, तिमी हौ कुमाले,
+            <br/>
+            मलाई बनाउ, मलाई उठाऊ 
+            <br/>
+             आफ्नो खुशीमा म हिँडिरहेँ, तिम्रो कुरा मैले सुनिनँ
+            <br/>
+            (तर प्रभु, आज म तिम्रो क्रूसलाई उठाउने छु) २
+         </lines>
+      </verse>
+   </lyrics>
+</song>

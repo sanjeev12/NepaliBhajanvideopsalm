@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan262 Jiwandata Bidhata</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः जीवनदाता विधाता, आउँदछु तिम्रो शरणमा,
+            <br/>
+            पर्दछु येशू शरण, जीवनदाता विधाता । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. क्लेशित पापी यो अन्धकार भवमा (२) भड्किरहेछु पापी जीवनमा
+            <br/>
+            दूर तिमीदेखि भएँ, पापको राहमा कदम बढाएँ (२)
+            <br/>
+            परिणाम ठोकर खाएँ, पिता पछताउँदै शरणमा तिम्रो म आएँ 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. तिमी करुणामय पिता म अधर्म (२) दीन दोहाई मेरो प्रभु सुनिलेऊ
+            <br/>
+            रक्षा जीवनको गरिदेऊ धोई प्रभु तिम्रो रगतले (२)
+            <br/>
+            योग्य पात्र बनाइलेऊ, पिता निवेदन हृदयको मेरो सुनिदेऊ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

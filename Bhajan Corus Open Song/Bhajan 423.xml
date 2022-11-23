@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan423 Ko Ho Chimeko</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>कोः को हो छिमेकी (२) किस्सा येशूको दोहोर्याउँछु नि । </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. बाटोमा जाने बेपारीलाई चोरहरूले भेटे
+            <br/>
+            कुटिपिटी बेहोस् पारी धन सम्पत्ति लुटे,
+            <br/>
+            आफ्नै रगतमा लटपटेका बेपारीलाई देखी
+            <br/>
+            पुरोहित र धर्मगुरु हिंडे बाटो तर्की । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. सानो जातको सामरीले बेपारीलाई देखे
+            <br/>
+            चोटपटक धोएर घाउहरू बाँधे
+            <br/>
+            रोगीलाई उठाएर पशुमाथि राखे,
+            <br/>
+            चोरडाँकुको ख्याल नमानी आफ्नो बाटो लागे । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. सामरी र रोगी व्यक्ति जसै पाटी पुगे
+            <br/>
+            पाटीदारको हातमा तिनलाई जिम्मा लाए,
+            <br/>
+            केही खर्च दिएर बेपारीलाई भने
+            <br/>
+            फर्की आउँदा तिरौंला म खर्च अरू लागे ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

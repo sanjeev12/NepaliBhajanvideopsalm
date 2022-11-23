@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan374 Dukha Sokh Sabai Katiyo</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. दुःख, शोक सबै काटियो हल्लेलूयाह सब लडाइँमा जीत भयो हल्लेलूयाह
+            <br/>
+            बिते दिन पछिपछि छाडौँ, हल्लेलूयाह दृष्टि अघि उचालौं हल्लेलूयाह । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. उनको शब्द सुन्दछौं, हल्लेलूयाह आदि अन्त सर्वत्र हल्लेलूयाह
+            <br/>
+            जहाँ उनले लानेछन्, हल्लेलूयाह ज्योति उनले दिनेछन् हल्लेलूयाह । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. हाम्रो जीवनको आधार, हल्लेलूयाह ख्रीष्टमा मात्र पाउँदछौं हल्लेलूयाह
+            <br/>
+            हाम्रा परममित्रकहाँ हल्लेलूयाह दिन दिनअघि बढ्दै जाऔं हल्लेलूयाह ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

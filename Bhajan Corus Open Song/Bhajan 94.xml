@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan94 Stuti Hos Ma Sudha</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. स्तुति होस् म शुद्ध भएँ, येशू ख्रीष्टको रगतले
+            <br/>
+            कलवरीको त्यस धारामा, धुनुभो मलाई ख्रीष्टले । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः पापको सबै बन्धन छुट्यो, प्रभु येशू धन्यवाद
+            <br/>
+            मुकुट उहाँले दिन्छन् मलाई, सम्पूर्ण उद्धारको साथ । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. स्तुति होस् यर्दनको निम्ति जहाँ म दफन भएँ
+            <br/>
+            येशू ख्रीष्टको साथमा मरी, नयाँ जीवन–दान पाएँ । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. स्तुति होस् पेन्तिकोसको दिनमा, आए पवित्र आत्मा
+            <br/>
+            शान्ति, आनन्द, प्रेम, विश्वास साथ रहनुहुन्छ सर्वदा । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. स्तुति होस् प्रभु येशूको, स्वर्गबाट आउनेछन्
+            <br/>
+            पवित्र मण्डलीलाई साथ लिई, फेरि स्वर्ग फिर्नेछन् ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

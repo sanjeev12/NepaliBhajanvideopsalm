@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus134 Yeshu Yeshu Mero Jiwanko</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. येशू येशू, मेरो जीवनको स्वामी, येशू येशू, मेरो जीवनको किल्ला २
+            <br/>
+            धन्यवादको भेटी लिई आउँदछु, तपाईंको त्यो चोकभित्र २
+            <br/>
+            ताली बजाउँदै (२) ताली बजाउँदै (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. येशू येशू मेरो जीवनको राजा, येशू येशू, ख्रीष्ट मेरो मुक्तिदाता २
+            <br/>
+            हल्लेलूयाह गाउँदै म आउँदछु, अनुग्रहको सिंहासनअघि २
+            <br/>
+            पवित्र हात उचाल्दै (२) पवित्र हात उचाल्दै (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

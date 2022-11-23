@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bal Chorus8 Budha Baje Noahle</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            बूढ़ा बाजे नोआले जहाज बनाए,
+            <br/>
+            मानिसहरू आएर गिल्ला गरे (२) 
+            <br/>
+             पशु पंक्षी र प्राणी भित्र पसे,
+            <br/>
+            चालीस दिन, चालीस रात पानी परिबस्यो 
+            <br/>
+             सबै भूमि र पर्वत डुबिगए,
+            <br/>
+            बूढ़ा बाजे नोआ सुरक्षित रहे (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

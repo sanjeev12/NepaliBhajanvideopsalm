@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan150 Jiwanko Tyo Roti Bhachera</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. जीवनको त्यो रोटी भाँचेर देऊ, जसरी भाँच्नुभो समुद्रछेउ
+            <br/>
+            पवित्र पुस्तकमा खोज राख्दछु, छु खोजी तपाईंकै हे प्राण प्रभु । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. जीवनको त्यो रोटी मलाई जुरोस्, तपाईंको यो वचन मनमा बसोस्
+            <br/>
+            र सुध्रोस् मेरो मन, हुँ परस्वार्थी, सब मेरो बेहोरो तपाईंमाथि । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. त्यो वचन खोलिदेऊ म देख्न पाऊँ त्यो वचन खोलिदेऊ म बुझन पाऊँ
+            <br/>
+            तपाईंको संगतमा सँगै हिँड्दै ममा तपाईंको रूप प्रकाश हुँदै । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. प्रभु सत्य अवतार आशीर्वाद देऊ, जसरी रोटीमा गालीलको छेउ
+            <br/>
+            तब बन्धन छुट्ला साङ्लो भाँची, शान्ति तब पाउँला सत्य शान्ति ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

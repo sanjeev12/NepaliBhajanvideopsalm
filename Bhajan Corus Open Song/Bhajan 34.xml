@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan34 Aau Sabai Biswasi</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. आऊ सबै विश्वासी, आनन्द गर्दै आऊ, आऊ सबै जना मिली बेथलेहेममा ।
+            <br/>
+            जगतको त्राता बालक भयो हेर, आऊ भजन गर्दै पुजौँ (३) ख्रीष्ट प्रभुलाई । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. हे वचन सनातन, परमेश्वरको पुत्र, प्रभु येशू हुन् ख्रीष्ट इम्मानुएल ।
+            <br/>
+            कन्याको गर्भदेखि मान्छे जन्मेको आऊ भजन गर्दै पूजौँ (३) ख्रीष्ट प्रभुलाई । 
+            <br/>
+             
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+            ३. हे सब स्वर्गदूत हो, जयजयकार गर्नू, परमेश्वरलाई होस् स्वर्गमा धन्यवाद
+            <br/>
+            पृथ्वीमा कुशल मान्छेहरूमा मिलाप, आऊ भजन गर्दै पुजौँ (३) ख्रीष्ट प्रभुलाई । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. आमेन् प्रभु धन्य हाम्रो लागि जन्मे, येशू सदा तपाईंको नाम पुजियोस्
+            <br/>
+            ईश्वरको वचन अब देही भएको, आऊ भजन गर्दै पुजौँ (३) ख्रीष्ट प्रभुलाई ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

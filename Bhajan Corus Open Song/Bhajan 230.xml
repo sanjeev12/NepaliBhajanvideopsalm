@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan230 Jagatko Taranhar Hamro</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>कोः जगतको तारणहार, हाम्रो खीष्ट राजा (४) जगतको । </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. हाम्रो निम्ति स्वर्ग छोडी आए जगतमा (२)
+            <br/>
+            बलि भए हाम्रो निम्ति कलवरीको क्रूसमा (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. पापीको उद्धार गर्न आए ख्रीष्ट येशू राजा (२)
+            <br/>
+            पश्चात्तापी हृदयलाई क्षमा दिन्छन् आज (२) 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. सत्यताको वचन दिए सारा जनतालाई (२)
+            <br/>
+            ख्रीष्टमा विश्वास गरे हामी पार तर्छौं भाइ (२) 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. ख्रीष्टको अमोल वचन पाई पापदेखि फर्क (२)
+            <br/>
+            पापदेखि फक्र्यौ भने पाउँछौ आनन्द स्वर्ग (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

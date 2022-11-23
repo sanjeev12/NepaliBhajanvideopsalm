@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan539 Ghankiyo Ghankiyo Damfuko</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः घन्कियो घन्कियो डम्फुको तालै घन्कियो (२)
+            <br/>
+            पाखा पखेरो (थर्कियो) २ पहाड मधेस, गाउँ बेसी रमाइलो
+            <br/>
+            खुसीको सन्देश सुनाउँदै, ख्रीष्ट जन्म दिवस मनाउँदै
+            <br/>
+            घर आँगन संसारै उज्यालो (२) (घन्कियो) २ डम्फुको तालै घन्कियो । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. नाचन मैच्याङ्ग, नाचन है नाचन आ हा आ
+            <br/>
+            समलामा कम्मर भाँचन आ हा आ २
+            <br/>
+            भविष्यवाणी त्यो जो पूरो हुने भो
+            <br/>
+            इम्मानुएल ख्रीष्टको जन्म भो हो हो (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. सुनन पारङ्ग, सुनन है सुनन आ हा आ
+            <br/>
+            मनमा कुरा गुनन गुनन आ हा आ २
+            <br/>
+            स्तुति र प्रशंसा गरेर प्रभुको
+            <br/>
+            हृदयमा उनलाई राखन आ हा हा (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

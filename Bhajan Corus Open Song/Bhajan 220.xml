@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan220 Yo Sara Sansar</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 v5 v6 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. यो सारा संसार सपनाजस्तो छ (२)
+            <br/>
+            सपनामा कहाँ थियौ जागी उठ्दा कहाँ छौ ? (२)
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+            २. यस्तै नै हे भाइ हो हाम्रो हालत छ (२)
+            <br/>
+            प्राणै छुटेपछि त संसारै अदृश्य (२)
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+            ३. कोही छैन संसारमा पापदेखि बचाउने (२)
+            <br/>
+            येशूबाहेक कोही छैन स्वर्गमा लैजाने (२)
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+            ४. छोडिदेऊ भाइ बहिनी संसारको कुकर्मलाई (२)
+            <br/>
+            लौ ग्रहण गर सबैले स्वर्गको बाटोलाई (२) 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. संसारको मायामा भुलेर नबस (२)
+            <br/>
+            त्यसो गर्यौ भने त नरककुण्ड अवश्य (२) 
+         </lines>
+      </verse>
+      <verse name="v6">
+         <lines>
+             ६. आफ्नो यो प्राण हुँदा खोज है कर्तालाई (२)
+            <br/>
+            उनैले सबै पापीलाई दिन्छन् पाप छुटाई (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

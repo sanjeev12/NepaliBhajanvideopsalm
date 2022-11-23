@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan353 Jawanilai Prabhuko Nimti</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः जवानीलाई प्रभुको निम्ति जिउँदो बलिदान चढाऊ
+            <br/>
+            संसारलाई त्यागी आफ्नो क्रूस उठाई प्रभुलाई नै पछ्याऊ है । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. यो शरीर तिम्रो मन्दिर हो जहाँ ईश्वरले वास गर्छन्
+            <br/>
+            यसलाई सधैँ पवित्र राख, प्रभुले राज गर्छन् । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. आफैंलाई प्रभुको सिपाही बनाऊ, लडाइँ छ लामो, हरेस नखाऊ
+            <br/>
+            विश्वासीको उत्तम लडाइँ लड, प्रभुले जय दिन्छन् ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

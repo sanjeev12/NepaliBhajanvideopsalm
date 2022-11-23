@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan286 Tyo Dhanya Jasko Apradh</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः त्यो धन्य जसको अपराध क्षमा गरियो
+            <br/>
+            र जसको सबै पाप पनि ढाकियो । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. प्रभु जसको पापलाई लेखा लिँदैनन्
+            <br/>
+            त्यो धन्य जसको दिलमा केही कपट छैन । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. जबसम्म चुप रहे मेरा हाडहरू
+            <br/>
+            कराउँदै कराउँदै सबै मक्किए । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. दिनमा अनि रातमा हे मेरो ईश्वर
+            <br/>
+            तपाईंको हात ममाथि भारी थियो । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. अँ, बोसो पनि मेरो पग्लिगयो
+            <br/>
+            जिउको सबै रस पनि सुकिगयो ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

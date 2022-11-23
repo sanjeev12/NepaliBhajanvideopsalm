@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan715 Jitnubho Jitnubho Jitnubho Yeshule</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः जित्नुभो, जित्नुभो, जित्नुभो येशूले
+            <br/>
+            संसार र शैतानलाई मृत्यु र पापलाई । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. उद्देश्यहिन अलमली हिँडेँ, पागलसरि
+            <br/>
+            संसार र पापको बीचमा पाएँ चोट जीवनभरि
+            <br/>
+            निको पार्नुभयो, निको पार्नुभयो येशू ख्रीष्टले । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. ल्याउनुभो जीवन येशूले, जीवन प्रशस्त गरी,
+            <br/>
+            अनमोल रगत बगाई, हामीलाई स्वच्छ पारी,
+            <br/>
+            विश्वास गर्नेहरू, विश्वास गर्नेहरू । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. भरपूर येशूमा आज सम्भव छ,
+            <br/>
+            शरीर, संसार, शैतानलाई पार्नुभो परास्त,
+            <br/>
+            दमन गर्नुभो, दमन गर्नुभो ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

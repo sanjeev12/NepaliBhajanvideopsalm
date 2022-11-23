@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan426 Suna Naya Geet Gaudaichan</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. सुन नयाँ गीत गाउँदैछन् मुक्ति पाउनेहरू
+            <br/>
+            स्तुति प्रभु र थुमाको यसो भन्दै गाउँछन् । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः प्रेमले आफ्नो रगतमा धोई शुद्ध पारी
+            <br/>
+            हाम्रो आत्मालाई बचाउने प्रभुलाई होस् स्तुति । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. हाम्रो वस्त्र उज्यालो छ धोई उनको रगतमा
+            <br/>
+            हाम्रो मनमा सब शान्ति छ उनको स्वर्गे ज्ञानमा । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. उनको रगतको शक्तिले भयो शैतान निर्वल
+            <br/>
+            उनको सत्यको प्रतापले हामी भयौं सफल । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. पुजौं ज्योति र जीवनको प्रभु र थुमालाई
+            <br/>
+            महिमा, आदर र शक्ति सदा हुन्छन् उनलाई ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

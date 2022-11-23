@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan687 Ma Euta Jhareko Paat</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>कोः म एउटा झरेको पात जस्तै तर प्रभुले उठाउनुभयो (२) </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. म अन्धकारमा हिँडेर लड्दै थिएँ
+            <br/>
+            म बाटो विहीन भएर हिँड्दै थिएँ (२)
+            <br/>
+            उज्यालो ज्योति दिई येशूले लिनको निम्ति आउनुभयो 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. म संसारको दरिलो बन्धनमा परेको थिएँ
+            <br/>
+            म पापको दास बनेर मर्दै थिएँ (२)
+            <br/>
+            पापको बन्धन तोडी येशूले अनन्त जीवन दिनुभयो ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

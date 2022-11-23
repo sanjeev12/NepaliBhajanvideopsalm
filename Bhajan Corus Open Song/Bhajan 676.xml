@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan676 Parmeshworle Srijanubho</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः परमेश्वरले सृजनुभो, एकमात्र पुत्र पठाउनुभो
+            <br/>
+            पृथ्वीको एक छेउमा, स्वर्ग बनाउनुभयो 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. मेरो निम्ति आउनुभो, मेरै कारण उहाँ मर्नुभो (२)
+            <br/>
+            अन्धकार भित्र जिउँथेँ म, ज्योतिको सन्तान बनाउनुभो  
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. दोषी त बरु म थिएँ, सजाय उहाँले पाउनुभो (२)
+            <br/>
+            हामी सबैलाई उद्धार गर्न, उहाँ धर्तीमा आउनुभो ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

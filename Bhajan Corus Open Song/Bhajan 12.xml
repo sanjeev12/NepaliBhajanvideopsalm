@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan12 Sagar Swami Hau</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः सागर–स्वामी हौ परमपिता जयजयकार,
+            <br/>
+            जयजयकार सर्वसदा (२)
+            <br/>
+            तारणहार तिमी युगयुगका पार गर्‌यौ क्रूस, पार गर्‌यौ
+            <br/>
+            जीवनका प्रभु पापीका प्रभु, होस् जयजयकार 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. तिमी हौ प्रेम पतवार तिमी जीवनको सार (२)
+            <br/>
+            जल, थल, शितल मिली तिम्रै सम्मुख झुकी (२) पार ग¥यौ
+            <br/>
+            त्रूmसपार ग¥यौ, जीवनको प्रभु, पापीको प्रभु, होस् जयजयकार । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. किन नहोस् मझधार, होस् थपडीको मार (२)
+            <br/>
+            हृदय प्रफुल्लित रही, प्रभु हाम्रो धीरज धरी (२) पार ग¥यौ । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. जयजयकार गाऊ जयजय, प्रभु हुन् तारणहार (२)
+            <br/>
+            जयजय प्रभुको जय, जय, जय कलवरीको जय (२) पार ग¥यौ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

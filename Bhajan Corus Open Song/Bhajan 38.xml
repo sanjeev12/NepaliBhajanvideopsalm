@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan38 Duniya Ramau Ra Grahan Gara</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. दुनियाँ रमाऊ र ग्रहण गर, ख्रीष्ट प्रभु राजालाई,
+            <br/>
+            हर मनमा होस् उहाँलाई घर, (संसार गरोस् बढाइ) २ (संसार) २ गरोसबढाई 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. दुनियाँका ज्योति उनै हुन् पाप क्षमा दिनेछन्
+            <br/>
+            उनले हाम्रा सबै दुःख दूर गर्नेछन् (र आशिष् दिनेछन्) २ (र आशिष) २ दिनेछन् 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. खुसी मनाऊ ख्रीष्ट राजा हुन्, सब जन र सबै प्राण
+            <br/>
+            समुद्र र पहाड र खोला र मैदान (गाऊ स्तुतिको गीतगान) २ गाऊ (स्तुति) २ को गीतगान 
+            <br/>
+             
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+            ४. उनले विश्वास र दयाले राज्यलाई फैलाउँदछन्
+            <br/>
+            आफ्नो दृढ सत्य विभवका बाटोले (अमोल प्रेम गर्दछन्) २ (अमोल) २ प्रेम गर्दछन्
+         </lines>
+      </verse>
+   </lyrics>
+</song>

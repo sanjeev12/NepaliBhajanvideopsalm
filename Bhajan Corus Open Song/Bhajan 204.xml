@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan204 Yeshule Hamilai Bachaye</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. येशूले हामीलाई बचाए आफ्नो अमोल रगत बहाए
+            <br/>
+            सब दोषी थ्यौं छुट्कारा नपाई ख्रीष्टले बचाए हामीलाई ।
+            <br/>
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+            कोः हे पापी जन यो सुसमाचार सधैँको लागि गर स्वीकार
+            <br/>
+            आऊ क्रूसको छेउमा भारी बिसाई ख्रीष्टले बचाए हामीलाई ।
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+            २. पापदेखि सबै पायौं छुटकारा ख्रीष्टको जन अब भइगयौं सारा
+            <br/>
+            प्रेमैले भन्छन् मकहाँ आऊ सधैँको लागि मुक्ति पाऊ ।
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+            ३. ईश्वरका पुत्र कस्तो आनन्दित अधिकार उनको महिमासहित
+            <br/>
+            मृत्यु नदी पार भई विश्रान गर्नेछौ अनन्द परमधाम ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

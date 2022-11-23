@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan734 Bhajan 734</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            <br/>
+            Bhajan: 734
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+            कोः येशूले दिएको तिमीलाई, प्रेम संङ्गालि राख
+            <br/>
+            उहाँको सत्य वचनहरू जीवनमा अङ्गालि राख ।
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+            १. कतै तिमी कमजोर बन्छौ, जीवन थकित तुल्याई,
+            <br/>
+            जब तिमी दुःख पाउछौ, ख्रीष्टको प्रेमलाई याद गर ।
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+            २. प्रिय पुत्र प्रभुलाई पाएर, चुपचाप नबसिदेऊ,
+            <br/>
+            हरेक तिम्रो अविश्वासमा, प्रभु सधैँ रूनुहुन्छ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

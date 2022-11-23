@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus24 Dhanyabad Yeshu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            धन्यवाद येशू (२)
+            <br/>
+            धन्यवाद येशू मेरो मनदेखि २ 
+            <br/>
+             स्तुति होस् प्रभु (२)
+            <br/>
+            स्तुति होस् प्रभु मेरो मनदेखि २ 
+            <br/>
+             हल्लेलूयाह येशू (२)
+            <br/>
+            हल्लेलूयाह येशू मेरो मनदेखि २ 
+            <br/>
+             प्रशंसा होस् प्रभु (२)
+            <br/>
+            प्रशंसा होस् प्रभु मेरो मनदेखि २ 
+            <br/>
+             जयजयकार होस् प्रभु (२)
+            <br/>
+            जयजयकार होस् प्रभु मेरो मनदेखि २
+         </lines>
+      </verse>
+   </lyrics>
+</song>

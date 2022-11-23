@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan208 Sansar Papko Sagarma Dubeko</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. संसार पापको सागरमा डुबेको थियो हो जगतको ज्योति येशू
+            <br/>
+            प्रचण्ड घामझैँ उनको महिमा चम्क्यो हो जगतको ज्योति येशू ।
+            <br/>
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+            कोः ज्योतिमा आऊ हो तिम्रै लागि ज्योति त पर्यो मलाई पनि,
+            <br/>
+            अन्धा थिएँ तर पाएँ दृष्टि हो जगतको ज्योति येशू ।
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+            २. अँध्यारोमा बस्नुपर्दैन हामी होे जगतको ज्योति येशू
+            <br/>
+            हिँड्छौं ज्योतिमा अगुवा पछि लागी हो जगतको ज्योति येशू ।
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+            ३. आऊ सब जसका मनमा छ पाप अन्धकारको जगतको ज्योति येशू
+            <br/>
+            आऊ दृष्टि पाउन उनको वचनअन्सार हो जगतको ज्योति येशू ।
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+            ४. घाम लाग्नु पर्दैन अरे स्वर्गमा हो जगतको ज्योति येशू ।
+            <br/>
+            स्वर्गपूरीमा ज्योति हो प्रभु हाम्रा हो जगतको ज्योति येशू ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

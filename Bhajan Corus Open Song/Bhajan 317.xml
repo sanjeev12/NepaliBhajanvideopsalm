@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan317 Kati Maya Garchan Malai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः कति माया गर्छन् मलाई मेरा प्यारा प्रभुले
+            <br/>
+            मेरै मायाको तृष्णामा सधैँ नै तड्पिदिन्छ । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. मलाई अनन्त जीवन दिन आफ्नो प्राणसम्म दिए
+            <br/>
+            मैले भोग्नुपर्ने दुःख उहाँले नै लिइदिए । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. मेरो जीवन सहारा बनी डोर्याउनुहोस् गोरेटोमा
+            <br/>
+            म त अन्धो छु, यहाँ तपाईं नै ज्योति मेरो । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. संसार टलिगए तापनि मृत्यु नै आए पनि
+            <br/>
+            यो मिलन अनन्त सम्म यो प्रीत अमर नै छ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

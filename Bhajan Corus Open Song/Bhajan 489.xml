@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan489 Prabal Parakrami Namra</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. प्रबल पराक्रमी, नम्र र प्रेमको धनी
+            <br/>
+            गुरू उनी हाम्रो स्वरूप नै परमेश्वरको । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः हामीमा भर्ने यो प्राण पवित्र आत्मा ठूलो वरदान
+            <br/>
+            दिने यो जोश, आनन्द, साहस, रोप्ने छर्ने, बढाउने विश्वास । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. गर्छन् बयान बढाइ प्रभु ख्रीष्टको, सब थोक हटाई
+            <br/>
+            तल्लिन हुनेछ उनमा जो स्वर्ग बुझ्न सक्ने मानिस हो । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. सुतेकालाई जगाउने, पीर, दुःख त्यो भगाउने
+            <br/>
+            सबैले त्यागेको जनलाई बुझिदिने अझ छेउ आई ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

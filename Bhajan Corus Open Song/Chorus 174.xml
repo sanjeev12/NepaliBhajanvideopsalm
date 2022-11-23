@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus174 Daraunechaina Aba Kehisanga</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            डराउनेछैनँ अब केहीसँग,
+            <br/>
+            जिउँदो येशू मेरो साथ छन् । 
+            <br/>
+             अघि बढ्नेछु साहसी बनी
+            <br/>
+            तपाईंको राज्य ल्याउनलाई । 
+            <br/>
+             युद्ध लड़्नेछु साहसी बनी
+            <br/>
+            विजयको झण्डा गाड़्नलाई ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

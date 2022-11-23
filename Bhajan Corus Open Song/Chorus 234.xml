@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus234 Yedi Jaal Bhaye Pani</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            यदि जाल भए पनि माछा समात्ने थिएँ
+            <br/>
+            यदि नाउ भए पनि नदी तर्ने थिएँ 
+            <br/>
+             तर छैन मसँग केही पनि (२)
+            <br/>
+            (तिमी मात्र हौ) २ 
+            <br/>
+             मैले धेरै सपना सजाएथें, ती सब तोडिसकेँ
+            <br/>
+            मेरो स्वार्थपूर्ण हृदय यो आज च्यातिदिएँ 
+            <br/>
+             तर छैन मसँग केही पनि (२)
+            <br/>
+            येशू मात्र हौ (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

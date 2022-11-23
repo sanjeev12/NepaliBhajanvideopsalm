@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan333 Hey Prem Malai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. हे प्रेम, मलाई जान नदिने, म आफ्नो थकित आत्मा ल्याउँछु
+            <br/>
+            प्राण अब तिमीलाई दिहाल्छु जीवनको सागरमा बस्न भरपूरी हुनलाई । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. हे ज्योति, मलाई बाटो देखाउने, म आफ्नो सानो बत्ती ल्याउँछु
+            <br/>
+            आफ्नो मनको ज्योति फर्काउँछु, तिम्रो उज्यालोमा बस्छु ज्योतिलो हुनलाई । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. हे सुख, जो मलाई दुःखमा खोज्ने, मन मेरो कहीँ भाग्न नसक्ने
+            <br/>
+            बादलमा तिम्रो धनुष हेर्छु, करारमा भरोसा गर्छु, दिन मेरो उज्ज्वल होस् । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. हे क्रूस, जो मेरो शिर उठाउने, न तिमीदेखि भाग्न सक्ने
+            <br/>
+            म प्राण माटोमा राखिदिन्छु, फूलजस्तो बढी निक्लनु प्राण मेरो अमर होस् ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

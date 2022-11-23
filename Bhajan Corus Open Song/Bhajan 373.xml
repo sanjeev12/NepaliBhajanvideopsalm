@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan373 Sworga Desh Ma Malai Janucha</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. स्वर्ग देशमा मलाई जानुछ पिताको घरमा बस्नलाई
+            <br/>
+            बटौरे साथी एउटा छ सहरको ढोका खोल्नलाई । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः बटौरे साथी को हो ममाथि टिठाउने ?
+            <br/>
+            बटौरे साथी को हो ढोकालाई खोल्दिने ? 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. अब हिँड्छु म बाटोबाटै उनले बाटो देखाउँदछन् जुन
+            <br/>
+            ममाथि टिठाई ढोका खोल्ने ईश्वरका प्रिय पुत्र हुन् । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. सम्झ त्यो बाटो कस्तो छ, जहाँ म अहिले हिँड्नेछु
+            <br/>
+            सम्झ त्यो ढोका कस्तो छ, जहाँ म अहिले पस्नेछु । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. त्यो स्वर्गीय बाटो साँगुरो छ, मन अति कष्टित तुल्याउने
+            <br/>
+            त्यो पस्ने ढोका साँगुरो छ, मलाई त्यस सहर पुर्याउने । 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. धर्म पुस्तक मेरो हातमा छ, मलाई ठीक बाटो देखाउने
+            <br/>
+            प्रार्थनामा ख्रीष्टीय शक्ति छ, त्यो ढोका पनि खोल्दिने । 
+         </lines>
+      </verse>
+      <verse name="v6">
+         <lines>
+             ६. धर्म पुस्तकलाई म छोड्दिनँ, म प्रार्थना गर्न भुल्दिनँ
+            <br/>
+            स्वर्गीय को अधिकारी नभई, अब उसै म ता मर्दिनँ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus200 Ma Tapaiko Muhar Herna</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            म तपाईंको मुहार हेर्न चाहन्छु
+            <br/>
+            म तपाईंको मुहार खोजी गर्छु (२) 
+            <br/>
+             आराधना गर्छु पवित्रताको सुन्दरतामा (२)
+            <br/>
+            हृदय सब खोली आउँछु (२) 
+            <br/>
+             स्तुति गाउन, स्तुति गाउन (२)
+            <br/>
+            हल्लेलूयाह, हल्लेलूयाह (२)
+            <br/>
+            येशू महान्, येशू महान् (२)
+            <br/>
+            इम्मानुएल, इम्मानुएल (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

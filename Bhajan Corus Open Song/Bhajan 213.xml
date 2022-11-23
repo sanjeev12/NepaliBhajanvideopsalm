@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan213 Tyage Khristle Krusaima Praan</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः त्यागे ख्रीष्टले क्रूसैमा प्राण, गर्न हरेक पापीको त्राण ।
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+            १. पापैमा परी आत्मालाई नष्ट गरी बस्छौ किन निश्चिन्त भई
+            <br/>
+            समय हुँदै आओ आज येशूकहाँ आओ ।
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+            २. येशू मसीह बोलाउँछन् हरेक जनलाई आउँछन् जो उहाँकाँ
+            <br/>
+            काटिन्छन् तिनका दुःख ती पाउँछन् आनन्द र सुख ।
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+            ३. आउँछन् फेरि ख्रीष्ट महिमित बादलमा  धन्य जो, अन्तसम्म
+            <br/>
+            स्थिर रहला, ती पाउँछन् जीवनको ताज  ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

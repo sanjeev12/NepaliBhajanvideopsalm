@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan83 Yeshu Bardanko Mul  Dhara</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. येशू वरदानको मूल धारा, गरूँ योग्य प्रशंसा
+            <br/>
+            दया खोला लगातार बगिरहेछ ममा ।
+            <br/>
+            स्तुति गर्न दिनोस् मलाई स्वर्गदूतले गरे झैँ
+            <br/>
+            प्रभु ख्रीष्टको प्रेम र भलाइ छ अगाध अपार सधैँ । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. यतिञ्जेल मेरो उद्धारक तपाईं हुनुभो आफै
+            <br/>
+            राखी  एबेन्एजर  स्मारक अघि बढ्छु स्वर्गमै ।
+            <br/>
+            बगाल छोड्ने भेडाजस्तो मलाई खोजे येशूले
+            <br/>
+            नाशदेखि बचाउन आफ्नो अमोल रगत बगाए । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. ईश्वरको अनुग्रह हेरी ऋणी आफूलाई ठान्छु
+            <br/>
+            त्यो अनुग्रह साङ्लासरी बाँधोस् चंचल मन मेरो ।
+            <br/>
+            आफ्नै सुरमा जान खोज्ने मन छ मेरो, छैन स्थिर
+            <br/>
+            लिनोस् मन, हे लिनोस् प्रभु स्वर्गको लागि राख्नोस् दृढ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

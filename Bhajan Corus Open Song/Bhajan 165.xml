@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan165 Ramau Khusi Houu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. रमाऊ खुसी होऊ, मुक्तिदाता आए
+            <br/>
+            हेर्न जाऊ खोक्रो, क्रूस र कबर येशूको । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः उनलाई भज हाम्रो बदली येशू मर्नुभो
+            <br/>
+            उनलाई भज हाम्रो लागि ख्रीष्ट ब्यूँतनुभो । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. रमाऊ खुसी होऊ, अब उज्यालो भयो
+            <br/>
+            बादल सब हटिगए रात गइसक्यो । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. रमाऊ खुसी होऊ, ख्रीष्टले रगत बहाई
+            <br/>
+            पापको दण्ड तिरेर बचाए हामीलाई । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. रमाऊ खुसी होऊ, सित्तै पाइन्छ मुक्ति
+            <br/>
+            सब अन्यायीको सट्टामा मरे न्यायी । 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. रमाऊ खुसी होऊ, येशू मरेपछि
+            <br/>
+            फेरि जिउँदो भए ब्यूँती मृत्युदेखि । 
+         </lines>
+      </verse>
+      <verse name="v6">
+         <lines>
+             ६. रमाऊ खुसी होऊ, येशू गर्छन् माथि
+            <br/>
+            अन्तरबिन्ती परमेश्वरलाई हाम्रो लागि । 
+         </lines>
+      </verse>
+      <verse name="v7">
+         <lines>
+             ७. रमाऊ खुसी होऊ, पाठो परमेश्वरको
+            <br/>
+            फेरि आउँनेछन् उहाँ, जो मारिनुभो ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

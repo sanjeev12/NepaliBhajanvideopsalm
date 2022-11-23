@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan431 Prithvi Mathi Mathi</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः पृथ्वी माथि माथि कस्तो जगत छ ?
+            <br/>
+            कल्पना गर्न सक्छौ तिमी के ?
+            <br/>
+            एक पल्ट प्रभुको झल्को मात्र लेऊ ?
+            <br/>
+            थाहा पाउनेछौ (स्वर्ग त्यस्तै छ) २ 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. संसारभन्दा बेग्लै हुन्छ त्यो जगतमा
+            <br/>
+            धोइएको मानिस हुन्छन् ख्रीष्टको रगतमा
+            <br/>
+            त्यहाँ पीर, मर्का, फिक्री हुँदैन,
+            <br/>
+            ज्योतिको राज्य अँध्यारो टिक्दैन । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. स्वर्ग जान तिमीले मृत्यु नपर्ख
+            <br/>
+            दुःखी संसार पनि स्वर्ग बन्न सक्छ
+            <br/>
+            छोटो छ यो जीवन मोजमा नभुल
+            <br/>
+            स्वर्गको राज्य क्रूसलाई अङ्गाल ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

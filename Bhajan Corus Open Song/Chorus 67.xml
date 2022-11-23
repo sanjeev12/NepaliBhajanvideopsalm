@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus67 Sworgya Pita Hami Prem</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            स्वर्गीय पिता हामी प्रेम गर्छौं,
+            <br/>
+            उच्च पार्छौं तपाईंको नाउँ, 
+            <br/>
+             हाम्रो स्तुतिमा स्थापित होस् त्यो राज्य,
+            <br/>
+            जसै गर्छौं महान् कामको प्रचार 
+            <br/>
+             धन्य होस् प्रभु महान् ईश्वर
+            <br/>
+            जो थिए, छन् र हुन आउँछन् 
+            <br/>
+             धन्य होस् प्रभु महान् ईश्वर
+            <br/>
+            राज गर्छन् जसले सदा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

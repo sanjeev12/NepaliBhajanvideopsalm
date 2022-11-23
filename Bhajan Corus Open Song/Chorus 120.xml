@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus120 Biswas Gara Niras Nahou</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            विश्वास गर, निराश नहोऊ, ख्रीष्ट साँचो मित्र हुन्
+            <br/>
+            जस्तै दुःख भए पनि उनले साथ दिनेछन् 
+            <br/>
+             दुःखको दिनमा गाऔँ, सुखको दिनमा गाऔँ
+            <br/>
+            प्रतिदिन जहाँ पनि हामी गाउनेछौँ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

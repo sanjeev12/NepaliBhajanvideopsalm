@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan623 Paramprabhu Mero Gothalo Hun</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>कोः परमप्रभु मेरो गोठालो हुन् (२) मलाई केहीको (२) खाँचो छैन २ </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. उहाँले मेरो पाइलाहरूलाई चिप्लन दिनुहुन्न (२)
+            <br/>
+            सुखचैनको पानी छेउ डोर्याउनु हुन्छ (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. उहाँले मेरो शिरलाई तेलले अभिषेक गर्नुहुन्छ (२)
+            <br/>
+            मेरो कचौरा भरिएर पोखिदँछ (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

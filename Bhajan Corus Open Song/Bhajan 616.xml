@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan616 Barsau Prabhu Barsau</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः बर्षाउ प्रभु बर्षाउ (२), (आज आशिष्को झरी) २
+            <br/>
+            यी दुइको जीवनभरि (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. तृष्णा देऊ दुइ आत्मालाई, बन्धन देऊ नछुटिने जीवनलाई
+            <br/>
+            दियो बलिरहोस् विश्वासको २ 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. अन्धकार घाँटी हिँड्नु परे नि, फुल्दा फुल्दै मुर्झाई झरे पनि
+            <br/>
+            अमर रहिरहोस् प्रेम २
+         </lines>
+      </verse>
+   </lyrics>
+</song>

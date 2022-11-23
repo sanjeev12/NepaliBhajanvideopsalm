@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus327 Mamaa Yeshuko Shova</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. ममा येशूको शोभा परोस्
+            <br/>
+            देखाउन उनको नम्रता, प्रेम र पवित्रता
+            <br/>
+            हे पवित्र आत्मा मलाई गर्नुस् सफा
+            <br/>
+            ममा येशूको शोभा परोस् देखा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

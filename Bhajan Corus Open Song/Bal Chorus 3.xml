@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bal Chorus3 Ye Naani Asal Sochna</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            ए नानी, असल सोच्न येशूबाट सिक,
+            <br/>
+            ए नानी, असल बोल्न येशूबाट सिक
+            <br/>
+            ए नानी, प्रार्थना गर्न येशूबाट सिक,
+            <br/>
+            ए नानी, मीठो बोल्न येशूबाट सिक
+            <br/>
+            ए नानी, नम्र बत्र येशूबाट सिक,
+            <br/>
+            ए नानी, क्षमा गर्न येशूबाट सिक
+            <br/>
+            ए नानी, सेवा गर्न येशूबाट सिक,
+            <br/>
+            ए नानी, दया गर्न येशूबाट सिक
+            <br/>
+            ए नानी, माया गर्न येशूबाट सिक,
+            <br/>
+            ए नानी, शैतानलाई जित्न येशूबाट सिक
+            <br/>
+            ए नानी, सबै असल गुणहरू येशूबाटै सिक
+         </lines>
+      </verse>
+   </lyrics>
+</song>

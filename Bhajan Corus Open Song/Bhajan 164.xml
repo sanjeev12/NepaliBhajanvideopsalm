@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan164 Ishworlai Pujau Pabitrata</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 v5 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. ईश्वरलाई पूजूँ पवित्रता लाइकन दण्डवत् गरूँ प्रचारी प्रताप ।
+            <br/>
+            आज्ञा मनाइ र दीनता चढाइकन उनैको नाउँ लिंदै जो आफैँ आफ । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. फिक्रीका भार हालूँ ईश्वरको चरणमा, उनले त्यो हृदयमा बोक्छन् उठाई
+            <br/>
+            शोक मेटिदिन्छन्, पुर्‌याउँछन् शरणमा, पाउ डोर्‌याई मुवाएको झैँ । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. ईश्वरको महलमा बिना डराईकन छौं आउन सक्ने दीनहीन मनका भई
+            <br/>
+            खालि सच्चाइ र धन प्रेमको ल्याईकन ग्रहण गरिन्छौं यी मात्र चढाई । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. यति नै ल्याऔं ता येशूको नाउँमा ईश्वरले लिन्छन् ती कारण उनको
+            <br/>
+            हर्षका दिन दिन्छन् शोकको साटोमा कमाइको साटो विश्वास दरिलो । 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. ईश्वरलाई पूजूँ पवित्रता लाइकन दण्डवत् गरूँ प्रचारी प्रताप
+            <br/>
+            आज्ञा मनाई र दीनता चढाईकन उनैको नाउँ लिदै जो आफैँ आफ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan157 Anugrahale Parmeshworko Chau</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. अनुग्रहले परमेश्वरको छौं पाए सबै कुशल क्षेमा
+            <br/>
+            यो दया हामीमाथि भो त गरौं उनको सेवा प्रेम । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः स्तुति गाई, स्तुति गाई यस दिनलाई मानौं प्रभुकै
+            <br/>
+            प्रायश्चित भए येशू नै माफ दिनुहवस् पापीलाई
+            <br/>
+            स्तुति गाई, स्तुति गाई यस दिनलाई मानौं प्रभुकै 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. रमाई जाऔं गिर्जा घर आराधना गरौं ईश्वरको
+            <br/>
+            हे ईश्वर, गर्नुहोस् गोहार र हवस् सेवा मनपर्दाे । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. तपाईंले शिक्षा दिनुहोस् र गर्नु आफ्नो धर्म प्रकाश
+            <br/>
+            निश्चिन्तलाई जगाउनुहोस् निराशदेखि दिल शान्त रहोस् । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. जब पुगिजाला मरणकाल तब होऔं खुसी र निडर
+            <br/>
+            र जाऔं तपाईंकहाँ कृपाले र पाऔं विश्राम सदा भर ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus272 Dhoepakhali</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            धोई पखाली येशू बनाइदेऊ मलाई तिम्रै पुजारी (२) 
+            <br/>
+             चरणमा आउँछु तिम्रो प्रेमको गीत गाउन
+            <br/>
+            हृदय सब पोखाई (आँसु खुशीको बहाई) २ 
+            <br/>
+             गर्न सक्छु र के प्रेमको साटो तिम्रो ?
+            <br/>
+            उपासना चढ़ाउँछु (चढ़ाउँछु म बलिदान) २
+         </lines>
+      </verse>
+   </lyrics>
+</song>

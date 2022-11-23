@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan744 Sakdina Birsana Kalbari Dadalai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः सक्तिनँ बिर्सन कलवरी डाँडालाई,
+            <br/>
+            येशूले सहेको दुःख र कष्टलाई । सक्तिनँ विर्सन । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. आखिरी भोज गरी चेलाको साथैमा
+            <br/>
+            प्रार्थना गरे पितालाई जैतूनको डाँडामा
+            <br/>
+            सुम्पिए आफैलाई कप्तानको हातैमा
+            <br/>
+            दोषी बनाइए उनलाई सबैको सामुमा । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. हतकडी बाँधे उनको कलिलो हातमा
+            <br/>
+            सबैले थुके उनको निर्दोष मुहारमा
+            <br/>
+            लगाइदियो काँडाको मुकुट प्रभुको शिरमा
+            <br/>
+            हिर्काए निगालोले निर्दोष शरीरमा । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. ठोकिए फलामे किला हात र पाउमा
+            <br/>
+            भालाले घोचे प्रभुको दुवै कोखमा
+            <br/>
+            त्यागे प्राण क्रूसमा प्रभुले तृतीय पहरमा
+            <br/>
+            यी सबै कारण बन्यो मेरै अधर्म ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

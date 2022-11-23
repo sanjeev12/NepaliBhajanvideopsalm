@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan646 Pugnechau Hami Biswasi</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः पुग्नेछौँ हामी विश्वासी अँध्यारो बस्तीहरूमा
+            <br/>
+            पुग्नेछौ हामी विश्वासी (पहाड कन्दराहरूमा) २ 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. शत्रुलाई पनि प्रेम गर सानो कहिल्यै हुँदैनौ
+            <br/>
+            प्रभुले पनि गरेनन् हेला कुनै पापीलाई (२)
+            <br/>
+            यही महान् वाणी प्रभुको (२) लिएर आज हामी त्यहाँ पुगौँ । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. संसारले घृणा, निन्दा गरेपनि हामी सधैँ रमाऊँ
+            <br/>
+            जीवनमा जति दुःख भए नि सहेर अघि बढौँ (२)
+            <br/>
+            यही महान् वाणी प्रभुको (२) लिएर आज हामी त्यहाँ पुगौँ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

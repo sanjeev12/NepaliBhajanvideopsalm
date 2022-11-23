@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan129 Suna Hey Suna Khabar</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः सुन हे सुन यो खबर छिमेकी दाजुभाइ
+            <br/>
+            बौरिउठे येशू हाम्रा जित हाम्रै भो । 
+            <br/>
+             १ येशू हाम्रा कति प्यारा क्रूसमा गई मर्नुभो
+            <br/>
+            तेस्रो दिनमा बाँचेर उनले धर्म साँच्नुभो । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             २. शिर झुक्यो शैतान र झूटो साक्षी बोल्नेको
+            <br/>
+            आदर, प्रशंसा, महिमा बढ्यो हाम्रो येशूको । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             ३. आऊ सबै अविश्वासी दोधारैमा परेका
+            <br/>
+            बाटो, सत्य, जीवन मिल्छ हाम्रो येशूमा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

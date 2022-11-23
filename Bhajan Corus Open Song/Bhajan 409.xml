@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan409 Khristko Faujma Hunu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः ख्रीष्टको फौजमा हुनु म खुसी छु (२)
+            <br/>
+            येशू मेरो नेता उनलाई पछ्याउँछु, ख्रीष्टको ... 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. पहिलेको जीवन त्यागेर प्रभुमा चाँडै आऊ
+            <br/>
+            आफ्नो कम्मर सत्यताले कसेर । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. धार्मिकताको छातीको पाता लाएर
+            <br/>
+            प्रभुमा खडा हुन्छौं नै । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. छैन धेरै जिउन यहाँ आज नै तयार हौं
+            <br/>
+            प्रेमको जुत्ता लगाउन तयार हौं । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. संसार हाम्रो घर होइन, सधैँ रहँदैन
+            <br/>
+            सुसमाचार दिने र ढाल उठाउने हो । 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. उद्धारको दिन आजै छ प्रभुमा आउन
+            <br/>
+            विश्वासमा अघि बढेर अग्नि वाण निभाऊ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

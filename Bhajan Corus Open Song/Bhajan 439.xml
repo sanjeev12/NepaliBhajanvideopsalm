@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan439 Hey Dayalu Sworgya Pita</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. हे दयालु स्वर्गीय पिता हाम्रो देशलाई हेर्नुहोस्
+            <br/>
+            आफ्नो प्रभुत्वको बाटो अविश्वास मेटाउनुहोस्,
+            <br/>
+            साँचो धर्म, साँचो धर्म छिट्टै नै फिँजाउनुहोस् । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. प्रभु ख्रीष्ट ईश्वरको पुत्र, तिनलाई दया गर्नुहोस्
+            <br/>
+            तिनको मनमा साँचो धर्म अब तपाईंले राख्नुहोस्,
+            <br/>
+            देवता छोड्न, देवी छोड्न नेपाललाई सिकाउनुहोस् । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. हे पवित्र हुने आत्मा, ज्योति, ज्ञान र शान्तिको
+            <br/>
+            अन्धकारमा बस्ने सबलाई ख्रीष्टीय मार्गको उज्यालो,
+            <br/>
+            दिनुहवस्, दिनुहवस् उसको बाटो मुक्ति भो । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. पिता, पुत्र, पवित्रात्मा हाम्रो बिन्ती सुन्नुहोस्
+            <br/>
+            नाउँ स्तुति जो तपाईंको सबलाई प्रकट गर्नुहोस्,
+            <br/>
+            हे त्राणकर्ता, हे त्राणकर्ता, राज तपाईंको स्थिर रहोस् ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

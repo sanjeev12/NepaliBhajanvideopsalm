@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan509 Prabhu Tapaiko Premko</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. प्रभु तपाईंको प्रेमको उज्यालो चम्किरहेछ जहाँ छ अँध्यारो
+            <br/>
+            येशू तपाईंको वचनको तेजले
+            <br/>
+            जीवन हाम्रो स्वतन्त्र गराउनोस्
+            <br/>
+            ममा चम्कनुहोस् २ 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः चम्कनोस् येशू यस देशलाई पिताको महिमाले ढाक्दै
+            <br/>
+            दन्काउनोस् आत्मा हाम्रो हृदयमा आगो जलाउँदै
+            <br/>
+            बगाउनोस् नदी यस देशमा अनुग्रह र दयाको बाढी
+            <br/>
+            पठाउनोस् वचन र यहाँ होस् उज्यालो । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. प्रभु म आउँछु तपाईकहाँ अन्धकारबाट उज्यालोमा
+            <br/>
+            तपाईंको रगतले मलाई भित्र्याउनोस्
+            <br/>
+            खोज्नोस्, खार्नोस्, अन्धकार हटाउनोस्
+            <br/>
+            ममा चम्कनुहोस् २ 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. जब हेर्छौं राजकीय उज्यालो हाम्रो अनुहार हुन्छ तपाईंको जस्तो
+            <br/>
+            महिमाबाट महिमामा बदलिन्छौं,
+            <br/>
+            हाम्रो जीवनले तपाईंलाई चिनाउँछौं,
+            <br/>
+            ममा चम्कनुहोस् २
+         </lines>
+      </verse>
+   </lyrics>
+</song>

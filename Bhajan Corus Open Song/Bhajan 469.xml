@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan469 Yeshu Bolauchan Sablai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः येशू बोलाउँछन् सबलाई, येशू बोलाउँछन् सबलाई
+            <br/>
+            प्रेमसाथ बोलाउँछन्, अँगालोमा उनको
+            <br/>
+            येशू बोलाउँछन् सबलाई । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. हृदय तिम्रो हताश भए, शक्ति छ तिम्रो लागि
+            <br/>
+            मुक्ति र ज्योति तिम्रै लागि येशूकहाँ लिन आऊ आज (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. सब रोगलाई निको पार्ने शक्ति छ उनीकहाँ (२)
+            <br/>
+            तत्पर छन् तिम्रो मुक्तिदाता प्यार गर्न सधैँ तिमीलाई ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

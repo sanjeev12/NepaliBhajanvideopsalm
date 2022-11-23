@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan268 Dherai Chan Gumaye</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः धेरै क्षण गुमाएँ केही पललाई साँचें
+            <br/>
+            जिन्दगीका क्षणलाई व्यर्थैव्यर्थ फालेँ
+            <br/>
+            त्यो प्रगाढ जीवन आज फुलेको छ
+            <br/>
+            त्यो निराश मुटु आज हाँसेको छ । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. मेरो जिन्दगीको घाम छायाँमा पनि
+            <br/>
+            प्रभु मलाई सधैँ साथ दिनुहुन्छ
+            <br/>
+            हाँसोका ती क्षणमा आँशुका ती क्षणमा
+            <br/>
+            प्रभु मलाई सधैँ हात दिनुहुन्छ ।
+            <br/>
+            मलाई डर छैन सधैँ उनको भर छ ।
+            <br/>
+            मैले हिँड्ने बाटोमा प्रभु हुनुहुन्छ । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. पश्चात्ताप गरी म जति चुर हुन्छु
+            <br/>
+            मेरा सब अनर्थ प्रभु माफ गर्छन् ।
+            <br/>
+            जिन्दगीका दाग र ती कलङ्कलाई
+            <br/>
+            प्रभु सधैँ सधैँ सफा गर्नु हुन्छ ।
+            <br/>
+            बाँचुन्जेलसम्म यही आशा गर्छु ।
+            <br/>
+            मुक्तिदाता येशू फेरि आउनुहुनेछ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

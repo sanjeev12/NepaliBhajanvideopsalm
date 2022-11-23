@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan305 Mero Jiwanko Sath Nath</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः मेरो जीवनको साथ नाथ प्रभु येशू
+            <br/>
+            जो मेरो हरेक पलको साँचो मित्र हुन् । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. जिन्दगी यो पापी मेरोमा स्नेहको बहार ल्याई
+            <br/>
+            जीवनको मूल्य बुझाई, दिए त्राण मलाई (२)
+            <br/>
+            दियो त्राण मलाई असीम प्रेम देखाई । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. द्वेष पापीको यो संसारमा प्रभु ख्रीष्टको पुकार
+            <br/>
+            थकित र कष्टित लोक आऊ पापको बोझा ल्याऊ (२)
+            <br/>
+            पापको बोझा ल्याऊ दिनेछन् विश्राम तिमीलाई । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. हृदय खोलेर आऊ विश्वास येशूमा लगाऊ
+            <br/>
+            दिन्छन् मुक्ति तिमीलाई पापको बोझा हटाई (२)
+            <br/>
+            पापको बोझा हटाई ज्योतिको प्रकाश गराई ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

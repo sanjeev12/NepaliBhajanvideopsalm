@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan411 Aau Kaam Garau Katnima</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 v5 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. आऊ काम गरौं, कटनीमा अल्छे गरी को बस्ला ?
+            <br/>
+            सबतिर अन्न पाकेको हुँदा एक एकै दासलाई उनले भन्दछन्  जाऊ काम गर ।  
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. आऊ काम गरौं, दूतले नपाएको काममा हात लगाऔं
+            <br/>
+            सबैलाई यो सुसमाचार सुनाऔं बित्दै छ बेला ढिलो नगरौं, रात पर्दै छ । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. आऊ काम गरौं शङ्का र डर सबै दूर गरेर, यहाँ सबैले
+            <br/>
+            काम ता गर्नुछ उनले निर्धोबाट गराउँदछ, आफ्नो इच्छा । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. आऊ काम गरौं घाम हुँदा हामीहरू नबिसाऔं ।
+            <br/>
+            जहिलेसम्म हाम्रो धेर काम नहोस् र जबसम्म उनले भन्दैनन्,  तँ दास धन्य ।  
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. आऊ काम गरौं, काम गर्नेले निश्चय पाउनेछन् इनाम
+            <br/>
+            धन्य जो अन्तसम्म स्थिर होलान् ती पाउनेछन् सुख, आनन्द र विश्राम, प्रभुसँग ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

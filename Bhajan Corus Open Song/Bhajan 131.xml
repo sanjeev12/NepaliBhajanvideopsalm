@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan131 Jay Jay Jay Jay Yeshu Le Dinchan</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. जय, जय, जय, जय येशूले दिन्छन् (२)
+            <br/>
+            पूरो मुक्ति येशूले मलाई सित्तै दिन्छन् (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. जय, जय, जय, जय येशू आउनेछन् (२)
+            <br/>
+            तिमीलाई लिन मलाई लिन छिट्टै आउनेछन् (२) 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. जय, जय, जय, जय येशूले दिन्छन् (२)
+            <br/>
+            पूरो मुक्ति येशूले मलाई सित्तै दिन्छन् (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan435 Iswor Pita Hamro Sunnuhos</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. ईश्वर पिता हाम्रो सुन्नोस् खालि साना मान्छे हौं
+            <br/>
+            तै तपाईंलाई ठूलो बिन्ती गर्न अहिले आएका छौं । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. ख्रीष्टको राज्य खुब छिट्टो आओस् ख्रीष्टमा सबले पाऊन् जय
+            <br/>
+            र तपाईंलाई सबले चिनून् सबले मानून् धन्य भई । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. ख्रीष्टको प्रेमको मीठो कुरा सुनिकन मान्छेले
+            <br/>
+            यस संसारमा स्तुति गरून् जस्तो स्वर्गमा दूतले । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. आओस् त्यो संसार तपाईंको हुने घडी हे पिता
+            <br/>
+            किनभने सब तपाईंका राज्य, पराक्रम, महिमा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

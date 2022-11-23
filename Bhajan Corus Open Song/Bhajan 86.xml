@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan86 Halleluya Mili Hami Bhajau</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>कोः हा...हा...हल्लेलूयाह, मिली हामी भजौं, भजन प्रभुज्यूको (२) </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. उनी राजाहरूका राजा, उनको चरणमा आऔं आज (२)
+            <br/>
+            उनको स्तुति गाऔं, उनको महिमा गाऔं (२)
+            <br/>
+            तन मन साथ उनलाई भजौं । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. येशू ख्रीष्ट संसारमा आए, हाम्रो पापको भार उठाए (२)
+            <br/>
+            उनमा विश्वास गरौं, उनको शरण परौं (२)
+            <br/>
+            पाउँछौं मुक्तिदान हामी सब आऔं । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. जातिजातिका मानिस आऔं, प्रभु येशूको गुण गाऔं (२)
+            <br/>
+            उनले पापी मनमा भर्छन् शान्ति पूरा (२)
+            <br/>
+            उनले पापीलाई दिन्छन् जीवन ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

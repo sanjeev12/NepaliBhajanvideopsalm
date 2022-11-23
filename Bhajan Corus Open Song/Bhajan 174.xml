@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan174 Prabhu Ji Timilai K Chadau</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः प्रभुजी तिमीलाई के चढाऊँ, यो मेरो सब जीवन तिमै्र हो,
+            <br/>
+            धन्यवाद तिमीलाई छ सदा, स्तुति लेऊ मबाट सर्वदा । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. तिम्रो प्रेम उदेकको, जो ममा प्रकट भो
+            <br/>
+            म अधर्मी पापीको, अधर्म क्षमा भो,
+            <br/>
+            बढाइ होस् प्रभु येशूको । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. येशू ख्रीष्ट राज गर्नु हरेकको हृदयमा,
+            <br/>
+            चाहन्छन् डोर्याउन, जीवनको बाटोमा,
+            <br/>
+            छिटो आऊ प्रभु येशू कहाँ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

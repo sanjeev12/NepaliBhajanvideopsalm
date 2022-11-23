@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus317 Kati Hola Mulya Ragat Yeshuko</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            कति होला मूल्य रगत येशूको ? कति होला मूल्य येशूको प्रेमको ?
+            <br/>
+            के चुकाउन सक्छौ यो मूल्य तिम्रो सुन र चाँदीले
+            <br/>
+            तिम्रो विद्या र ज्ञानले ? 
+            <br/>
+             क्रूसलाई हेर मुटुमा हात राखी सम्झन येशूको प्रेमलाई,
+            <br/>
+            सम्झन येशूको कष्टलाई
+            <br/>
+            आऊ, सबै जातिकहाँ जाऊँ, येशूको नाउँलाई उचालौँ,
+            <br/>
+            येशूको प्रेम प्रचारौँ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

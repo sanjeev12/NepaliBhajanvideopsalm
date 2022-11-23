@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus33 Mahima Mahima Mahima Hos</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            महिमा (३) होस् २
+            <br/>
+            (ईश्वरलाई महिमा होस्, महिमा होस्) २ 
+            <br/>
+             प्रशंसा (३) होस् २
+            <br/>
+            (ईश्वरलाई प्रशंसा होस्, प्रशंसा होस्) २ 
+            <br/>
+             धन्यवाद (३) होस् २
+            <br/>
+            (ईश्वरलाई धन्यवाद होस्, धन्यवाद होस्) २
+         </lines>
+      </verse>
+   </lyrics>
+</song>

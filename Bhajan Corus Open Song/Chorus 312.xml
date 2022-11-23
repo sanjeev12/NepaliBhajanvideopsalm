@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus312 Aau Bachau Prabhu Haamilai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            आऊ, बचाऊ प्रभु, हामीलाई,
+            <br/>
+            केही देखिँदैन अँध्यारोबाहेक
+            <br/>
+            छेलिदेऊ, छोपिदेऊ ढाकिदेऊ मलाई
+            <br/>
+            येशू प्रभु, भन म के गरूँ, संसारको अन्त अब चाँड़ै हुँदैछ
+            <br/>
+            बादलमाथि तिमी आउँदा चिनिदेऊ मलाई
+         </lines>
+      </verse>
+   </lyrics>
+</song>

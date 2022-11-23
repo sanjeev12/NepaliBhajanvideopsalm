@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan291 Ban Pakha Gunjaedeu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः वन पाखा गुञ्जाइदेऊहै मुक्तिको एउटा गीतले
+            <br/>
+            सत्यको सन्देश भनिदेऊ गीतको भाकाले (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. पापको श्राप मेट्नलाई येशूजी आउनुभो
+            <br/>
+            मान्छेलाई नयाँ रूप दिन रगत बगाउनुभयो (२)
+            <br/>
+            स्वर्गको ढोका खोलेछ उनैको कृपाले
+            <br/>
+            माया गरेर पापीहरूलाई उनैले बचाए,
+            <br/>
+            बताइदेऊ सबैलाई, बुझाइदेऊ सबैलाई, सम्झाइदेऊ सबैलाई । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. हारको जीवन छैन यहाँ अँधेरी जगत्मा
+            <br/>
+            बेमोल छैन मान्छे सब धर्तीको आँगनमा (२)
+            <br/>
+            खोज्नेहरूलाई जीवन छ कलवरी पाखामा
+            <br/>
+            के नै पो थियो, मान्छेको मोल आफ्नै आँखामा,
+            <br/>
+            बताइदेऊ सबैलाई, बुझाइदेऊ सबैलाई, सम्झाइदेऊ सबैलाई ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

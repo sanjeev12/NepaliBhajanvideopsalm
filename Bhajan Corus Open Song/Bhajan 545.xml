@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan545 Hami Uchalau Mahimit Thumalai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. हामी उचालौं महिमित थुमालाई, हामी उचालौं जीवित येशूलाई (२)
+            <br/>
+            गाउँदै बजाउँदै, प्रशंसा गर्दै, चढाऔं धन्यवाद प्रेमी प्रभुलाई (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. हाम्रो प्रार्थनामा हामी उचालौं, हाम्रो वचनमा हामी उचालौं (२)
+            <br/>
+            गाउँदै बजाउँदै, स्तुति गर्दै, चढाऔं धन्यवाद प्रेमी प्रभुलाई (२) 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. प्रशंसासाथ हामी उचालौं, स्तुति गर्दै हामी उचालौं (२)
+            <br/>
+            गाउँदै बजाउँदै, जयजयकार गर्दै, चढाऔं धन्यवाद प्रेमी प्रभुलाई (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan207 Harek Biswasi Garau Prachar</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. हरेक विश्वासी गरौं प्रचार सबै ठाउँमा गरौं यो सुसमाचार
+            <br/>
+            पापी मानिस सबले सुनोस् बारम्बार येशूकहाँ सबै जाऊ ।
+            <br/>
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+            कोः येशू सबैलाई ग्रहण गर्नेछन् देश विदेशको मानिस सबलाई निम्तो छ
+            <br/>
+            कुनै परिले निकालिनेछैन येशूकहाँ सबै जाऊ ।
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+            २. हरेक आउने मानिस ढिलो नगरौं खुल्ला छ यो फाटक, बाहिर नबसौं
+            <br/>
+            यो मुक्तिको पथमा आफ्ना पाऊ, राखौं येशूकहाँ सबै जाऊ ।
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+            ३. यदि मुक्ति खोज्छौ येशूलाई मान मान्छेको बचाउँछन् उनले मात्र प्राण
+            <br/>
+            उनमा विश्वास गरौं, पाउँछौं उनमा त्राण येशूकहाँ सबै आऊ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

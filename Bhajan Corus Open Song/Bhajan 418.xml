@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan418 Bihan Samaya Ropchau</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. बिहान समय रोप्छौं, दयारूपी बिउलाई
+            <br/>
+            दिउँसो पनि गर्छौं, साँझ नपरूञ्जेल
+            <br/>
+            धीरजले काम गर्छौं, फलको आशा राखी
+            <br/>
+            ल्याउनेछौं रमाउँदै, कामको पूरो फल । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः कामको पूरो फल, कामको पूरो फल
+            <br/>
+            ल्याउनेछौं रमाउँदै, कामको पूरो फल २ 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. दुःख सही रोप्छौं, सुख भोगी रोप्छौं
+            <br/>
+            झरीमा जाडोमा, रहन्छौं अटल
+            <br/>
+            काट्ने बेला हामी, पाकेको फल पाउँछौं
+            <br/>
+            ल्याउनेछौं रमाउँदै, कामको पूरो फल । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. प्रभु ख्रीष्टको लागि रुँदै पनि रोपौं
+            <br/>
+            हानिलाई देखेर, नबनौं चंचल
+            <br/>
+            दुःखको अन्त हुन्छ, इनाम पनि आउँछ
+            <br/>
+            ल्याउनेछौं रमाउँदै, कामको पूरो फल ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

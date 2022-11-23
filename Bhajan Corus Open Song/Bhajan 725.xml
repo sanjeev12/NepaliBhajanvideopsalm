@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan725 Janmaiko Paplai Dhoi Maaga</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः जन्मैको पापलाई धोइ माग दाइ हो (२)
+            <br/>
+            येशूको अनमोल रगतले दाई हो । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. धर्म र कर्मले यस जगका मनको पापलाई धुँदैनन ् (२)
+            <br/>
+            कसरी, केले यस जगको पापी मनलाई धुँदछ ? (२)
+            <br/>
+            सुन हे दाई, मन लगाई ईश्वरका पुत्र येशु छन् (२)
+            <br/>
+            येशूको रगतमा शक्ति छ, सबका पापलाई धोइदिन्छ (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. पापको ज्याला मृत्यु हो, ईश्वरको वरदान जीवन हो (२)
+            <br/>
+            गुन है मनमा कुरा सत्य मरण वा जीवन असल हो ?(२)
+            <br/>
+            मार्ग सत्य, जीवन, यी प्रभु येशूमा पाइन्छन् (२)
+            <br/>
+            पश्चात्तापी जो हुन्छ अजम्मरी ऊ हुनेछ (२) 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. यो जगत विनाशकालको पापको खाली सागर हो (२)
+            <br/>
+            धन दौलत यो जगको विभव पनि व्यर्थ हो (२)
+            <br/>
+            चुँडिजान्छ आत्मा दाई शरीर केवल माटो हो (२)
+            <br/>
+            न्याय यहाँ हुनेछन् अन्तिम दिनमा आत्माको (२) 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. अबेर अब नगर्नुहोस्, हृदयद्वार खोल्नुहोस् (२)
+            <br/>
+            दीन र चूर्ण मनले पाप आफ्नो मानिलिनुहोस् (२)
+            <br/>
+            कुकर्म पापलाई त्यागेर धार्मिक जीवन पाउनुहोस् (२)
+            <br/>
+            साँचो मुक्ति पाएर ईश्वरको सन्तान बन्नुहोस् (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

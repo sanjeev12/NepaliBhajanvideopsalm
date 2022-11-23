@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan619 Prabhule Malai Bachaunubho</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः प्रभुले मलार्ई बचाउनुभयो संसारको हरेक मार्गहरूमा
+            <br/>
+            उनैले मलाई देखाउनुभो जीवनको बाटो (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. तिमी नै मेरो सृष्टिकर्ता, तिमी नै मेरो उद्धारकर्ता
+            <br/>
+            उहाँको अनुग्रहद्वारा सबै (२) (बाँच्छौँ हामी सधैँ) २ 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. जवानी जीवनमा धेरै वाधा आउँछ तर हरेस नआऊ तिमी (२)
+            <br/>
+            जीवनको प्रत्येक पाइलाहरूमा (२) (डोर्याउँछन् सदा उनैले) २
+         </lines>
+      </verse>
+   </lyrics>
+</song>

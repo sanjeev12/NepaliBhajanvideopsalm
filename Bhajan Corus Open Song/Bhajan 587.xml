@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan587 Subhakamana Subhakamana</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः शुभकामना, शुभकामना, ख्रीष्ट जन्मदिनको शुभकामना (२)
+            <br/>
+            हामी सबैलाई मुक्ति दिनेको जन्मदिवसको शुभकामना । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. अन्धकारमा यसै हराउनेहरू हो, जीवनको ज्योति येशूलाई बनाऊ (२)
+            <br/>
+            स्वागत गरेर तिम्रो जीवनमा ख्रीष्ट येशूलाई अब आफ्नो बनाऊ (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. मुक्तिको निम्ति घुम्नेहरू हो, नियालेर खोज मुक्ति कहाँ छ ? (२)
+            <br/>
+            गाइको गोठमा जिउनेहरू हो त्यहिँ जन्मेको येशूलाई रोज (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

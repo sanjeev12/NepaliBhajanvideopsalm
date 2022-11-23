@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan714 Jaslai Timi Iswor Bhanchau</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः जसलाई तिमी ईश्वर भन्छौ जान्दछौ के उहाँलाई ?
+            <br/>
+            नौलो टाडो, मानवदेखि ठान्दछौ के उहाँलाई ? जसलाई तिमी... 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. कहाँ ? किन ? कसरी ? के ? प्रश्नले भेट्टाइन्न
+            <br/>
+            ज्ञान, बुद्धि र सम्पत्तिले, किन बुझन सकिन्न । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. ईश्वर हाम्रा सृष्टिकर्ता, खान, लाउन जुटाउने
+            <br/>
+            तातो र चिसो ऋतु दिने, दिन र रातको दान दिने । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. खोजी गर्दै मानव बनी लिनुभयो येशू नाम,
+            <br/>
+            मरेकालाई जीवन दिने तिम्रा ईश्वर येशू नाम ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan384 Timi Euta Bacheko Manche</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः तिमी एउटा, बाँचेको मान्छे ख्रीष्टको अनुग्रहले
+            <br/>
+            छानिएको हजारौंबाट साक्षी देऊ तिमीले । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. त्यो रूखलाई हेरी बुझ न तिमी, ग्रीष्म नजिक छ (२)
+            <br/>
+            ईश्वरको राज्य आइपुगेको छ (२) समयलाई बुझ न । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. नूहलाई सम्झ प्रलय हुँदा, मानिसको मूर्खता (२)
+            <br/>
+            सो बुझी आजै जोशिलो भई (२) ल्याऊ भित्र बोलाई । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. प्रभुलाई सम्झ इनारको छेउमा पर्खेका एउटालाई
+            <br/>
+            वरदान पाई गाग्रो छोडेर (२) तब सहरमा गइहाली । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. हे प्रिय आज तिमीले केही त्याग निश्चय
+            <br/>
+            येशूको प्रेमले प्रेम गरौं सबलाई (२) यो मौका आजै छ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

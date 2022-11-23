@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus266 Aaunuhos Prabhu Tapai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            आउनुहोस् प्रभु तपाईं, हाम्रो माझमा,
+            <br/>
+            दिनोस् तपाईंको पवित्र आत्मा 
+            <br/>
+             तपाईंको आनन्दले भरिन सकूँ,
+            <br/>
+            तपाईंलाई सधैँ धन्यको भनूँ 
+            <br/>
+             हल्लेलूयाह (४) स्तुति गर्छु (३) तपाईंलाई ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

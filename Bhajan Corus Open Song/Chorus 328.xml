@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus328 Abba Pita Tapaimai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. अब्बा पिता तपाईमैं मात्र म रहूँ,
+            <br/>
+            मेरो इच्छा तपाईंकै जस्तो सदा रहोस्
+            <br/>
+            मेरो हृदय ननिभाऊनुहोस्
+            <br/>
+            मलाई नछोड्नुहोस्
+            <br/>
+            अब्बा पिता तपाईंमैं मात्र म रहूँ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan648 Anautho Yo Sansarma</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः अनौठो यो संसारमा ख्रीष्ट येशूलाई पाएँ मैले (२)
+            <br/>
+            छोटो जीवनको गोरेटोमा (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. अघिअघि येशू हिँडे, पछिपछि म हिँड्न लागेँ (२)
+            <br/>
+            जीवनको गोरेटोमा ख्रीष्टले मलाई अंगालेर (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. क्षितिजमाथि आकाशमा उड्छ मन बेगमारी (२)
+            <br/>
+            मुक्तिदाता पाएँ मैले यो मन दिएँ भेटी सरी (२) 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. आशा मिल्यो ख्रीष्ट येशूमा रम्न थाल्यो मन मेरो (२)
+            <br/>
+            सत्य वचन अंगालेर हिँड्न लागेँ ख्रीष्टको बाटो (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

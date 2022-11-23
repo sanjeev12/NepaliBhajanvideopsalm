@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan684 Mero Biswasko Sano Sadanma</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v2 v3 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            को: मेरो विश्वासको सानो सदनमा नयाँ बिहानीको किरण भयौ,
+            <br/>
+            प्रभु तपाईं यो मेरो जीवनमा (कहिले नछुट्ने किनार भयौ) २ 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             १. हिँड्नु छ मैले बिर्सेर ती पाइलाहरू, रोज्नुछ केवल दुर्गम ती बाटोहरू, (२)
+            <br/>
+            कतै टाढा भएँ, बिरानो भएँ, संसारको लेखी केवल अर्कै भएँ (२) 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             २. रित्तो छ यहाँ ख्रीष्टरहितका आस्थाहरू, अन्त छ केवल मूल्यहीन ती जीवनहरू (२)
+            <br/>
+            कतै नौलो भएँ, पुरानो भएँ, तपाईंको निम्ति केवल अर्कै भएँ (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

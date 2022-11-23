@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan80 Daudbansi Yeshu Khristh</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. दाऊदवंशी येशू ख्रीष्टको स्तुति गर, हे भाइ (२)
+            <br/>
+            स्वर्गबाट ओर्ली आए, बचाउन हामीलाई (२)
+            <br/>
+            होशन्ना होशन्ना, आनन्द जगतमा । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. मानिस औतार गरी धारण, आए नरलोकमा
+            <br/>
+            अमोल प्राण त्यागी सबलाई पारेनन् शोकमा ।
+            <br/>
+            होशन्ना येशू नाउँ दिए स्वर्ग धाम । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. पिता ईश्वर महिमा उनको, सारा संसारमा
+            <br/>
+            चन्द्र, सूर्य, सृष्टि सारा मिली भनून् महिमा ।
+            <br/>
+            होशन्ना, होशन्ना नयाँ यरूशलेममा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

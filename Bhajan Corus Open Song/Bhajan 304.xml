@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan304 Jiwan Adhyaroma Jaba Auncha</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. जीवन अँध्यारोमा जब आउँछ दुःख, जब हरेस खान्छौ र हराउँछ सुख
+            <br/>
+            तब आशिष् गन, येशूलाई हेर, आशिष् गन्दा गन्दै, लौ त कति धेर । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+             कोः आशिष् गन, गन एकै एक, आशिष् गन, हेर छन् अनेक
+            <br/>
+            आशिष् गन, छक्क पर्नेछौ, प्रभुले तिमीलाई कति दिनुभो । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. फिक्री, शोकको भारी तिमी बोक्छौ कि आउने दिनको लागि बाँचौं कसरी
+            <br/>
+            बाइबल पढ्दाखेरी तिमी बुझ्नेछौ, हाम्रा प्रेमी पिताबाट सब पाउँछौं । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. धन सम्पत्ति हेर्दा थुप्रै अर्कैको, तब सम्झौं हाम्रो धन छ स्वर्गको,
+            <br/>
+            यस संसारको धनले शान्ति मिल्दैन, तर येशू डाक्छन् जहाँ पीर छैन । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. दिन दिन लडाइँ हुन्छ, छँदा संसारमा, शैतान जित्न खोज्छ हामीलाई सदा
+            <br/>
+            येशू छेउमा बस्दा शक्ति दिनेछन्, स्वर्ग नपुगेसम्म आशिष् गन्दै गन ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

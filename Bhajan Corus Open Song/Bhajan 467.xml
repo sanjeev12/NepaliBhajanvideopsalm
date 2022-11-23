@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan467 Arpan Gardachau Yo Bhawanlai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. अर्पण गर्दछौं यो भवनलाई सृष्टिका प्रभु ईश्वरलाई, त्राणकर्ता येशूलाई
+            <br/>
+            आराधना, स्तुति, बिन्ती र पुकार, गर्छौं यहाँ अब अन्तरध्यान । 
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines> कोः सुनिलिनोस् पुकार यो हाम्रो, प्रभु लिनुहोस् भवन यो (२) </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. भोका प्यासा हृदय, स्वर्गीय भोजनको बन्धन डोरी पापैको
+            <br/>
+            चरण यहाँ तपाईंको उपदेशक, तपाईंको दासद्वारा दिनुहोस् भोजन आत्माको । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. भजनादि स्तुति, अर्जबिन्ती यहाँ चढाइन्छन् जब तपाईंकहाँ,सुनिलेऊ ख्रीष्ट येशूमा
+            <br/>
+            विनय उत्तर पाओस्, मन शान्ति रहोस्, येशू नाउँ सदा महिमित होस् । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. प्रतिरूप हो यो मन मन्दिरको, कारिगरी यो मानिसको, प्रभु निर्जीव भवन यो
+            <br/>
+            तै मर्जी होओस् प्रभु, आई बसी सुनौला मधुरबाणी तपाईंको । 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. नित्य नित बलोस् चम्कि नै रहोस् प्रकाशित होओस् येशू,सदा भवन यो छ जहाँ
+            <br/>
+            हराभरा जीवन तयारी सदा पार्नुहोस् आउँछन् जो यहाँ सदा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

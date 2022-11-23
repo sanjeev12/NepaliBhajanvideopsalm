@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus42 Uhanle Malai Satyanasko</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            उहाँले मलाई सत्यनाशको खाड़ल र
+            <br/>
+            दलदले हिलोबाट तानेर निकाल्नुभयो, 
+            <br/>
+             उहाँले मेरा खुट्टाहरूलाई चट्टानमाथि बसाल्नुभयो
+            <br/>
+            उहाँले एउटा नयाँ गीत मेरो मुखमा हालिदिनुभो 
+            <br/>
+             हाम्रो परमेश्वरको स्तुति (४)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

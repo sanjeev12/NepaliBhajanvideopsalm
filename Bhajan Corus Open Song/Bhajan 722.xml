@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan722 Yeshu Nai Hamro Gothalo</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः येशू नै हाम्रो गोठालो हुन्, येशू नै हाम्रो सहारा हुन्
+            <br/>
+            उनैको कोमल अनुग्रहमा, यो जीवन विताइदेऊ यहाँ (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. संसारको हाम्रो यात्रामा, वाधा विघ्नहरू धेरै छन्
+            <br/>
+            लक्ष्यमा पुग्न हामीलाई, कठिनाइ धेरै सहनु पर्छ
+            <br/>
+            यसर्थ हाम्रो इच्छाहरूलाई, उनैको हातमा सुम्पिदेऊ
+            <br/>
+            उनैको निश्चित अगुवाइमा, यो जीवन जिउने प्रण गरौँ । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. जिउँदो ख्रीष्टको सहारामा, वाधाहरूलाई झेल्न सकौँ (२)
+            <br/>
+            उनको आत्माको अगुवाइमा, लक्ष्यमा सजिलै पुग्न सकौँ
+            <br/>
+            हामी सबै एक भएर, उनैको महिमा गाइरहौँ
+            <br/>
+            जीवनको अन्तिम क्षणसम्म, उनको प्रशंसा गाइरहौँ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

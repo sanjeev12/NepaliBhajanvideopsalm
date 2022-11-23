@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan703 Aayo Sabai Farkera</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः आओ, सबै फर्केर, प्रभु येशूकहाँ नगरी बेर
+            <br/>
+            यो जीवन छोटो छ, मुक्तिको दिन छैन अब धेर । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. जब येशूकहाँ गएँ, पाप क्षमाको दान पाएँ,
+            <br/>
+            मुक्तिको अनुभव गरें, उनको नामको यश गाएँ । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. येशू हुन् उदेकको नाथ, धुनेछन्, तिम्रो सब पाप
+            <br/>
+            गरेर अधर्म माफ, राख्नेछन् तिमीलाई साथ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

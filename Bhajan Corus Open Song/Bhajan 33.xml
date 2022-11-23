@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan33 Gothalaharu Bhedalai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 v5 v6 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. गोठालाहरू भेडालाई रातमा कुर्दै थिए
+            <br/>
+            तब स्वर्गदेखि दूत ओर्ली महिमासाथ आए । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. लौ नडराऊ दूतले भने म प्रचार गर्नलाई
+            <br/>
+            आएको छु, सब मान्छेलाई सुसमाचार दिनलाई । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. तिम्रो लागि छन्, जन्मेका राजा कुलदेखि
+            <br/>
+            त्राणकर्ता प्रभु आजको दिन देख्न पाउँछौ तिमी । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. एक बालक तिमी देख्नेछौ दाऊदको सहरमा
+            <br/>
+            लुगामा बेहरी राखेको र पस्रेको डुँडमा । 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. जब यति कुरा भनेथे अचानक आएथे
+            <br/>
+            सारा स्वर्गीयदूतगणले यो गीत आनन्दसाथ गाए । 
+         </lines>
+      </verse>
+      <verse name="v6">
+         <lines>
+             ६. गुणानुवाद होस् ईश्वरको र जगमा होस् शान्ति
+            <br/>
+            होस् खुसी मान्छेमा अहिले अनि सदाभरि ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

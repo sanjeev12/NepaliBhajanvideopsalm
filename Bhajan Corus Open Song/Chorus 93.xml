@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus93 Aaba Jagriti Aayeko Cha</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            अब जागृति आएकोछ यो देशमा (२) 
+            <br/>
+             पूर्वदेखि पश्चिमसम्म, उत्तरदेखि दक्षिणसम्म
+            <br/>
+            अब जागृति आएकोछ (३) यो देशमा 
+            <br/>
+             येशू माथि उचालिनुहुनेछ यो देशमा (२)
+            <br/>
+            मेचीदेखि महाकालीसम्म, हिमालयदेखि तराईसम्म येशूलाई 
+            <br/>
+             येशूलाई सबैले चित्रेछन्
+            <br/>
+            येशू माथि उचालिनुहुनेछ यो देशमा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

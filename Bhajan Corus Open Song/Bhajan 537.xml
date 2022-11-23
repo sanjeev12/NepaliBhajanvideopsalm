@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan537 Satabdile Hera Aba Fatko</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः शताब्दीले हेर अब फट्को मारेछ, निशानामा पुग्नलाई गाह्रो पारेछ
+            <br/>
+            भोलि भोलि भन्दै अब नबसौं, महान् आज्ञा पूरा गर्न कम्मर कसौं २ 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. विद्यार्थी हौ हामीहरू युगलाई हाक्ने, अन्याय र अत्याचार उठाएर फ्याँक्ने (२)
+            <br/>
+            उठौं साथी विद्यार्थी हो, कम्मर कसेर, लक्ष्य हाम्रो पूरा हुन्न (यसै बसेर आहै)३ 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. विद्यार्थी विद्यार्थीलाई चेला बनाउँदै, हाम्रो यही कर्तव्य हो भनी चिनाउँदै (२)
+            <br/>
+            लागौं अब अभियानमा कम्मर कसेर, लक्ष्य हाम्रो पूरा हुन्न (यसै बसेर आहै) ३
+         </lines>
+      </verse>
+   </lyrics>
+</song>

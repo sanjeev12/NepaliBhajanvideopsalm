@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan152 Prabhu Hidchau Jati Bachan</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 v5 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. प्रभु हिँड्छौं जति वचन हुन्छ बत्ती
+            <br/>
+            जसले विश्वास लाउँछ, हर्ष ज्योति पाउँछ । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. जब शत्रु आउँछ, वचनले सम्झाउँछ
+            <br/>
+            साहस दिने शिक्षा मुक्तिको प्रतीक्षा । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. आउँदा मेघ अँध्यारो जब घर छ टाढो
+            <br/>
+            यात्री वचन लिन्छ बाटो देखाइदिन्छ । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. वचन केको तुल्य ? कति बहुमूल्य १
+            <br/>
+            सुख–विलासको कारण मान्छेलाई साधारण । 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. परमेश्वरका कुरा बुझौं वचन पूरा
+            <br/>
+            तपाईंलाई प्रेम गरी बसौं सधैँभरी ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan743 Yo Mero Sano Sarir</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः यो मेरो सानो शरीर प्रभु तपाईंको झोली हो (२)
+            <br/>
+            झोली पखालिदेऊ न प्रभु क्रूसको रगतले
+            <br/>
+            झोली भरिदेऊ न प्रभु पवित्र आत्माले (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines> १. यो मेरो सानो घर झोपडी तपाईंकै झोली हो । </lines>
+      </verse>
+      <verse name="v2">
+         <lines> २. यो मेरो सानो खेत र बारी तपाईंकै झोली हो । </lines>
+      </verse>
+      <verse name="v3">
+         <lines> ३. यो मेरो सानो गाउँ र शहर तपाईंकै झोली हो । </lines>
+      </verse>
+      <verse name="v4">
+         <lines> ४. यो सारा जगत् संसार प्रभु तपाईंकै झोली हो ।</lines>
+      </verse>
+   </lyrics>
+</song>

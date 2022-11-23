@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan497 Bistrit Ra Gahiro</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. विस्तृत र गहिरो अझ गहिरो सागरभन्दा
+            <br/>
+            प्यार छ मुक्तिदाता ख्रीष्टको काल अनन्त अनन्तसम्म । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. तर पाप मेरा छन् अनेक के छ प्यार उनको महान् ?
+            <br/>
+            अनुग्रह सब पापको लागि क्षमा दिने राख्ने प्राण । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. मेट्न सक्छन् तिर्खा सधैँ के आत्माले दिन्छ बल ?
+            <br/>
+            जीवन जल पिलाउँछन् उनले हृदयदेखि बग्छ भल ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

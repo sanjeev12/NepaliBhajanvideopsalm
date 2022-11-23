@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus293 Malai Tapaiko Muhar</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            मलाई तपाईंको मुहार देखाउनुहोस् (२)
+            <br/>
+            येशू, तपाईंको मुहार मलाई देखाउनुहोस्, (२)
+            <br/>
+            तपाईंको सुन्दरतालाई हेर्न तपाईंको मुहारलाई सधैँ नियाल्न (२)
+            <br/>
+            येशू, तपाईंको मुहार ममा चम्काउनुहोस् (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

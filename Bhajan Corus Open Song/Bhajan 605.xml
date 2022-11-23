@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan605 Prabhuko Bani Sunana</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः प्रभुको वाणी सुनन साथी, समय यो हुँदा नै,
+            <br/>
+            दुइ दिनको जीवन पलकमा बित्छ, पाउनु त के छ र ? (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. यो गर्छु भन्दै त्यो गर्छु भन्दै जीवन बित्दैछ (२)
+            <br/>
+            छोटो यो जीवन बितेर जान्छ, लानु त के छ र ? (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. मरणपछि कसैलाई आगो, कसैलाई मट्टीमा (२)
+            <br/>
+            मुक्ति नपाए आत्मा त पर्छ, नरकको भट्टीमा (२) 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. ज्ञानी र मुर्ख गरीब र धनी नमर्ने को छ र ? (२)
+            <br/>
+            प्राण गएपछि साँचो न्यायबाट को पो उम्कन्छ र ? (२) 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४.  म दिन्छु शान्ति उद्धार र मुक्ति  प्रभुको वाणी छ (२)
+            <br/>
+            यै प्रभुमाथि विश्वास गरी उद्धार पाउनु छ (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

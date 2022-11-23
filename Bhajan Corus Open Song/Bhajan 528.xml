@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan528 Dhintang Tang Dhintang Tang</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः धिन्ताङ ताङ, धिन्ताङ ताङ मादल बज्यो (२) आ .... हा लौ है, हेर
+            <br/>
+            बेथलेहेमको गाईको गोठमा जन्मेका है येशू राजा, हेर है, हेर लौ, हेर 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. भविष्यवक्ताले भनेका झैं हा हा हा (२) शब्द शब्द पूरा हुन गो
+            <br/>
+            मुक्तिमा दाता आउनु नै भो, थुमा नाउँले प्रख्यात हुनुभो (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. स्वर्गीयदूतले नै तर्साए हा हा हा (२) शान्तमय पारी सबलाई सुनाए
+            <br/>
+            खबर सत्य र उदेकैको सारा संसारलाई नै भो (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

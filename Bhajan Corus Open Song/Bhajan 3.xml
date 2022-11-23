@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan3 Ishwor Maharajlai Gara Pranam</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 v5 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. ईश्वर महाराजलाई गर प्रणाम, अँ गाऊँ, उनका गुण सामर्थ र प्रेम
+            <br/>
+            जो हाम्रा छन् ढाल र रक्षक सधैँ, जो बस्छन् प्रतापमा पैहर्न स्तुत्यलाई । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. प्रताप अनि तेज त गर प्रकाश, हो वस्त्र उज्यालो डेरा आकाश
+            <br/>
+            हुन् रथ उनका, गर्जनका बादलहजार बतासका पखेटामा हुन्छन् सवार । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. भूलोक अनि त्यसका उदेकका धन बसाल्यौ तपाईंंले सर्वशक्तिमान्
+            <br/>
+            स्थिर आज्ञाले गर्यो दरिलो त्यसलाई र घेर्यो समुद्रले खाष्टाले झैँ । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. तपाईंंको निधोले राखी विश्वास सब खाँचो अन्सारको भेट्छ निकास
+            <br/>
+            तपाईंंको अनुग्रह अपार छ सब रीत हे कर्ता, हे रक्षक, हे त्राणक, हे मित । 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. तपाईंको सब प्रेम, कसरी बयान, ती हावा र घाम छन् प्रकाशमान्
+            <br/>
+            पहाडबाट झर्छ र छिर्छं तराई, अँ बर्षा र शीतमा चुहुन्छ सधैँ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

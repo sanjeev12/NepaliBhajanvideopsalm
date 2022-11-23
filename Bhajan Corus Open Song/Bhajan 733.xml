@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan733 Paramprabhuko Nauma Anandsath</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः परमप्रभुको नाउँमा आनन्दसाथ
+            <br/>
+            गर्दछौँ स्तुति महिमा जीवनभर (२)
+            <br/>
+            परिश्रम हाम्रो प्रतिफल तपाईंकै होस्
+            <br/>
+            आशिष्को झरीले भिजाउनुहोस् (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. स्वर्गीय प्रेममा समर्पित यो तन मन
+            <br/>
+            गर्दछौँ अर्पण तपाईंलाई यो जीवन
+            <br/>
+            परिश्रम हाम्रो प्रतिफल तपाईंकै होस्
+            <br/>
+            आशिष्को झरीले भिजाउनुहोस् (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. शान्ति र आनन्द तपाईंकै देहमा
+            <br/>
+            प्रशस्त बर्षाउनुहोस् अनुग्रहमा (२)
+            <br/>
+            परिश्रम हाम्रो प्रतिफल तपाईंकै होस्
+            <br/>
+            आशिष्को झरीले भिजाउनुहोस् (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

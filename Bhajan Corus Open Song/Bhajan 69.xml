@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan69 Yeshu Muktidata Hun</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. येशू मुक्तिदाता हुन्, जगत त्राणकर्ता हुन् (२)
+            <br/>
+            आउँछौं उनको चरणमा जीवन उनैमा । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. खालि आशा उनैमा, छैन अरू कसैमा (२)
+            <br/>
+            प्रभु दिनुहोस् मुक्ति, सुन्नुहोस् बिन्ती । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. दया दुःखितमाथि भो उद्धार मेरो हे प्रभु (२)
+            <br/>
+            प्रभु ख्रीष्टको गुण गाऔं, उनको पछि जाऔं । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. धन्य ईश्वर कृपालु, दीन अनि दयालु (२)
+            <br/>
+            होस् उनको महिमा सारा जगतमा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

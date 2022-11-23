@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan407 Bir Hou Hami Bir</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः वीर हौं हामी, वीर प्रभुका सेना बनेका छौं
+            <br/>
+            जयवन्त प्रभुको आज्ञा पाई घोषणा गर्दछौं । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. एक मात्र जीवन यो ऋणी छु येशूको
+            <br/>
+            बाँकी जीवन पूर्ण समय आफ्नो होइन तपाईंको । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. दगुर्दै दगुर्दै मुक्तिका राँका लिई
+            <br/>
+            आफ्नो देशको सब जिल्लामा चम्कन जाऊँ ज्योति भई । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. बाटो छ उकालो कष्टले भरेको
+            <br/>
+            डाँडापारि देख्दछु म कति आत्मा मरेको । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. यो देशले जबसम्म ख्रीष्टको प्रेम चाख्दैन
+            <br/>
+            सुख चैन त्यागी क्रूसै बोकी जाँदै नगई भएन ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

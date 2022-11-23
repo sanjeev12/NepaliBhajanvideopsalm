@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan717 Stuti Gauchu Priya Prabhuko</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः स्तुति गाउँछु प्रिय प्रभुको छल्की आनन्द पोखिँदछ
+            <br/>
+            सम्झी त्यो निस्वार्थ प्रेम कलवरीको हृदय थाम्न सक्तिनँ । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. ईश्वरको प्रेमको कथा, एउटै पुत्र छन् क्रूसमा चिरा
+            <br/>
+            कसले दिन्छन् र आफ्नो मुटु
+            <br/>
+            त्यागेर सबका निम्ति सहन पीडा (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. अमर जीवन दिए आफ्नै जीवन मलाई दिएर
+            <br/>
+            दश हजारमा उत्तम प्रभु कुरूप भए
+            <br/>
+            थुकाइ कुटाइ निन्दा सहेर (२) 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. परदेशी यस संसारमा चिरस्थायी म रहनेछैन
+            <br/>
+            तर अनन्तको प्रेम मप्रति प्रभुुको
+            <br/>
+            चिहानपारि पनि चिँडिन्नँ (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan216 Papko Bhardekhi</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. पापको भारदेखि के छुट्न माग्छौ ? ख्रीष्टको रगतमै छ शक्ति नै
+            <br/>
+            शैतानमाथि जयवन्त हुन खोज्छौ ? उदेक शक्ति छ रगतमा ।
+            <br/>
+         </lines>
+      </verse>
+      <verse name="c1">
+         <lines>
+            कोः भन जय, जय, उदेकको शक्ति छ रगतमा, रगतमा
+            <br/>
+            भन जय, जय उदेकको शक्ति छ येशूको अमोल रगतमा ।
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+            २. पापको घमण्डलाई के छोड्न माग्छौ ख्रीष्टको रगतमै छ शक्ति नै
+            <br/>
+            कलवरी क्रूसनिर शुद्ध हुन आऊ उदेक शक्ति छ रगतमा ।
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+            ३. हिउँभन्दा सफा के हुन माग्छौ ? ख्रीष्टको रगतमै शक्ति नै
+            <br/>
+            रगतमा पाप आफ्ना पखाल्न जाऊ उदेक शक्ति छ रगतमा ।
+            <br/>
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+            ४. के येशू राजाको सेवा गर्छौ ? ख्रीष्टको रगतमै छ शक्ति नै
+            <br/>
+            के ख्रीष्टको जय सधैँ गर्न माग्छौ ? उदेक शक्ति छ रगतमा ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

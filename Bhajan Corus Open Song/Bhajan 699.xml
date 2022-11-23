@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan699 Thakisakeko Yatrama Yeshulai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः थाकिसकेको यात्रामा येशूलाई भेटेँ
+            <br/>
+            येशूलाई विश्वास गरी मैले जीवन पाएँ
+            <br/>
+            जीवनको सबै उद्धार येशूमा मैले पाएँ 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. बाटो, सत्य र जीवन आज मेरो निम्ति ख्रीष्ट येशू (२)
+            <br/>
+            साँचो, शान्ति र आनन्द दिई डोर्याउनुभयो मलाई (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. जिउन सिकाउनुहोस् प्रभु मलाई जीवनको हरेक मोडमा (२)
+            <br/>
+            जिउनेछु सधैँ तपाईंमा सम्हाल्नुहोस् प्रभु मलाई (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

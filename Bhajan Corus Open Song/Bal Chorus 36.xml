@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bal Chorus36 Naachnechau Haami Naachnechau</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            नाच्नेछौँ, हामी नाच्नेछौँ, गाउनेछौँ हामी गाउनेछौँ
+            <br/>
+            दुःख, भोक, तकलीफ हामीलाई मिल्छ यहाँ
+            <br/>
+            आनन्द जीवन, सुख हामीलाई मिल्छ त्यहाँ हा... हा...
+            <br/>
+            नाच्नेछौँ, हामी नाच्नेछौँ, गाउनेछौँ, हामी गाउनेछौँ ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

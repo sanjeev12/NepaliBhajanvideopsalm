@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan660 Doryaunuhos Prabhu Malai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v2 c1 v3 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines/>
+      </verse>
+      <verse name="c1">
+         <lines>
+            कोः डोर्याउनुहोस् प्रभु मलाई समाती मेरो हातमा
+            <br/>
+            वात्सल्य प्रेम दिँदै (राख्नुहोस् आफ्नो साथमा) २ 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             १. निराश भएका क्षणहरूमा विचलित भई मात्तिने म मान्छे (२)
+            <br/>
+            बलेको बत्ती झैँ भएको यो जीवन (२) फुकी मार्न खोज्ने त्यही हुँ म मान्छे 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             २. बाँचिरहेछु तिम्रो दयामा अनुग्रहको भारी पाएको म मान्छे (२)
+            <br/>
+            तिम्रै कृपाले म शुद्ध भएको (२) तिम्रै इच्छामा जिउँने म मान्छे ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

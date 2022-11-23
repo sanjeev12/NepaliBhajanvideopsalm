@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus204 Jagriti Pathaunuhos</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः जागृति पठाउनुहोस्, हे हाम्रा स्वर्गीय पिता
+            <br/>
+            तपाईंको नाउँ पवित्र होस्, तपाईंको राज्य आओस् (२)
+            <br/>
+            तपाईंको इच्छा जस्तो स्वर्गमा छ, त्यस्तै यस पृथ्वीमा पूरा होस् । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. म बिहान सबेरै उठ्नेछु, स्तुति प्रशंसा चढाउनेछु
+            <br/>
+            येशूको नाउँलाई महिमित पार्नेछु,
+            <br/>
+            मरिरहेका आत्माको मुक्ति र उद्धारको लागि
+            <br/>
+            अन्तरबिन्तीको प्रार्थना चढाउनेछु (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. म भाले बास्दा उठ्नेछु, स्तुति प्रशंसा चढाउनेछु,
+            <br/>
+            येशूको नाउँलाई महिमित पार्नेछु,
+            <br/>
+            लाखौँ लाखौँ मानिसले येशू प्रभुलाई ग्रहण गरी
+            <br/>
+            मुक्ति र उद्धार पाएको म देख्नेछु (२) 
+            <br/>
+             जागृति पठाउनुहोस्...
+         </lines>
+      </verse>
+   </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus105 Ishwor Thuma Pabitra</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            ईश्वर थुमा, पवित्र येशू ख्रीष्ट, ईश्वर पुत्र,
+            <br/>
+            उचालिए राजी भई मर्नलाई 
+            <br/>
+             मजस्तो दोषीले जानूँ रगत बग्यो,
+            <br/>
+            अझ बग्दैछ, शुद्ध पार्दै, निको पार्दै । 
+            <br/>
+             म उच्च पार्छु येशू, मेरो बलिदान,
+            <br/>
+            उच्च पार्छु मुक्तिदाता, मेरा प्रभु 
+            <br/>
+             म उच्च पार्छु, परमेश्वरका थुमा,
+            <br/>
+            दण्डवत् गर्छु तपाईंलाई सिंहासनअघि ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

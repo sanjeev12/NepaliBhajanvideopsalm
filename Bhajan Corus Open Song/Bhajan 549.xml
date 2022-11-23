@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan549 Hamro Pirlai Bujhidine</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः हाम्रो पीरलाई बुझिदिने प्रभु येशू हुनुहुन्छ (२)
+            <br/>
+            हाम्रो आँसुलाई पुछिदिने ख्रीष्ट येशू हुनुहुन्छ (२)
+            <br/>
+            हाम्रो पीरलाई बुझिदिने प्रभु येशू हुनुहुन्छ । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. यो धरतीको मान्छेले कहिले शान्ति दिने होइन (२)
+            <br/>
+            यो नयनको आँशुलाई पीर भनेर बुझ्ने होइन । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. यो धरतीको हाँसोले कहिले पीरलाई लाने होइन (२)
+            <br/>
+            यो जीवनको आनन्दले सधैँ साथ दिइराख्ने होइन ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

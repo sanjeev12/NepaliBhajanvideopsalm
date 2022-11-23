@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan297 Mera Hridayaka Pirharu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः मेरा हृदयका पिरहरू प्रभुसँग पोखाएँ
+            <br/>
+            मुटुभित्रका चोटहरू मेरो मालिकलाई देखाएँ । 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. येशूको तेजमय हेराइले पीरहरू हटिगयो (२)
+            <br/>
+            उनको कोमल स्पर्शले चोटहरू निको भयो
+            <br/>
+            मेरो प्याला छछल्केर थोपाहरू खस्न लागे । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. येशूको प्रेमको प्रकाशले जीवन ज्योतिर्मय भयो (२)
+            <br/>
+            ख्रीष्टको वचनको शक्तिले जीवन कोमल भयो
+            <br/>
+            मेरो प्याला छछल्केर थोपाहरू खस्न लागे ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

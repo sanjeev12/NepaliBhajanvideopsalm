@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan565 Saubhagya Prithvima Prabhu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः सैभाग्य पृथ्वीमा प्रभु येशूको गीत गाउनुभन्दा ठूलो के हो (३)
+            <br/>
+            हो, सौभाग्य 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. उनको ठूलो अनुग्रह भो, मानिस ईश्वरको मिलाप भयो
+            <br/>
+            हो हो हो बन्धन सबै टुटिगए, शक्ति शैतानको सखाप भयो
+            <br/>
+            खुसीको बाँध टुट्यो, हृदय उमङ्गले भर्यो, अपूर्व हेर छुटकारा मिल्यो (२)
+            <br/>
+            (प्रशंसा) २ हृदय खोली धरती गुञ्जाउने हो
+            <br/>
+            निराशालाई भगाउने हे हे हे हे हो । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. के भो के भो हृदय मेरो स्वर्गीय प्रेमले नयाँ भयो
+            <br/>
+            हो हो हो पापी मेरो जीवनमा येशू प्रभुको दया भयो
+            <br/>
+            रमाइलो धुन सज्यो, नौलो यो राग बज्यो, स्वर्गको तालमा हृदय नाच्यो (२)
+            <br/>
+            (फैलाउँदै) २ धरतीभरि जाति जातिमाझ,
+            <br/>
+            सुसमाचारलाई सुनाउने हे हे हे हे हो ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

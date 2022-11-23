@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan691 Bhajan Ma Gauchu</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः भजन म गाउँछु प्रभु प्रशंसाले आज (२)
+            <br/>
+            हरपल तिम्रो महिमा गाउँछु (२) तिर्सना लिएर 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. टुटेको छु नम्र बनेर केवल येशूमा आस्था राखेर (२)
+            <br/>
+            दर्शन देऊ प्रभु अभिलाषी छु यो दुःखीको अर्जी सुनिदेऊ (२)
+            <br/>
+            हरपल तिम्रो महिमा गाउँछु (२) तिर्सना लिएर 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. अँजुलिभरि पश्चात्तापी आँसु पोखिरहेछु ख्रीष्टको चरणमा (२)
+            <br/>
+            विवशका गोरेटोहरूमा ख्रीष्टको मधुर आवाज सुत्र सकूँ म (२)
+            <br/>
+            हरपल तिम्रो महिमा गाउँछु (२) तिर्सना लिएर
+         </lines>
+      </verse>
+   </lyrics>
+</song>

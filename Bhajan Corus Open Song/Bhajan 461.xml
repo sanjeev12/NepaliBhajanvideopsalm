@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan461 Yeshu Sihasandekhi Math</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>v1 v2 v3 v4 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            १. येशू सिंहासनदेखि माथि स्वर्गमा बसी
+            <br/>
+            प्रेमी दृष्टिले हेरी सुन्नुहोस् प्रिय येशू । 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. बालक मान्दैनन् डरै हुनुभए साथ तिनकै
+            <br/>
+            प्रिय त्राणक प्यार गर्दै सुन्नोस् प्रिय येशू । 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. हुनोस् हाम्रो साथ सदा हाम्रा काम र खेलकुदमा
+            <br/>
+            जब चढाउँछौं प्रार्थना सुन्नोस् प्रिय येशू । 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. हाम्रो सोच होस् पवित्र, बात होस् सत्य र नम्र
+            <br/>
+            लौ, बनाउनोस् पवित्र सुन्नोस् प्रिय येशू ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>

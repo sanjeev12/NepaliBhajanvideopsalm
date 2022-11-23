@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Bhajan139 Yeshu Khristh Aba Chadai</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 </verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="c1">
+         <lines>
+            कोः येशू ख्रीष्ट अब चाँडै आउनेछन् चिन्ह सबै पूरा हुँदै छन्,
+            <br/>
+            मानिस पाप र ज्ञानद्वारा अन्धा बनी प्रभुदेखि टाढा भइरहनेछन् (२) 
+         </lines>
+      </verse>
+      <verse name="v1">
+         <lines>
+             १. सब मानिस पापैले भरिएका छन् पापैमा बढिरहेछन् (२)
+            <br/>
+            पापकै कारणले नाश एक दिन हुन्छन् अनन्त मृत्यु र दण्ड भोग्नेछन् (२) 
+         </lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+             २. जब प्रभु आकाशबाट प्रकट हुनेछन् एक अद्भूत घटना घट्नेछन (२)
+            <br/>
+            तयार विश्वासी सब उठाइन्छन् मूर्ख, लापरवाह सब छोडिइनेछन् (२) 
+         </lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+             ३. संसारको माया डुब्दा–डुब्दै नै मृत्युले चुँडी लैजान्छ (२)
+            <br/>
+            दिलले चाहेको सब चीज छोडिन्छन् रित्तै हात लिई मृत्यु –घाट तर्छन् (२) 
+         </lines>
+      </verse>
+      <verse name="v4">
+         <lines>
+             ४. के तिमी चाहन्छौ सम्पत्ति, सामान ? स्वर्गीय ब्यांकमा राख्न थाल (२)
+            <br/>
+            परदेशी हौ तिमी कालो संसारमा, स्वदेशलाई सम्झी सङ्घर्ष गर (२) 
+         </lines>
+      </verse>
+      <verse name="v5">
+         <lines>
+             ५. नसम्झ आफूलाई यही संसारको, सतर्क बनी अलक रही (२)
+            <br/>
+            नत्र यस संसारमा सँगै न्यायमा पर्छौ अनन्त–अनन्तसम्म दार्‌हा किट्नेछौ (२)
+         </lines>
+      </verse>
+   </lyrics>
+</song>

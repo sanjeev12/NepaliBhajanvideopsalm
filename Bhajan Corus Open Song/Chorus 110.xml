@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-12T03:38:19">
+   <properties>
+      <titles>
+         <title>Chorus110 Yerushalemlai Pahadharule</title>
+      </titles>
+      <authors>
+         <author>Nepali Christain Bhajan</author>
+      </authors>
+      <songbooks>
+         <songbook name="bhajan" entry="1"/>
+      </songbooks>
+      <verseOrder/>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>
+            यरुशलेमलाई पहाड़हरूले घेरेझैँ
+            <br/>
+            प्रभु घेर्छन् आफ्ना मानिसहरूलाई 
+            <br/>
+             घेर्नुहोस् हामीलाई प्रभु (२)
+            <br/>
+            तपाईंको उपस्थितिमा ल्याई,
+            <br/>
+            घेर्नुहोस् हामीलाई प्रभु ।
+         </lines>
+      </verse>
+   </lyrics>
+</song>
